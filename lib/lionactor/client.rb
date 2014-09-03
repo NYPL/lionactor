@@ -10,9 +10,14 @@ module Lionactor
       end
     end
 
+    def location(loc)
+      resource = get_endpoint("locations/#{loc}")
+      Lionactor::Location.new(resource['location'], @client)
+    end
+
     protected
     def get_endpoint(path)
-      response = @conn.get(api_path("locations"))
+      response = @conn.get(api_path(path))
       JSON.parse response.body
     end
     
