@@ -5,7 +5,9 @@ module Lionactor
     end
 
     def locations
-      get_endpoint('locations')['locations']
+      get_endpoint('locations')['locations'].map do |loc|
+        Lionactor::Location.new(loc, @client)
+      end
     end
 
     protected
