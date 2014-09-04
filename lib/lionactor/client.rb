@@ -15,6 +15,17 @@ module Lionactor
       Lionactor::Location.new(resource['location'], @client)
     end
 
+    def divisions
+      get_endpoint('divisions')['divisions'].map do |div|
+        Lionactor::Division.new(div, @client)
+      end
+    end
+
+    def division(div)
+      resource = get_endpoint("divisions/#{div}")
+      Lionactor::Division.new(resource['division'], @client)
+    end
+
     protected
     def get_endpoint(path)
       response = @conn.get(api_path(path))
