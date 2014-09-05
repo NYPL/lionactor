@@ -26,5 +26,17 @@ describe Lionactor::Client do
       expect(loc).to be_an_instance_of(Lionactor::Location)
     end
   end
-      
+
+  describe "#locations" do 
+    before :each do
+      @r = double(Faraday::Response, :body => LOCATIONS, :headers => {})
+      allow_any_instance_of(Faraday::Connection).to receive(:get).
+        and_return(@r)
+    end
+    
+    it "returns an array of Location objects" do
+      locs = @client.locations
+      expect(locs.map{|l| l.class}.uniq).to eq [Lionactor::Location]
+    end
+  end
 end
