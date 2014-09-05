@@ -3,6 +3,7 @@ module Lionactor
     def initialize(data, client)
       super(data, client)
       @hours = nil
+      @amenities = nil
     end
 
     def phone
@@ -17,5 +18,17 @@ module Lionactor
       @hours
     end
 
+    def amenities
+      if @amenities.nil?
+        @amenities = {}
+        @data['_embedded']['amenities'].each do |cat|
+          @amenities[cat['name']] = cat['amenities'].map do |a|
+            Lionactor::Amenity.new(a)
+          end
+        end
+      end
+
+      @amenities
+    end
   end
 end    
