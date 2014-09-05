@@ -61,5 +61,21 @@ describe Lionactor::Location do
       expect(@loc.type).to eq "circulating"
     end      
   end
+
+  describe "#amenities" do
+    it "returns an hash" do
+      expect(@loc.amenities).to be_an_instance_of Hash
+    end
+
+    it "returns a hash of Arrays" do
+      expect(@loc.amenities.map{|a| a.class}.uniq).to eq [Array]
+    end
+
+    it "returns a hash of Arrays of Amenity objects" do
+      puts @loc.amenities.keys
+      expect(@loc.amenities['Computer Services'].map{|a| a.class}.uniq).to eq [Lionactor::Amenity]
+    end
+    
+  end
 end
  
