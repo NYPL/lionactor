@@ -39,4 +39,32 @@ describe Lionactor::Client do
       expect(locs.map{|l| l.class}.uniq).to eq [Lionactor::Location]
     end
   end
+
+  describe "#amenities" do
+    context "with no location specified" do
+      before :each do
+        @r = double(Faraday::Response, :body => AMENITIES, :headers => {})
+        allow_any_instance_of(Faraday::Connection).to receive(:get).
+          and_return(@r)
+      end
+      
+      it "returns an array of Amenities objects" do
+        locs = @client.amenities
+        expect(locs.map{|l| l.class}.uniq).to eq [Lionactor::Amenity]
+      end
+    end
+
+    context "with a location specified" do 
+      before :each do
+        @r = double(Faraday::Response, :body => AMENITIES_MML, :headers => {})
+        allow_any_instance_of(Faraday::Connection).to receive(:get).
+          and_return(@r)
+      end
+      
+      it "returns an array of Amenities objects" do
+        locs = @client.amenities("mml")
+        expect(locs.map{|l| l.class}.uniq).to eq [Lionactor::Amenity]
+      end
+    end
+  end
 end
