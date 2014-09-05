@@ -72,7 +72,6 @@ describe Lionactor::Location do
     end
 
     it "returns a hash of Arrays of Amenity objects" do
-      puts @loc.amenities.keys
       expect(@loc.amenities['Computer Services'].map{|a| a.class}.uniq).to eq [Lionactor::Amenity]
     end
     
