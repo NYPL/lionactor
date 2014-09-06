@@ -32,11 +32,15 @@ module Lionactor
     end
 
     def is_circulating?
-      return type == "circulating"
+      type == "circulating"
     end
 
     def is_research?
-      return type == "research"
+      type == "research"
+    end
+
+    def open?
+      return @data['open']
     end
   end
 end    

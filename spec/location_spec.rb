@@ -88,6 +88,12 @@ describe Lionactor::Location do
         expect(@loc.is_research?).to be false
       end
     end
+
+    describe "#open?" do
+      it "is true" do
+        expect(@loc.open?).to be true
+      end
+    end
   end
 
   context "With a research branch" do
