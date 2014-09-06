@@ -30,5 +30,13 @@ module Lionactor
 
       @amenities
     end
+
+    def is_circulating?
+      return type == "circulating"
+    end
+
+    def is_research?
+      return type == "research"
+    end
   end
 end    
