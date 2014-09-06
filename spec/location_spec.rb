@@ -94,6 +94,26 @@ describe Lionactor::Location do
         expect(@loc.open?).to be true
       end
     end
+
+    describe "#latitude" do
+      it "is a Float" do
+        expect(@loc.latitude).to be_a Float
+      end
+
+      it "is 40.7518" do
+        expect(@loc.latitude).to eq 40.7518
+      end
+    end
+
+    describe "#longitude" do
+      it "is a Float" do
+        expect(@loc.longitude).to be_a Float
+      end
+
+      it "is -73.9817" do
+        expect(@loc.longitude).to eq -73.9817
+      end
+    end
   end
 
   context "With a research branch" do
