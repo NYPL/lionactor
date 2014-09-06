@@ -40,7 +40,15 @@ module Lionactor
     end
 
     def open?
-      return @data['open']
+      @data['open']
+    end
+
+    def latitude
+      @data['geolocation']['coordinates'][1]
+    end
+
+    def longitude
+      @data['geolocation']['coordinates'][0]
     end
   end
 end    
