@@ -50,16 +50,22 @@ module Lionactor
   #   @return [String]
 
   class Location < Resource
+    # @param data [Hash] Parsed JSON data for the Location resource
+    # @param client [Client] The client that is creating the object
     def initialize(data, client)
       super(data, client)
       @hours = nil
       @amenities = nil
     end
 
+    # The main phone number for the location
+    # @return [String]
     def phone
       @data['contacts']['phone']
     end
 
+    # The location's regular operating hours
+    # @return [Hours]
     def hours
       if @hours.nil?
         @hours = Lionactor::Hours.new(@data['hours'])
@@ -84,22 +90,35 @@ module Lionactor
       @amenities
     end
 
+    # Whether or not the location is a circulating branch
+    # @see #type
+    # @return [Boolean]
     def is_circulating?
       type == "circulating"
     end
 
+    # Whether or not the location is a research center
+    # @see #type
+    # @return [Boolean]
     def is_research?
       type == "research"
     end
 
+    # Whether or not the location is open for regular hours, or closed 
+    # long-term for construction or any other reason.
+    # @return [Boolean]
     def open?
       @data['open']
     end
 
+    # The location's latitude.
+    # @return [Float]
     def latitude
       @data['geolocation']['coordinates'][1]
     end
 
+    # The location's longitude
+    # @return [Float]
     def longitude
       @data['geolocation']['coordinates'][0]
     end
