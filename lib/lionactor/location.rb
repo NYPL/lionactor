@@ -1,4 +1,54 @@
 module Lionactor
+  # A single location. Either a circulating branch or research library.
+  #
+  # @!method id
+  #  The location's id. This is an abbreviation, e.g., "SASB" for the Stephen A.  #  Schwarzman Building.
+  #  @return [String] 
+  #     
+  # @!method name
+  #   The location's name. E.g., "Stephen A. Schwarzman Building".
+  #   @return [String]
+  #
+  # @!method slug
+  #   A short version of the name for use in URLs. E.g "schwarzman" or 
+  #   "battery-park-city"
+  #   @return [String]
+  #
+  # @!method about
+  #   A brief description of the location.
+  #   @return [String] May contain HTML
+  #
+  # @!method access
+  #   The level of wheelchair accessibility of the location.
+  #   @return [String] One of three values "Fully Accessible", "Partially
+  #     Accessible", or "Not Accessible"
+  # 
+  # @!method street_address
+  #   The location's street address. E.g. "455 Fifth Avenue"
+  #   @return [String]
+  #
+  # @!method locality
+  #   The location's city. E.g. "New York"
+  #   @return [String]
+  #
+  # @!method state
+  #   The location's city. E.g. "NY"
+  #   @return [String]
+  #
+  # @!method postal_code
+  #   The location's postal (a.k.a. zip) code.
+  #   @return [String]
+  #
+  # @!method cross_street
+  #   The location's cross. E.g. "at 42nd Street".
+  #   @return [String]
+  #
+  # @!method type
+  #   Locations are either "circulating" or "research" branches. 
+  #   @see #is_circulating?
+  #   @see #is_research?
+  #   @return [String]
+
   class Location < Resource
     def initialize(data, client)
       super(data, client)
@@ -18,6 +68,9 @@ module Lionactor
       @hours
     end
 
+    # Returns amenities available at the location
+    # @return [Hash] A Hash in which the keys are amenity categories and the
+    #   values Arrays of {Lionactor::Amenity} objects
     def amenities
       if @amenities.nil?
         @amenities = {}
@@ -50,5 +103,7 @@ module Lionactor
     def longitude
       @data['geolocation']['coordinates'][0]
     end
+
+
   end
 end    
