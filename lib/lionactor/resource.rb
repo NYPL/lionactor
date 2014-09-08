@@ -1,6 +1,6 @@
 module Lionactor
   class Resource
-    def initialize(data, client)
+    def initialize(data, client=nil)
       @data = data
       @client = client
     end

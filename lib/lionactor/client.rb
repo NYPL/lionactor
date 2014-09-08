@@ -4,6 +4,18 @@ module Lionactor
       @conn = Faraday.new
     end
 
+    def amenities(loc = nil)
+      if loc.nil?
+        path = 'amenities'
+      else
+        path = "amenities/#{loc}"
+      end
+
+      get_endpoint('path')['amenities'].map do |a|
+        Lionactor::Amenity.new(a, @client)
+      end
+    end
+
     def locations
       get_endpoint('locations')['locations'].map do |loc|
         Lionactor::Location.new(loc, @client)
