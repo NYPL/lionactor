@@ -1,0 +1,466 @@
+{
+    "amenities": [
+        {
+            "amenities": [
+                {
+                    "_id": 7950, 
+                    "_links": {
+                        "action": {
+                            "href": "http://pcreserve.nypl.org/", 
+                            "name": "Reserve a PC"
+                        }, 
+                        "info": {
+                            "href": "help/computers-internet-and-wireless-access/reserving-computer"
+                        }, 
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7950"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Computer Services", 
+                    "location_rank": null, 
+                    "name": "Computers for Public Use", 
+                    "rank": 1, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7953, 
+                    "_links": {
+                        "action": {
+                            "href": "http://pcreserve.nypl.org/", 
+                            "name": "Reserve a Laptop"
+                        }, 
+                        "info": {
+                            "href": "help/computers-internet-and-wireless-access/reserving-computer"
+                        }, 
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7953"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Computer Services", 
+                    "location_rank": null, 
+                    "name": "Laptops for Public Use", 
+                    "rank": 2, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7954, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7954"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Computer Services", 
+                    "location_rank": null, 
+                    "name": "Printing (from PC)", 
+                    "rank": 3, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7952, 
+                    "_links": {
+                        "action": {
+                            "href": null, 
+                            "name": null
+                        }, 
+                        "info": {
+                            "href": "help/computers-internet-and-wireless-access/wireless-internet-access"
+                        }, 
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7952"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Computer Services", 
+                    "location_rank": null, 
+                    "name": "Wireless Internet Access", 
+                    "rank": 4, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7955, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7955"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Computer Services", 
+                    "location_rank": null, 
+                    "name": "Electric outlets available", 
+                    "rank": 5, 
+                    "staff_assistance": false
+                }
+            ], 
+            "name": "Computer Services"
+        }, 
+        {
+            "amenities": [
+                {
+                    "_id": 7956, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7956"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Circulation", 
+                    "location_rank": null, 
+                    "name": "Inter-Library Loan", 
+                    "rank": 6, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7957, 
+                    "_links": {
+                        "action": {
+                            "href": null, 
+                            "name": null
+                        }, 
+                        "info": {
+                            "href": "help/borrowing-materials"
+                        }, 
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7957"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Circulation", 
+                    "location_rank": null, 
+                    "name": "Self-service check-out", 
+                    "rank": 7, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7951, 
+                    "_links": {
+                        "action": {
+                            "href": null, 
+                            "name": null
+                        }, 
+                        "info": {
+                            "href": "help/borrowing-materials/book-drops"
+                        }, 
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7951"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Circulation", 
+                    "location_rank": null, 
+                    "name": "Book drop box (24 hour)", 
+                    "rank": 8, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7958, 
+                    "_links": {
+                        "action": {
+                            "href": null, 
+                            "name": null
+                        }, 
+                        "info": {
+                            "href": "help/borrowing-materials/book-drops"
+                        }, 
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7958"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Circulation", 
+                    "location_rank": null, 
+                    "name": "Book drop box (limited hours)", 
+                    "rank": 9, 
+                    "staff_assistance": false
+                }
+            ], 
+            "name": "Circulation"
+        }, 
+        {
+            "amenities": [
+                {
+                    "_id": 7961, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7961"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Office Services", 
+                    "location_rank": null, 
+                    "name": "Photocopiers (black/white)", 
+                    "rank": 12, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7962, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7962"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Office Services", 
+                    "location_rank": null, 
+                    "name": "Photocopiers (color)", 
+                    "rank": 13, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7964, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7964"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Office Services", 
+                    "location_rank": null, 
+                    "name": "Map photocopiers (up to 36\" wide)", 
+                    "rank": 15, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7965, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7965"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Office Services", 
+                    "location_rank": null, 
+                    "name": "Change machine", 
+                    "rank": 16, 
+                    "staff_assistance": false
+                }
+            ], 
+            "name": "Office Services"
+        }, 
+        {
+            "amenities": [
+                {
+                    "_id": 7966, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7966"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Facilities", 
+                    "location_rank": null, 
+                    "name": "Public Restrooms", 
+                    "rank": 17, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7967, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7967"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Facilities", 
+                    "location_rank": null, 
+                    "name": "Children's Only Restrooms", 
+                    "rank": 18, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7968, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7968"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Facilities", 
+                    "location_rank": null, 
+                    "name": "Research Study Rooms", 
+                    "rank": 19, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7970, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7970"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Facilities", 
+                    "location_rank": null, 
+                    "name": "Lost and found", 
+                    "rank": 21, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7971, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7971"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Facilities", 
+                    "location_rank": null, 
+                    "name": "Bicycle Rack", 
+                    "rank": 22, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7972, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7972"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Facilities", 
+                    "location_rank": null, 
+                    "name": "Checkroom Service", 
+                    "rank": 23, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7973, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7973"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Facilities", 
+                    "location_rank": null, 
+                    "name": "Payphones", 
+                    "rank": 24, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7975, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7975"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Facilities", 
+                    "location_rank": null, 
+                    "name": "Water fountain", 
+                    "rank": 26, 
+                    "staff_assistance": false
+                }
+            ], 
+            "name": "Facilities"
+        }, 
+        {
+            "amenities": [
+                {
+                    "_id": 7976, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7976"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Assistive Technologies", 
+                    "location_rank": null, 
+                    "name": "Screen magnification software (MAGic)", 
+                    "rank": 27, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7977, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7977"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Assistive Technologies", 
+                    "location_rank": null, 
+                    "name": "Screen reading software (JAWS)", 
+                    "rank": 28, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7978, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7978"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Assistive Technologies", 
+                    "location_rank": null, 
+                    "name": "Closed-Circuit Television Enlargers (CCTVs)", 
+                    "rank": 29, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7979, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7979"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Assistive Technologies", 
+                    "location_rank": null, 
+                    "name": "Scanner/Reading Machines", 
+                    "rank": 30, 
+                    "staff_assistance": false
+                }, 
+                {
+                    "_id": 7986, 
+                    "_links": {
+                        "self": {
+                            "href": "http://locations-api-beta.nypl.org/amenities/7986"
+                        }
+                    }, 
+                    "accessibility_note": null, 
+                    "accessible": true, 
+                    "category": "Assistive Technologies", 
+                    "location_rank": null, 
+                    "name": "Telecommunications Devices for the Deaf (TTYs)", 
+                    "rank": 37, 
+                    "staff_assistance": false
+                }
+            ], 
+            "name": "Assistive Technologies"
+        }
+    ], 
+    "response": {
+        "count": 26, 
+        "limit": 26, 
+        "offset": 0
+    }
+}
