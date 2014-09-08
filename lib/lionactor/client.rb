@@ -11,7 +11,7 @@ module Lionactor
         path = "amenities/#{loc}"
       end
 
-      get_endpoint('path')['amenities'].map do |a|
+      get_endpoint(path)['amenities'].map do |a|
         Lionactor::Amenity.new(a, @client)
       end
     end
@@ -40,6 +40,7 @@ module Lionactor
 
     protected
     def get_endpoint(path)
+      puts api_path(path)
       response = @conn.get(api_path(path))
       JSON.parse response.body
     end
