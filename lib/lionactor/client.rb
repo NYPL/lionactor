@@ -16,6 +16,17 @@ module Lionactor
       end
     end
 
+    def amenity(id)
+      path = "amenities/#{id}"
+      resource = get_endpoint(path)
+      amenity = Lionactor::Amenity.new(resource['amenity'], @client)
+      locations = resource['locations'].map do |l|
+        Lionactor::Location.new(l, @client)
+      end
+      amenity.set_locations(locations)
+      return amenity
+    end
+
     def locations
       get_endpoint('locations')['locations'].map do |loc|
         Lionactor::Location.new(loc, @client)
