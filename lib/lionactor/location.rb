@@ -82,7 +82,7 @@ module Lionactor
         @amenities = {}
         @data['_embedded']['amenities'].each do |cat|
           @amenities[cat['name']] = cat['amenities'].map do |a|
-            Lionactor::Amenity.new(a)
+            Lionactor::Amenity.new(a, @client)
           end
         end
       end
