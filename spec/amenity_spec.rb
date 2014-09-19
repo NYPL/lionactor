@@ -3,7 +3,7 @@ require "spec_helper"
 describe Lionactor::Amenity do
   before :each do
     data = JSON.parse(AMENITIES_MML)["amenities"].first['amenities'].first
-    @amenity = Lionactor::Amenity.new(data)
+    @amenity = Lionactor::Amenity.new(data, nil)
   end
 
   it "has a name" do
