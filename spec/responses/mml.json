@@ -65,192 +65,19 @@
                                     "name": "Reserve a PC"
                                 },
                                 "info": {
-                                    "href": "help/computers-internet-and-wireless-access/reserving-computer"
+                                    "href": "http://www.nypl.org/help/computers-internet-and-wireless-access/reserving-computer"
                                 },
-                                "self": {
-                                    "href": "http://locations-api-beta.nypl.org/amenities/7950"
-                                }
-                            },
-                            "accessibility_note": null,
-                            "accessible": true,
-                            "category": "Computer Services",
-                            "id": 7950,
-                            "location_rank": 1,
-                            "name": "Computers for Public Use",
-                            "rank": 1,
-                            "staff_assistance": null
-                        },
-                        {
-                            "_links": {
-                                "action": {
-                                    "href": "http://pcreserve.nypl.org/",
-                                    "name": "Reserve a Laptop"
-                                },
-                                "info": {
-                                    "href": "help/computers-internet-and-wireless-access/reserving-computer"
-                                },
-                                "self": {
-                                    "href": "http://locations-api-beta.nypl.org/amenities/7953"
-                                }
-                            },
-                            "accessibility_note": null,
-                            "accessible": true,
-                            "category": "Computer Services",
-                            "id": 7953,
-                            "location_rank": 5,
-                            "name": "Laptops for Public Use",
-                            "rank": 2,
-                            "staff_assistance": null
-                        },
-                        {
-                            "_links": {
-                                "self": {
-                                    "href": "http://locations-api-beta.nypl.org/amenities/7954"
-                                }
-                            },
-                            "accessibility_note": null,
-                            "accessible": true,
-                            "category": "Computer Services",
-                            "id": 7954,
-                            "location_rank": 6,
-                            "name": "Printing (from PC)",
-                            "rank": 3,
-                            "staff_assistance": null
-                        },
-                        {
-                            "_links": {
-                                "action": {
-                                    "href": null,
-                                    "name": null
-                                },
-                                "info": {
-                                    "href": "help/computers-internet-and-wireless-access/wireless-internet-access"
-                                },
-                                "self": {
-                                    "href": "http://locations-api-beta.nypl.org/amenities/7952"
-                                }
-                            },
-                            "accessibility_note": null,
-                            "accessible": true,
-                            "category": "Computer Services",
-                            "id": 7952,
-                            "location_rank": 7,
-                            "name": "Wireless Internet Access",
-                            "rank": 4,
-                            "staff_assistance": null
-                        },
-                        {
-                            "_links": {
-                                "self": {
-                                    "href": "http://locations-api-beta.nypl.org/amenities/7955"
-                                }
-                            },
-                            "accessibility_note": null,
-                            "accessible": true,
-                            "category": "Computer Services",
-                            "id": 7955,
-                            "location_rank": 8,
-                            "name": "Electric outlets available",
-                            "rank": 5,
-                            "staff_assistance": null
-                        }
-                    ],
-                    "name": "Computer Services"
-                },
-                {
-                    "amenities": [
-                        {
-                            "_links": {
-                                "action": {
-                                    "href": null,
-                                    "name": null
-                                },
-                                "info": {
-                                    "href": "help/borrowing-materials/book-drops"
-                                },
-                                "self": {
-                                    "href": "http://locations-api-beta.nypl.org/amenities/7951"
-                                }
-                            },
-                            "accessibility_note": null,
-                            "accessible": true,
-                            "category": "Circulation",
-                            "id": 7951,
-                            "location_rank": 2,
-                            "name": "Book drop box (24 hour)",
-                            "rank": 8,
-                            "staff_assistance": null
-                        },
-                        {
-                            "_links": {
-                                "action": {
-                                    "href": null,
-                                    "name": null
-                                },
-                                "info": {
-                                    "href": "help/borrowing-materials"
-                                },
-                                "self": {
-                                    "href": "http://locations-api-beta.nypl.org/amenities/7957"
-                                }
-                            },
-                            "accessibility_note": null,
-                            "accessible": true,
-                            "category": "Circulation",
-                            "id": 7957,
-                            "location_rank": 9,
-                            "name": "Self-service check-out",
-                            "rank": 7,
-                            "staff_assistance": null
-                        },
-                        {
-                            "_links": {
-                                "self": {
-                                    "href": "http://locations-api-beta.nypl.org/amenities/7956"
-                                }
-                            },
-                            "accessibility_note": null,
-                            "accessible": true,
-                            "category": "Circulation",
-                            "id": 7956,
-                            "location_rank": 13,
-                            "name": "Inter-Library Loan",
-                            "rank": 6,
-                            "staff_assistance": null
-                        }
-                    ],
-                    "name": "Circulation"
-                },
-                {
-                    "amenities": [
-                        {
-                            "_links": {
-                                "self": {
-                                    "href": "http://locations-api-beta.nypl.org/amenities/7961"
-                                }
-                            },
-                            "accessibility_note": null,
-                            "accessible": true,
-                            "category": "Office Services",
-                            "id": 7961,
-                            "location_rank": 10,
-                            "name": "Photocopiers (black/white)",
-                            "rank": 12,
-                            "staff_assistance": null
-                        },
-                        {
-                            "_links": {
                                 "self": {
                                     "href": "http://locations-api-beta.nypl.org/amenities/7964"
                                 }
                             },
                             "accessibility_note": null,
                             "accessible": true,
-                            "category": "Office Services",
+                            "category": "Computer Services",
                             "id": 7964,
-                            "location_rank": 11,
-                            "name": "Map photocopiers (up to 36\" wide)",
-                            "rank": 15,
+                            "location_rank": 1,
+                            "name": "Computers for Public Use",
+                            "rank": 1,
                             "staff_assistance": null
                         },
                         {
@@ -261,33 +88,70 @@
                             },
                             "accessibility_note": null,
                             "accessible": true,
-                            "category": "Office Services",
+                            "category": "Computer Services",
                             "id": 7965,
-                            "location_rank": 12,
-                            "name": "Change machine",
-                            "rank": 16,
+                            "location_rank": 2,
+                            "name": "Laptops for Public Use",
+                            "rank": 20,
                             "staff_assistance": null
-                        }
-                    ],
-                    "name": "Office Services"
-                },
-                {
-                    "amenities": [
+                        },
                         {
                             "_links": {
                                 "self": {
-                                    "href": "http://locations-api-beta.nypl.org/amenities/7971"
+                                    "href": "http://locations-api-beta.nypl.org/amenities/7966"
                                 }
                             },
                             "accessibility_note": null,
                             "accessible": true,
-                            "category": "Facilities",
-                            "id": 7971,
+                            "category": "Computer Services",
+                            "id": 7966,
                             "location_rank": 3,
-                            "name": "Bicycle Rack",
-                            "rank": 22,
+                            "name": "Printing (from PC)",
+                            "rank": 11,
                             "staff_assistance": null
                         },
+                        {
+                            "_links": {
+                                "action": {
+                                    "href": null,
+                                    "name": null
+                                },
+                                "info": {
+                                    "href": "http://www.nypl.org/help/computers-internet-and-wireless-access/wireless-internet-access"
+                                },
+                                "self": {
+                                    "href": "http://locations-api-beta.nypl.org/amenities/7967"
+                                }
+                            },
+                            "accessibility_note": null,
+                            "accessible": true,
+                            "category": "Computer Services",
+                            "id": 7967,
+                            "location_rank": 4,
+                            "name": "Wireless Internet Access",
+                            "rank": 2,
+                            "staff_assistance": null
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "http://locations-api-beta.nypl.org/amenities/7968"
+                                }
+                            },
+                            "accessibility_note": null,
+                            "accessible": true,
+                            "category": "Computer Services",
+                            "id": 7968,
+                            "location_rank": 5,
+                            "name": "Electric outlets available",
+                            "rank": 33,
+                            "staff_assistance": null
+                        }
+                    ],
+                    "name": "Computer Services"
+                },
+                {
+                    "amenities": [
                         {
                             "_links": {
                                 "self": {
@@ -296,13 +160,33 @@
                             },
                             "accessibility_note": null,
                             "accessible": true,
-                            "category": "Facilities",
+                            "category": "Circulation",
                             "id": 7970,
-                            "location_rank": 4,
-                            "name": "Lost and found",
-                            "rank": 21,
+                            "location_rank": 6,
+                            "name": "Self-service check-out",
+                            "rank": 4,
                             "staff_assistance": null
                         },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "http://locations-api-beta.nypl.org/amenities/7972"
+                                }
+                            },
+                            "accessibility_note": null,
+                            "accessible": true,
+                            "category": "Circulation",
+                            "id": 7972,
+                            "location_rank": 7,
+                            "name": "Book drop box (limited hours)",
+                            "rank": 21,
+                            "staff_assistance": null
+                        }
+                    ],
+                    "name": "Circulation"
+                },
+                {
+                    "amenities": [
                         {
                             "_links": {
                                 "self": {
@@ -311,11 +195,76 @@
                             },
                             "accessibility_note": null,
                             "accessible": true,
-                            "category": "Facilities",
+                            "category": "Printing and Copy Services",
                             "id": 7975,
+                            "location_rank": 8,
+                            "name": "Photocopiers (black/white)",
+                            "rank": 5,
+                            "staff_assistance": null
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "http://locations-api-beta.nypl.org/amenities/7976"
+                                }
+                            },
+                            "accessibility_note": null,
+                            "accessible": true,
+                            "category": "Printing and Copy Services",
+                            "id": 7976,
+                            "location_rank": 9,
+                            "name": "Photocopiers (color)",
+                            "rank": 6,
+                            "staff_assistance": null
+                        }
+                    ],
+                    "name": "Printing and Copy Services"
+                },
+                {
+                    "amenities": [
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "http://locations-api-beta.nypl.org/amenities/7987"
+                                }
+                            },
+                            "accessibility_note": null,
+                            "accessible": true,
+                            "category": "Facilities",
+                            "id": 7987,
+                            "location_rank": 13,
+                            "name": "Payphones",
+                            "rank": 13,
+                            "staff_assistance": null
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "http://locations-api-beta.nypl.org/amenities/7989"
+                                }
+                            },
+                            "accessibility_note": null,
+                            "accessible": true,
+                            "category": "Facilities",
+                            "id": 7989,
                             "location_rank": 14,
                             "name": "Water fountain",
-                            "rank": 26,
+                            "rank": 14,
+                            "staff_assistance": null
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "http://locations-api-beta.nypl.org/amenities/7984"
+                                }
+                            },
+                            "accessibility_note": null,
+                            "accessible": true,
+                            "category": "Facilities",
+                            "id": 7984,
+                            "location_rank": 12,
+                            "name": "Lost and found",
+                            "rank": 28,
                             "staff_assistance": null
                         }
                     ],
@@ -325,17 +274,83 @@
                     "amenities": [
                         {
                             "_links": {
+                                "action": {
+                                    "href": null,
+                                    "name": null
+                                },
+                                "info": {
+                                    "href": "http://www.nypl.org/help/community-outreach/services-for-persons-with-disabilities/assistive-technologies/software"
+                                },
                                 "self": {
-                                    "href": "http://locations-api-beta.nypl.org/amenities/7976"
+                                    "href": "http://locations-api-beta.nypl.org/amenities/7990"
                                 }
                             },
                             "accessibility_note": null,
                             "accessible": true,
                             "category": "Assistive Technologies",
-                            "id": 7976,
+                            "id": 7990,
                             "location_rank": 15,
                             "name": "Screen magnification software (MAGic)",
+                            "rank": 17,
+                            "staff_assistance": null
+                        },
+                        {
+                            "_links": {
+                                "action": {
+                                    "href": null,
+                                    "name": null
+                                },
+                                "info": {
+                                    "href": "http://www.nypl.org/help/community-outreach/services-for-persons-with-disabilities/assistive-technologies/software"
+                                },
+                                "self": {
+                                    "href": "http://locations-api-beta.nypl.org/amenities/7991"
+                                }
+                            },
+                            "accessibility_note": null,
+                            "accessible": true,
+                            "category": "Assistive Technologies",
+                            "id": 7991,
+                            "location_rank": 16,
+                            "name": "Screen reading software (JAWS)",
+                            "rank": 18,
+                            "staff_assistance": null
+                        },
+                        {
+                            "_links": {
+                                "self": {
+                                    "href": "http://locations-api-beta.nypl.org/amenities/7993"
+                                }
+                            },
+                            "accessibility_note": null,
+                            "accessible": true,
+                            "category": "Assistive Technologies",
+                            "id": 7993,
+                            "location_rank": 17,
+                            "name": "Scanner/Reading Machines",
                             "rank": 27,
+                            "staff_assistance": null
+                        },
+                        {
+                            "_links": {
+                                "action": {
+                                    "href": null,
+                                    "name": null
+                                },
+                                "info": {
+                                    "href": "http://www.nypl.org/help/community-outreach/services-for-persons-with-disabilities/assistive-technologies/other-assistive-technologies"
+                                },
+                                "self": {
+                                    "href": "http://locations-api-beta.nypl.org/amenities/7999"
+                                }
+                            },
+                            "accessibility_note": null,
+                            "accessible": true,
+                            "category": "Assistive Technologies",
+                            "id": 7999,
+                            "location_rank": 18,
+                            "name": "Assistive Amplification Systems",
+                            "rank": 31,
                             "staff_assistance": null
                         }
                     ],
@@ -346,58 +361,7 @@
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/blog/2014/07/25/better-late-never"
-                        }
-                    },
-                    "author": {
-                        "location": "Mid-Manhattan Library, Art and Picture Collections",
-                        "name": "Billy Parrott",
-                        "position": "Managing Librarian"
-                    },
-                    "body": "A recent Mental Floss article about overdue library books reminded me of a book the Mid-Manhattan Library received in the mail last year. It was mailed from Arizona. It was overdue. Its due date: August 17, 1959.",
-                    "id": 213572,
-                    "image": "http://www.nypl.org/sites/default/files/images/ideal_marriage.jpg",
-                    "pubdate": "2014-07-25T15:04:13Z",
-                    "title": "Better Late Than Never"
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2014/03/19/story-time-grown-ups-lady-or-tiger"
-                        }
-                    },
-                    "author": {
-                        "location": "Mid-Manhattan Library",
-                        "name": "Lois Moore",
-                        "position": "Senior Librarian"
-                    },
-                    "body": "Listen to librarian Lois Moore read the short story aloud.",
-                    "id": 244776,
-                    "image": "https://www.nypl.org/sites/default/files/the_lady_or_the_tiger_by_satinribbon-d5079q4_2.jpg",
-                    "pubdate": "2014-03-19T17:14:31Z",
-                    "title": "Story Time for Grown-Ups: \"The Lady or the Tiger?\" by Frank R. Stockton"
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2014/03/04/march-author-library-programs-mml"
-                        }
-                    },
-                    "author": {
-                        "location": "Mid-Manhattan Library",
-                        "name": "Elizabeth Waters",
-                        "position": null
-                    },
-                    "body": "A new approach to health care reform ... 20 years of Harlem Street Portraits ... humanist architecture ... The Extreme Life of the Sea ... New York City's unbuilt subways ... mothers ... the power of storytelling ... a century of candy ... New York's lost amusement parks ... the public library ... 11 missing men of WWII ... great city planning.",
-                    "id": 246125,
-                    "image": "https://www.nypl.org/sites/default/files/March%20collage%201.jpg",
-                    "pubdate": "2014-03-04T20:44:36Z",
-                    "title": "March Author @ the Library Programs at Mid-Manhattan"
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2014/02/25/road-wrestlemania"
+                            "href": "http://www.nypl.org/blog/2014/09/10/mad-world-interview-lori-majewski"
                         }
                     },
                     "author": {
@@ -405,16 +369,16 @@
                         "name": "Dana Sagona",
                         "position": null
                     },
-                    "body": "Wrestlemania 30 is only 41 days away. Wrestling fans are currently in the thick of what is commonly referred to as \"the Road to Wrestlemania.\" This is hands down the most exciting time of the year for us. Were you aware of the large collection of WWE DVDs the library carries? NYPL has the tools you need to properly celebrate the season, and here are some highlights:",
-                    "id": 246678,
-                    "image": "http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=NYPL49807&password=CC68707&Value=651191950966&content=M&Return=1&Type=M",
-                    "pubdate": "2014-02-25T15:20:07Z",
-                    "title": "The Road to Wrestlemania"
+                    "body": "Majewski's illustrated lecture brought together an eclectic crowd: hardcore new wavers, music industry insiders, as well as those with just a casual interest. Her enthusiasm rekindled my new wave appreciation, and I had some follow-up questions about Mad World and beyond.",
+                    "id": 271747,
+                    "image": "http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=NYPL49807&password=CC68707&Value=9781419710971&content=M&Return=1&Type=M",
+                    "pubdate": "2014-09-10T17:39:10Z",
+                    "title": "Author Lori Majewski Takes Us Into a \"Mad World\" of '80s New Wave"
                 },
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/blog/2014/02/24/to-brie-or-not-to-brie"
+                            "href": "http://www.nypl.org/blog/2014/09/10/little-orphant-annie-james-whitcomb-riley"
                         }
                     },
                     "author": {
@@ -422,28 +386,79 @@
                         "name": "Lois Moore",
                         "position": "Senior Librarian"
                     },
-                    "body": "Recently I had occasion to spend a lot of time in the Mystery section on the second floor at the Mid-Manhattan Library. After looking at many, many titles there, I noticed a plethora of puns.",
-                    "id": 246610,
-                    "image": "https://www.nypl.org/sites/default/files/tobrie.jpg",
-                    "pubdate": "2014-02-24T16:00:29Z",
-                    "title": "To Brie or Not to Brie... What's the Question?"
+                    "body": "Hoosier poet James Whitcomb Riley reminds all of us children to beware of goblins.",
+                    "id": 269770,
+                    "image": "http://images.nypl.org/index.php?id=2006225&t=w",
+                    "pubdate": "2014-09-10T17:20:12Z",
+                    "title": "Little Orphant Annie by James Whitcomb Riley"
                 },
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/blog/2014/02/21/ping-pong-diplomacy"
+                            "href": "http://www.nypl.org/blog/2014/09/05/john-waters-book-list"
                         }
                     },
                     "author": {
-                        "location": "Chatham Square Branch",
-                        "name": "Qi Wu",
+                        "location": "Mid-Manhattan Library",
+                        "name": "Nancy Aravecz",
                         "position": null
                     },
-                    "body": "Griffin, Nicholas. Ping-pong diplomacy: the secret history behind the game that changed the world. Scribner, c2014.\u4e52\u4e53\u7403\u6b77\u53f2\u9019\u984c\u76ee\u672c\u8eab\u5c31\u662f\u500b\u51b7\u9580",
-                    "id": 246711,
-                    "image": "http://www.washingtonpost.com/rf/image_296w/2010-2019/WashingtonPost/2014/01/18/Outlook/Images/9781451642773_p0_v3_s260x4201390083301.jpg",
-                    "pubdate": "2014-02-21T17:25:25Z",
-                    "title": "\u4e52\u4e53\u5916\u4ea4 P\u012bng P\u0101ng W\u00e0i Ji\u0101o == Ping-Pong Diplomacy"
+                    "body": "From September 5-14, fans of John Waters can enjoy a retrospective of his film career, courtesy of the Film Society of Lincoln Center. \"50 Years of John Waters: How Much Can you Take?\" will showcase 12 of the \"Pope of Trash\"'s most influential films. Here are some books to read before or after taking in the series.",
+                    "id": 270739,
+                    "image": "http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=NYPL49807&password=CC68707&Value=9780374251475&content=M&Return=1&Type=M",
+                    "pubdate": "2014-09-05T16:14:41Z",
+                    "title": "Celebrating 50 Trashy Years of John Waters"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/blog/2014/09/04/various-small-books-ed-ruscha"
+                        }
+                    },
+                    "author": {
+                        "location": "Mid-Manhattan Library, Art and Picture Collections",
+                        "name": "Jessica Cline",
+                        "position": null
+                    },
+                    "body": "In plain sight, but overlooked, the gas station excites interest in Ruscha (p. 21), but also serves as a document of the everyday world that co-exists with our routine and triggers our nostalgia as we see it change over time.",
+                    "id": 271229,
+                    "image": "http://imagesa.btol.com/ContentCafe/Jacket.aspx?UserID=ContentCafeClient&Password=Client&Return=T&Type=L&Value=9780262018777",
+                    "pubdate": "2014-09-04T16:03:00Z",
+                    "title": "Art Books: Various Small Books: Referencing Various Small Books By Ed Ruscha"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/blog/2014/08/27/kitty-genovese-author-kevin-cook"
+                        }
+                    },
+                    "author": {
+                        "location": "Mid-Manhattan Library",
+                        "name": "Lori Salmon",
+                        "position": null
+                    },
+                    "body": "Maybe because Kitty Genovese's story conjures up questions of how crimes are committed, and the emotional struggles we live with from such events, this story hasn t quite come to an end even after fifty years. We talked to the author of a new book about the famous murder.",
+                    "id": 270272,
+                    "image": "http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=NYPL49807&password=CC68707&Value=9780393239287&content=M&Return=1&Type=M",
+                    "pubdate": "2014-08-27T16:01:23Z",
+                    "title": "Kitty Genovese: The Girl Next Door That Everyone Knew"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/blog/2014/08/22/travels-armchair-detective-mysteries"
+                        }
+                    },
+                    "author": {
+                        "location": "Mid-Manhattan Library",
+                        "name": "Elizabeth Waters",
+                        "position": null
+                    },
+                    "body": "Summer's almost gone, and I haven t been able to travel very far out of the city, so I ve been doing the next best thing, vicariously experiencing far flung locales, and occasionally time periods, in the company of some of my favorite sleuths. Enjoy visiting these detectives' beats from your couch, in the park, on a beach, on the subway, or anywhere else you like to read.",
+                    "id": 268753,
+                    "image": "http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=NYPL49807&password=CC68707&Value=0307271463&content=M&Return=1&Type=M",
+                    "pubdate": "2014-08-22T21:25:45Z",
+                    "title": "Travels as an Armchair Detective: Mysteries with a Sense of Place"
                 }
             ],
             "divisions": null,
@@ -451,104 +466,169 @@
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2014/09/04/seriously-not-all-right-five-wars-ten-years"
+                            "href": "http://www.nypl.org/events/programs/2014/09/21/petrified-forest-dvd-black-and-white-82-minutes-1936-warner-bros-directed"
                         }
                     },
-                    "body": "This lecture presents a work that is part military and diplomatic memoir, and part story of personal redemption and service after service. His story, and that of his recovery, is a sobering reminder of the cost of all wars, even those that appeared in the media and to the general public as mere sidelines in the unfolding drama of world events. As both a senior military intelligence officer for the Army and as an observer for the U.S.",
-                    "end": "2014-09-04T22:30:00Z",
-                    "id": 261375,
+                    "body": "A waitress, a hobo and a bank robber get mixed up at a lonely diner in the desert.",
+                    "end": "2014-09-21T20:00:00Z",
+                    "id": 260634,
                     "image": null,
                     "registration": null,
-                    "start": "2014-09-04T22:30:00Z",
-                    "title": "Seriously Not All Right : Five Wars in Ten Years, with Ron Capps, the founder and director of the Veterans Writing Project."
+                    "start": "2014-09-21T18:00:00Z",
+                    "title": "\"Petrified Forest\" DVD, Black and White; 82 minutes, 1936, Warner Bros, Directed by: Archie Mayo Starring: Bette Davis, Leslie Howard, and Humphrey Bogart"
                 },
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2014/09/07/girl-10th-avenue-dvd-black-and-white-69-minutes-1935-warner-bros-directed"
+                            "href": "http://www.nypl.org/events/programs/2014/09/22/pages-mac"
                         }
                     },
-                    "body": "When his fianc\u00e9e Valentine dumps him, prominent lawyer Geoffrey Sherwood goes on a bender and winds up married to a stranger, Miriam Brady. They decide to give their marriage a chance.",
-                    "end": "2014-09-07T20:00:00Z",
-                    "id": 260609,
-                    "image": null,
-                    "registration": null,
-                    "start": "2014-09-07T18:00:00Z",
-                    "title": "\"The Girl from 10th Avenue\" DVD, Black and White; 69 minutes, 1935, Warner Bros, Directed by: Alfred E. Green Starring: Bette Davis, Ian Hunter, and Colin Clive"
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/events/programs/2014/09/08/mother-court-tales-cases-mattered-americas-greatest-trial-court-james"
-                        }
-                    },
-                    "body": "This talk chronicles the history of the US District Court for the Southern District of New York, the most influential District court in the United States, from the perspective of a practicing attorney, who has argued many cases before some of its most esteemed judges.",
-                    "end": "2014-09-08T22:30:00Z",
-                    "id": 262085,
-                    "image": null,
-                    "registration": null,
-                    "start": "2014-09-08T22:30:00Z",
-                    "title": "The Mother Court: Tales of Cases that Mattered in America's Greatest Trial Court, with James D. Zirin, an American lawyer, writer and cable TV talk show host, who is currently Senior Counsel in the New York office of the law firm Sidley Austin LLP."
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/events/programs/2014/09/09/battle-ground-zero-inside-political-struggle-rebuild-world-trade-center"
-                        }
-                    },
-                    "body": "This illustrated lecture explores the rebuilding of the World Trade Center site and the controversies that embroiled it, robbing the country of the closure it so desperately sought.",
-                    "end": "2014-09-09T22:30:00Z",
-                    "id": 253414,
-                    "image": null,
-                    "registration": null,
-                    "start": "2014-09-09T22:30:00Z",
-                    "title": "Battle For Ground Zero: Inside the Political Struggle To Rebuild the World Trade Center, with Elizabeth Greenspan, writer and urban anthropologist currently teaching at Harvard University."
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/events/programs/2014/09/02/basic-chinese-conversation-level-i"
-                        }
-                    },
-                    "body": "Learn basic Mandarin Chinese! No prior experience with the Chinese language required. Learn using the Mango Languages database on the New York Public Library website. First session: Introduction and orientation to the Mango Languages program. In the following sessions the native speaking instructor reinforces and practices material covered in the Mango lessons. Accurate pronunciation is emphasized.",
-                    "end": "2014-09-09T23:30:00Z",
-                    "id": 265327,
+                    "body": "Get acquainted with Apple's powerful word processor that gives you everything you need to create documents that look beautiful, read beautifully, and let you work seamlessly between Mac and iOS devices, as well as with colleagues, friends, and family who use Microsoft Word.",
+                    "end": "2014-09-22T16:30:00Z",
+                    "id": 272313,
                     "image": null,
                     "registration": {
                         "open": null,
                         "start": null,
                         "type": "First come, first served"
                     },
-                    "start": "2014-09-09T22:30:00Z",
-                    "title": "Basic Chinese Conversation - Level I"
+                    "start": "2014-09-22T14:30:00Z",
+                    "title": "Pages for Mac"
                 },
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2014/09/10/story-time-grown-ups-featured-author-gabriel-garc\u00eda-m\u00e1rquez"
+                            "href": "http://www.nypl.org/events/programs/2014/09/22/saving-and-recovering-data"
                         }
                     },
-                    "body": "Love a good story? Sit back and relax as we read you a story or two! September 2014 Featured Author Gabriel Garc\u00eda M\u00e1rquez Wednesday, September 10, 1:00 pm Monday, September 15, 7:00 pm",
-                    "end": "2014-09-10T17:45:00Z",
-                    "id": 265046,
+                    "body": "Learn about the various types and components of computers, including basic computer terminology, an overview of operating systems, and popular software applications.",
+                    "end": "2014-09-22T20:30:00Z",
+                    "id": 269542,
+                    "image": null,
+                    "registration": {
+                        "open": null,
+                        "start": null,
+                        "type": "Online"
+                    },
+                    "start": "2014-09-22T18:30:00Z",
+                    "title": "Saving and Recovering Data"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/events/programs/2014/09/22/open-lab-50"
+                        }
+                    },
+                    "body": "Are you having trouble with your email? Don't know how to cut and paste? Curious about Twitter? Bring your technology questions and get one-on-one assistance!",
+                    "end": "2014-09-22T22:15:00Z",
+                    "id": 269545,
+                    "image": null,
+                    "registration": {
+                        "open": null,
+                        "start": null,
+                        "type": "Online"
+                    },
+                    "start": "2014-09-22T21:15:00Z",
+                    "title": "Open Lab for the 50+"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/events/programs/2014/09/22/\u00e9chos-fran\u00e7ais"
+                        }
+                    },
+                    "body": "LEARN FRENCH THROUGH DRAMATIC TECHNIQUES Come and learn or practice French through a method that offers a wide spectrum of linguistic discoveries, interactive communication and unique personal expression. It uses literature and theater to introduce a bilingual dynamic, by immersion one of the primary teaching and learning strategies. Method: Language learning through literature with theater as a bridge. Particular Approach:",
+                    "end": "2014-09-22T22:00:00Z",
+                    "id": 271769,
+                    "image": null,
+                    "registration": {
+                        "open": null,
+                        "start": null,
+                        "type": "First come, first served"
+                    },
+                    "start": "2014-09-22T22:00:00Z",
+                    "title": "\u00c9CHOS FRAN\u00c7AIS"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/events/programs/2014/09/22/among-ruins-syria-past-and-present-christian-c-sahner-historian-middle-0"
+                        }
+                    },
+                    "body": "This illustrated lecture provides a snapshot of Syria on the eve of war, through the eyes of a young American traveling through the Middle East, and attempts to explain Syria's current predicament by reflecting on the long-term historical trends that have shaped the country over centuries. It is an introduction to the full sweep of Syrian history, from the rise of Christianity and Islam to the collapse of the Ottoman Empire and the current civil war.",
+                    "end": "2014-09-22T22:30:00Z",
+                    "id": 260669,
                     "image": null,
                     "registration": null,
-                    "start": "2014-09-10T17:00:00Z",
-                    "title": "Story Time for Grown-Ups - Featured Author Gabriel Garc\u00eda M\u00e1rquez"
+                    "start": "2014-09-22T22:30:00Z",
+                    "title": "\"Among the Ruins: Syria Past and Present,\" with Christian C. Sahner, an historian of the Middle East."
                 }
             ],
-            "exhibitions": [],
+            "exhibitions": [
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/events/exhibitions/peter-bynum-illuminated-paint-art-corner-room-exhibition-series"
+                        }
+                    },
+                    "body": "Unless there is a scheduled program or event the Corner Room hours are as indicated. The Art and Picture Collections at Mid-Manhattan Library present Illuminated Paint a site-specific exhibition of seventeen illuminated paintings on glass by artist Peter Bynum. Painters have long explored the physical limits of paint. Peter Bynum opens new territory for painting by exposing paint s intrinsic branching behavior, and then illuminating the complex nervous system it creates.",
+                    "end": "2015-01-25T00:00:00Z",
+                    "id": 266908,
+                    "image": "https://www.nypl.org/sites/default/files/500_Unified%20Field\uf022Cerulean\uf0225th%20Ave.%20Window%20No.%202,%202014.%2096%20in.%20H%20x%2048%20in.%20W.%20Acrylic%20paint%20on%20tempered%20glass%20(2%20layers),%20L.E.D.%20backlighting,%20remote%20dimmer,%20steel%20bracket..jpg",
+                    "start": "2014-08-01T00:00:00Z",
+                    "title": "Peter Bynum | Illuminated Paint | Art in the Corner Room Exhibition Series"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/events/exhibitions/qiana-mestrich-inherited-patterns-photo-walls-picture-collection-exhibition"
+                        }
+                    },
+                    "body": "From Inherited Patterns, Untitled #6 (Oscar de la Renta gown in Qiana nylon), digital inkjet print on DuPont Tyvek Vivia, 30 x 23 inches, 2014. The Art and Picture Collections at Mid-Manhattan Library present Inherited Patterns a site-specific exhibition of photographs by artist, writer and mother Qiana Mestrich. Inherited Patterns is a new series of photo-based work, the foundation of which are B&W images (sourced from the DuPont company archives) used in public relations and marketing campaigns for the Qiana fabric.",
+                    "end": "2015-02-22T00:00:00Z",
+                    "id": 271250,
+                    "image": "https://www.nypl.org/sites/default/files/500_Qiana-Mestrich-Inherited-Patterns-6.jpg",
+                    "start": "2014-09-03T00:00:00Z",
+                    "title": "Qiana Mestrich | Inherited Patterns | Photo Walls in Picture Collection Exhibition Series"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/events/exhibitions/mary-judge-thinking-print-art-wall-third-exhibition-series"
+                        }
+                    },
+                    "body": "Two Silver Skies, 46 x 96 inches, unique relief print on handmade paper, 2014",
+                    "end": "2015-01-04T00:00:00Z",
+                    "id": 271401,
+                    "image": "https://www.nypl.org/sites/default/files/500_Mary%20Judge_Two%20Silver%20Skies_46x96%20inches_unique%20relief%20print%20on%20handmade%20paper_2014.jpg",
+                    "start": "2014-09-04T00:00:00Z",
+                    "title": "Mary Judge | Thinking in Print | Art Wall on Third Exhibition Series"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/events/exhibitions/qiana-mestrich-necked-art-windows-exhibition"
+                        }
+                    },
+                    "body": "The Art and Picture Collections at Mid-Manhattan Library are pleased to present two exhibitions; by artist, writer and mother Qiana Mestrich; created specifically for Art in the Windows and Photo Walls in Picture Collection exhibitions series.",
+                    "end": "2014-12-01T00:00:00Z",
+                    "id": 271733,
+                    "image": "https://www.nypl.org/sites/default/files/500_photo%20(1)_0.jpg",
+                    "start": "2014-09-08T00:00:00Z",
+                    "title": "Qiana Mestrich | Necked | Art in the Windows Exhibition"
+                }
+            ],
             "features": [
                 {
                     "_links": {
                         "self": {
-                            "href": "locations/mid-manhattan-library/art-collection"
+                            "href": "http://www.nypl.org/locations/mid-manhattan-library/art-collection"
                         }
                     },
-                    "body": "<div class=\"field-items\">\n\t<div class=\"field-item even\">\n\t\t<p>Serving students, professionals, amateurs and anyone engaged in artistic pursuits.</p>\n\t</div>\n</div>\n",
-                    "id": 267953,
-                    "image": "http://cdn-dev.www.aws.nypl.org/var/www/php/web_www/scripts/sites/default/files/images/features/MMLART.png",
-                    "title": "Art and Picture Collection",
+                    "body": "<p>Visit the Picture Collection page for hours and information.</p>\n",
+                    "id": 272379,
+                    "image": "http://cdn-prod.www.aws.nypl.org/var/www/php/web_www/scripts/sites/default/files/images/features/mmpc.jpeg",
+                    "title": "The Picture Collection",
                     "weight": -10
                 }
             ]
@@ -582,7 +662,7 @@
                 "href": "http://locations-api-beta.nypl.org/locations/mid-manhattan-library"
             }
         },
-        "about": "Established in 1970, the Mid-Manhattan Library houses the largest circulating collections of The New York Public Library. Free programs and exhibitions download the current issue of NOW in pdf format Collections The materials are geared to meet the needs of adult users and students and include books, DVDs, CDs, popular magazines and newspapers, and a broad selection of online databases. There is an extensive selection of popular reading, new books, movies, music and a large collection of older and classic fiction.",
+        "about": "Established in 1970, the Mid-Manhattan Library houses the largest circulating collections of The New York Public Library. Free programs and exhibitions: download the current issue of NOW in PDF Collections The Mid-Manhattan Library serves as a bridge between The New York Public Library s neighborhood libraries and its in-depth, non-circulating research collections. The materials are geared to meet the needs of adult users and students and include books, DVDs, CDs, popular magazines and newspapers, and a broad selection of online databases.",
         "access": "Fully Accessible",
         "contacts": {
             "manager": "Caryl Soriano",
@@ -644,7 +724,9 @@
             ]
         },
         "id": "MML",
-        "image": "http://www.nypl.org/sites/default/files/images/mml.png",
+        "images": {
+            "interior": "http://www.nypl.org/sites/default/files/images/mml.png"
+        },
         "locality": "New York",
         "name": "Mid-Manhattan Library",
         "open": true,
