@@ -51,7 +51,6 @@ module Lionactor
 
     protected
     def get_endpoint(path)
-      puts api_path(path)
       response = @conn.get(api_path(path))
       JSON.parse response.body
     end
