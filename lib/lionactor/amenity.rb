@@ -1,4 +1,9 @@
 module Lionactor
+  # A single amenity.
+  #
+  # @!method id
+  #  The amenity's id.
+  #  @return [String] 
   class Amenity < Resource
     def initialize(data, client)
       super(data, client)
