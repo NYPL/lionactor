@@ -2,12 +2,12 @@ require "spec_helper"
 require "pp"
 
 describe Lionactor::Amenity do
-  before :each do
-    data = JSON.parse(AMENITY)["amenity"]
-    @amenity = Lionactor::Amenity.new(data, nil)
-  end
-
   describe "via automatic methods" do
+    before :each do
+      data = JSON.parse(AMENITY)["amenity"]
+      @amenity = Lionactor::Amenity.new(data, nil)
+    end
+
     describe "#id" do
       it "returns a string" do
         pending "the API returning amenity ids as strings"
@@ -52,6 +52,11 @@ describe Lionactor::Amenity do
   end
 
   context "When loaded from single amenity endpoint" do
+    before :each do
+      data = JSON.parse(AMENITY)["amenity"]
+      @amenity = Lionactor::Amenity.new(data, nil)
+    end
+
     describe "#locations" do
       it "returns an array" do
         expect(@amenity.locations).to be_an_instance_of Array
@@ -63,5 +68,20 @@ describe Lionactor::Amenity do
       end
     end
   end
+
+  context "When loaded as part of an location" do
+    before :each do
+      data = JSON.parse(MML)["location"]["_embedded"]["amenities"]
+        .select{|a| a["amenity"]["name"] == "Computers for Public Use"}.first
+      @amenity = Lionactor::Amenity.new(data, nil)
+    end
+
+    describe "#locations" do
+      it "should be nil" do
+        expect(@amenity.locations).to be_nil
+      end
+    end
+  end
+    
 end
 
