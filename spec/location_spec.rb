@@ -64,16 +64,13 @@ describe Lionactor::Location do
     end
 
     describe "#amenities" do
-      it "returns an hash" do
-        expect(@loc.amenities).to be_an_instance_of Hash
+      it "returns a array" do
+        expect(@loc.amenities).to be_an_instance_of Array
       end
 
-      it "returns a hash of Arrays" do
-        expect(@loc.amenities.map{|a| a.class}.uniq).to eq [Array]
-      end
-
-      it "returns a hash of Arrays of Amenity objects" do
-        expect(@loc.amenities['Computer Services'].map{|a| a.class}.uniq).to eq [Lionactor::Amenity]
+      it "returns an Array of LocationAmenity objects" do
+        expect(@loc.amenities.first)
+          .to be_an_instance_of Lionactor::LocationAmenity
       end
     end
 

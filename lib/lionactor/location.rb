@@ -79,11 +79,8 @@ module Lionactor
     #   values Arrays of {Lionactor::Amenity} objects
     def amenities
       if @amenities.nil?
-        @amenities = {}
-        @data['_embedded']['amenities'].each do |cat|
-          @amenities[cat['name']] = cat['amenities'].map do |a|
-            Lionactor::Amenity.new(a, @client)
-          end
+        @amenities = @data['_embedded']['amenities'].map do |a|
+          Lionactor::LocationAmenity.new(a, @client)
         end
       end
 
