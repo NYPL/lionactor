@@ -12,7 +12,7 @@ module Lionactor
 
     def locations
       if @locations.nil?
-        if ! @data["_embedded"]["locations"].nil?
+        if (! @data["_embedded"].nil?) and (! @data["_embedded"]["locations"].nil?)
           @locations = @data["_embedded"]["locations"].map{|l| 
             Lionactor::Location.new(l, @client)
           }
