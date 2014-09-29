@@ -50,5 +50,18 @@ describe Lionactor::Amenity do
       end
     end
   end
+
+  context "When loaded from single amenity endpoint" do
+    describe "#locations" do
+      it "returns an array" do
+        expect(@amenity.locations).to be_an_instance_of Array
+      end
+
+      it "returns an array of Location objects" do
+        expect(@amenity.locations.first)
+          .to be_an_instance_of Lionactor::Location
+      end
+    end
+  end
 end
 
