@@ -3,7 +3,7 @@ require "pp"
 
 describe Lionactor::Amenity do
   before :each do
-    data = JSON.parse(AMENITIES)["amenities"].first['amenities'].first
+    data = JSON.parse(AMENITY)["amenity"]
     @amenity = Lionactor::Amenity.new(data, nil)
   end
 

@@ -1,653 +1,626 @@
 {
     "amenities": [
         {
-            "amenities": [
-                {
-                    "_id": 7950,
-                    "_links": {
-                        "action": {
-                            "href": "http://pcreserve.nypl.org/",
-                            "name": "Reserve a PC"
-                        },
-                        "info": {
-                            "href": "help/computers-internet-and-wireless-access/reserving-computer"
-                        },
-                        "self": {
-                            "href": "amenities/7950"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Computer Services",
-                    "id": 7950,
-                    "name": "Computers for Public Use",
-                    "rank": 1,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7952,
-                    "_links": {
-                        "action": {
-                            "href": null,
-                            "name": null
-                        },
-                        "info": {
-                            "href": "help/computers-internet-and-wireless-access/wireless-internet-access"
-                        },
-                        "self": {
-                            "href": "amenities/7952"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Computer Services",
-                    "id": 7952,
-                    "name": "Wireless Internet Access",
-                    "rank": 2,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7953,
-                    "_links": {
-                        "action": {
-                            "href": "http://pcreserve.nypl.org/",
-                            "name": "Reserve a Laptop"
-                        },
-                        "info": {
-                            "href": "help/computers-internet-and-wireless-access/reserving-computer"
-                        },
-                        "self": {
-                            "href": "amenities/7953"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Computer Services",
-                    "id": 7953,
-                    "name": "Laptops for Public Use",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7954,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7954"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Computer Services",
-                    "id": 7954,
-                    "name": "Printing (from PC)",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7955,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7955"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Computer Services",
-                    "id": 7955,
-                    "name": "Electric outlets available",
-                    "rank": null,
-                    "staff_assistance": null
+            "_links": {
+                "self": {
+                    "href": "amenities/7995"
                 }
-            ],
-            "name": "Computer Services"
-        },
+            }, 
+            "category": "Circulation", 
+            "id": 7995, 
+            "name": "Self-service check-out", 
+            "rank": null
+        }, 
         {
-            "amenities": [
-                {
-                    "_id": 7957,
-                    "_links": {
-                        "action": {
-                            "href": null,
-                            "name": null
-                        },
-                        "info": {
-                            "href": "help/borrowing-materials"
-                        },
-                        "self": {
-                            "href": "amenities/7957"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Circulation",
-                    "id": 7957,
-                    "name": "Self-service check-out",
-                    "rank": 4,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7951,
-                    "_links": {
-                        "action": {
-                            "href": null,
-                            "name": null
-                        },
-                        "info": {
-                            "href": "help/borrowing-materials/book-drops"
-                        },
-                        "self": {
-                            "href": "amenities/7951"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Circulation",
-                    "id": 7951,
-                    "name": "Book drop box (24 hour)",
-                    "rank": 3,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7956,
-                    "_links": {
-                        "action": {
-                            "href": null,
-                            "name": null
-                        },
-                        "info": {
-                            "href": "help/research-services/interlibrary-loan"
-                        },
-                        "self": {
-                            "href": "amenities/7956"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Circulation",
-                    "id": 7956,
-                    "name": "Inter-Library Loan",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7958,
-                    "_links": {
-                        "action": {
-                            "href": null,
-                            "name": null
-                        },
-                        "info": {
-                            "href": "help/borrowing-materials/book-drops"
-                        },
-                        "self": {
-                            "href": "amenities/7958"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Circulation",
-                    "id": 7958,
-                    "name": "Book drop box (limited hours)",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7959,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7959"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Circulation",
-                    "id": 7959,
-                    "name": "Books in braille",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7960,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7960"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Circulation",
-                    "id": 7960,
-                    "name": "Talking books",
-                    "rank": null,
-                    "staff_assistance": null
+            "_links": {
+                "self": {
+                    "href": "amenities/7992"
                 }
-            ],
-            "name": "Circulation"
-        },
+            }, 
+            "category": "Office Services", 
+            "id": 7992, 
+            "name": "Scanners", 
+            "rank": null
+        }, 
         {
-            "amenities": [
-                {
-                    "_id": 7961,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7961"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Office Services",
-                    "id": 7961,
-                    "name": "Photocopiers (black/white)",
-                    "rank": 5,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7962,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7962"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Office Services",
-                    "id": 7962,
-                    "name": "Photocopiers (color)",
-                    "rank": 6,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7963,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7963"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Office Services",
-                    "id": 7963,
-                    "name": "Scanning",
-                    "rank": 7,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7964,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7964"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Office Services",
-                    "id": 7964,
-                    "name": "Map photocopiers (up to 36\" wide)",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7965,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7965"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Office Services",
-                    "id": 7965,
-                    "name": "Change machine",
-                    "rank": null,
-                    "staff_assistance": null
+            "_links": {
+                "self": {
+                    "href": "amenities/7999"
                 }
-            ],
-            "name": "Office Services"
-        },
+            }, 
+            "category": "Facilities", 
+            "id": 7999, 
+            "name": "Water fountain", 
+            "rank": null
+        }, 
         {
-            "amenities": [
-                {
-                    "_id": 7967,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7967"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Facilities",
-                    "id": 7967,
-                    "name": "Children's Only Restrooms",
-                    "rank": 8,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7971,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7971"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Facilities",
-                    "id": 7971,
-                    "name": "Bicycle Rack",
-                    "rank": 10,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7972,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7972"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Facilities",
-                    "id": 7972,
-                    "name": "Checkroom Service",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7973,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7973"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Facilities",
-                    "id": 7973,
-                    "name": "Payphones",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7974,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7974"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Facilities",
-                    "id": 7974,
-                    "name": "Changing station",
-                    "rank": 9,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7975,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7975"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Facilities",
-                    "id": 7975,
-                    "name": "Water fountain",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7966,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7966"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Facilities",
-                    "id": 7966,
-                    "name": "Public Restrooms",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7968,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7968"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Facilities",
-                    "id": 7968,
-                    "name": "Research Study Rooms",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7969,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7969"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Facilities",
-                    "id": 7969,
-                    "name": "Parking",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7970,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7970"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Facilities",
-                    "id": 7970,
-                    "name": "Lost and found",
-                    "rank": null,
-                    "staff_assistance": null
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7954"
                 }
-            ],
-            "name": "Facilities"
-        },
+            }, 
+            "category": "Computer Services", 
+            "id": 7954, 
+            "name": "Printing (from PC)", 
+            "rank": null
+        }, 
         {
-            "amenities": [
-                {
-                    "_id": 7976,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7976"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Assistive Technologies",
-                    "id": 7976,
-                    "name": "Screen magnification software (MAGic)",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7977,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7977"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Assistive Technologies",
-                    "id": 7977,
-                    "name": "Screen reading software (JAWS)",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7978,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7978"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Assistive Technologies",
-                    "id": 7978,
-                    "name": "Closed-Circuit Television Enlargers (CCTVs)",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7979,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7979"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Assistive Technologies",
-                    "id": 7979,
-                    "name": "Scanner/Reading Machines",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7980,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7980"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Assistive Technologies",
-                    "id": 7980,
-                    "name": "Braille translation software",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7981,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7981"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Assistive Technologies",
-                    "id": 7981,
-                    "name": "Braille embossing",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7982,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7982"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Assistive Technologies",
-                    "id": 7982,
-                    "name": "Refreshable braille display",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7983,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7983"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Assistive Technologies",
-                    "id": 7983,
-                    "name": "Adjustable height tables",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7984,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7984"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Assistive Technologies",
-                    "id": 7984,
-                    "name": "Braille writers",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7985,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7985"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Assistive Technologies",
-                    "id": 7985,
-                    "name": "Assistive Amplification Systems",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7986,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7986"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Assistive Technologies",
-                    "id": 7986,
-                    "name": "Telecommunications Devices for the Deaf (TTYs)",
-                    "rank": null,
-                    "staff_assistance": null
-                },
-                {
-                    "_id": 7987,
-                    "_links": {
-                        "self": {
-                            "href": "amenities/7987"
-                        }
-                    },
-                    "accessibility_note": null,
-                    "accessible": null,
-                    "category": "Assistive Technologies",
-                    "id": 7987,
-                    "name": "VRS (Video Relay Service)",
-                    "rank": null,
-                    "staff_assistance": null
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7955"
                 }
-            ],
-            "name": "Assistive Technologies"
+            }, 
+            "category": "Computer Services", 
+            "id": 7955, 
+            "name": "Electric outlets available", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "action": {
+                    "href": null, 
+                    "name": null
+                }, 
+                "info": {
+                    "href": null
+                }, 
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7957"
+                }
+            }, 
+            "category": "Circulation", 
+            "id": 7957, 
+            "name": "Self-service check-out", 
+            "rank": 4
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7959"
+                }
+            }, 
+            "category": "Circulation", 
+            "id": 7959, 
+            "name": "Books in braille", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7960"
+                }
+            }, 
+            "category": "Circulation", 
+            "id": 7960, 
+            "name": "Talking books", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7961"
+                }
+            }, 
+            "category": "Office Services", 
+            "id": 7961, 
+            "name": "Photocopiers (black/white)", 
+            "rank": 5
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7962"
+                }
+            }, 
+            "category": "Office Services", 
+            "id": 7962, 
+            "name": "Photocopiers (color)", 
+            "rank": 6
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7969"
+                }
+            }, 
+            "category": "Facilities", 
+            "id": 7969, 
+            "name": "Parking", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "action": {
+                    "href": null, 
+                    "name": null
+                }, 
+                "info": {
+                    "href": "http://www.nypl.org/help/computers-internet-and-wireless-access/wireless-internet-access"
+                }, 
+                "self": {
+                    "href": "amenities/8000"
+                }
+            }, 
+            "category": "Computer Services", 
+            "id": 8000, 
+            "name": "Wireless Internet Access", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "amenities/7996"
+                }
+            }, 
+            "category": "Circulation", 
+            "id": 7996, 
+            "name": "Talking books", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "amenities/7988"
+                }
+            }, 
+            "category": "Facilities", 
+            "id": 7988, 
+            "name": "Public Restrooms", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "amenities/7990"
+                }
+            }, 
+            "category": "Facilities", 
+            "id": 7990, 
+            "name": "Research Study Rooms", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "amenities/7993"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7993, 
+            "name": "Screen magnification software (MAGic)", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "amenities/7994"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7994, 
+            "name": "Screen reading software (JAWS)", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "amenities/7991"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7991, 
+            "name": "Scanner/Reading Machines", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "amenities/7989"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7989, 
+            "name": "Refreshable braille display", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "amenities/7997"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7997, 
+            "name": "Telecommunications Devices for the Deaf (TTYs)", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "amenities/7998"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7998, 
+            "name": "VRS (Video Relay Service)", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "action": {
+                    "href": "http://dev.www.aws.nypl.org/help/computers-internet-and-wireless-access/reserving-computer", 
+                    "name": "Reserve a PC"
+                }, 
+                "info": {
+                    "href": "http://dev.www.aws.nypl.org/help/computers-internet-and-wireless-access/reserving-computer"
+                }, 
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7950"
+                }
+            }, 
+            "category": "Computer Services", 
+            "id": 7950, 
+            "name": "Computers for Public Use", 
+            "rank": 1
+        }, 
+        {
+            "_links": {
+                "action": {
+                    "href": "http://dev.www.aws.nypl.org/help/computers-internet-and-wireless-access/reserving-computer", 
+                    "name": "Reserve a Laptop"
+                }, 
+                "info": {
+                    "href": "http://dev.www.aws.nypl.org/help/computers-internet-and-wireless-access/reserving-computer"
+                }, 
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7953"
+                }
+            }, 
+            "category": "Computer Services", 
+            "id": 7953, 
+            "name": "Laptops for Public Use", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "action": {
+                    "href": "http://dev.www.aws.nypl.org/help/computers-internet-and-wireless-access/wireless-internet-access", 
+                    "name": null
+                }, 
+                "info": {
+                    "href": "http://dev.www.aws.nypl.org/help/computers-internet-and-wireless-access/wireless-internet-access"
+                }, 
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7952"
+                }
+            }, 
+            "category": "Computer Services", 
+            "id": 7952, 
+            "name": "Wireless Internet Access", 
+            "rank": 2
+        }, 
+        {
+            "_links": {
+                "action": {
+                    "href": "http://dev.www.aws.nypl.org/help/research-services/interlibrary-loan", 
+                    "name": null
+                }, 
+                "info": {
+                    "href": "http://dev.www.aws.nypl.org/help/research-services/interlibrary-loan"
+                }, 
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7956"
+                }
+            }, 
+            "category": "Circulation", 
+            "id": 7956, 
+            "name": "Inter-Library Loan", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "action": {
+                    "href": "http://dev.www.aws.nypl.org/help/borrowing-materials/book-drops", 
+                    "name": null
+                }, 
+                "info": {
+                    "href": "http://dev.www.aws.nypl.org/help/borrowing-materials/book-drops"
+                }, 
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7951"
+                }
+            }, 
+            "category": "Circulation", 
+            "id": 7951, 
+            "name": "Book drop box (24 hour)", 
+            "rank": 3
+        }, 
+        {
+            "_links": {
+                "action": {
+                    "href": "http://dev.www.aws.nypl.org/help/borrowing-materials/book-drops", 
+                    "name": null
+                }, 
+                "info": {
+                    "href": "http://dev.www.aws.nypl.org/help/borrowing-materials/book-drops"
+                }, 
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7958"
+                }
+            }, 
+            "category": "Circulation", 
+            "id": 7958, 
+            "name": "Book drop box (limited hours)", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7963"
+                }
+            }, 
+            "category": "Office Services", 
+            "id": 7963, 
+            "name": "Scanning", 
+            "rank": 7
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7964"
+                }
+            }, 
+            "category": "Office Services", 
+            "id": 7964, 
+            "name": "Map photocopiers (up to 36\" wide)", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7965"
+                }
+            }, 
+            "category": "Office Services", 
+            "id": 7965, 
+            "name": "Change machine", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7966"
+                }
+            }, 
+            "category": "Facilities", 
+            "id": 7966, 
+            "name": "Public Restrooms", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7967"
+                }
+            }, 
+            "category": "Facilities", 
+            "id": 7967, 
+            "name": "Children's Only Restrooms", 
+            "rank": 8
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7968"
+                }
+            }, 
+            "category": "Facilities", 
+            "id": 7968, 
+            "name": "Research Study Rooms", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7970"
+                }
+            }, 
+            "category": "Facilities", 
+            "id": 7970, 
+            "name": "Lost and found", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7971"
+                }
+            }, 
+            "category": "Facilities", 
+            "id": 7971, 
+            "name": "Bicycle Rack", 
+            "rank": 10
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7972"
+                }
+            }, 
+            "category": "Facilities", 
+            "id": 7972, 
+            "name": "Checkroom Service", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7973"
+                }
+            }, 
+            "category": "Facilities", 
+            "id": 7973, 
+            "name": "Payphones", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7974"
+                }
+            }, 
+            "category": "Facilities", 
+            "id": 7974, 
+            "name": "Changing station", 
+            "rank": 9
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7975"
+                }
+            }, 
+            "category": "Facilities", 
+            "id": 7975, 
+            "name": "Water fountain", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7976"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7976, 
+            "name": "Screen magnification software (MAGic)", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7977"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7977, 
+            "name": "Screen reading software (JAWS)", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7978"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7978, 
+            "name": "Closed-Circuit Television Enlargers (CCTVs)", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7979"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7979, 
+            "name": "Scanner/Reading Machines", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7980"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7980, 
+            "name": "Braille translation software", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7981"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7981, 
+            "name": "Braille embossing", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7982"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7982, 
+            "name": "Refreshable braille display", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7983"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7983, 
+            "name": "Adjustable height tables", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7984"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7984, 
+            "name": "Braille writers", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7985"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7985, 
+            "name": "Assistive Amplification Systems", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7986"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7986, 
+            "name": "Telecommunications Devices for the Deaf (TTYs)", 
+            "rank": null
+        }, 
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7987"
+                }
+            }, 
+            "category": "Assistive Technologies", 
+            "id": 7987, 
+            "name": "VRS (Video Relay Service)", 
+            "rank": null
         }
-    ],
+    ], 
     "response": {
-        "count": 38,
-        "limit": 38,
+        "count": 51, 
+        "limit": 51, 
         "offset": 0
     }
 }
