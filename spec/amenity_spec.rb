@@ -75,7 +75,7 @@ describe Lionactor::Amenity do
     end
 
     describe "#action" do
-      it "returns a Hash" do
+      it "returns an OpenStruct" do
         expect(@amenity.action).to be_an_instance_of OpenStruct
       end
 
@@ -110,6 +110,8 @@ describe Lionactor::Amenity do
         end
       end
     end
+
+    
 
     describe "#locations" do
       it "returns an array" do
