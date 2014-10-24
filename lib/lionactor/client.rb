@@ -1,6 +1,6 @@
 module Lionactor
   class Client
-    def initialize(api="http://locations-api-beta.nypl.org")
+    def initialize(api="http://locations.api.nypl.org/api/v0.5")
       @api = api
       @conn = Faraday.new
     end
