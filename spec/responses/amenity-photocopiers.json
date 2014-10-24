@@ -1,0 +1,560 @@
+{
+    "amenity": {
+        "_embedded": {
+            "locations": [
+                {
+                    "_links": {
+                        "alerts": {
+                            "href": "http://locations.api.nypl.org/locations/allerton/alerts"
+                        }, 
+                        "amenities": {
+                            "href": "http://locations.api.nypl.org/locations/allerton/amenities"
+                        }, 
+                        "blogs": {
+                            "all": "http://www.nypl.org/blog/library/7", 
+                            "href": "http://locations.api.nypl.org/locations/allerton/blogs"
+                        }, 
+                        "contact": {
+                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
+                        }, 
+                        "events": {
+                            "all": "http://www.nypl.org/events/calendar?location=7", 
+                            "href": "http://locations.api.nypl.org/locations/allerton/events"
+                        }, 
+                        "exhibitions": {
+                            "href": "http://locations.api.nypl.org/locations/allerton/exhibitions"
+                        }, 
+                        "on_shelves": {
+                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Allerton%22&circ=CIRC|NON%20CIRC"
+                        }, 
+                        "self": {
+                            "about": "http://www.nypl.org/about/locations/allerton", 
+                            "href": "http://locations.api.nypl.org/locations/allerton"
+                        }
+                    }, 
+                    "access": "Fully Accessible", 
+                    "contacts": {
+                        "manager": "Manuel Martinez", 
+                        "phone": "(718) 881-4240"
+                    }, 
+                    "cross_street": "between Allerton & Arnow Aves.", 
+                    "geolocation": {
+                        "coordinates": [
+                            -73.8632, 
+                            40.866
+                        ], 
+                        "type": "Point"
+                    }, 
+                    "hours": {
+                        "regular": [
+                            {
+                                "close": null, 
+                                "day": "Sun", 
+                                "open": null
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Mon", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Tue", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "19:00", 
+                                "day": "Wed", 
+                                "open": "11:00"
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Thu", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "17:00", 
+                                "day": "Fri", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "17:00", 
+                                "day": "Sat", 
+                                "open": "10:00"
+                            }
+                        ]
+                    }, 
+                    "locality": "Bronx", 
+                    "name": "Allerton Library", 
+                    "postal_code": 10467, 
+                    "region": "NY", 
+                    "slug": "allerton", 
+                    "social_media": [
+                        {
+                            "href": "http://foursquare.com/venue/7368000", 
+                            "site": "foursquare"
+                        }, 
+                        {
+                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
+                            "site": "youtube"
+                        }
+                    ], 
+                    "street_address": "2740 Barnes Avenue", 
+                    "synonyms": [], 
+                    "type": "circulating"
+                }, 
+                {
+                    "_links": {
+                        "alerts": {
+                            "href": "http://locations.api.nypl.org/locations/battery-park-city/alerts"
+                        }, 
+                        "amenities": {
+                            "href": "http://locations.api.nypl.org/locations/battery-park-city/amenities"
+                        }, 
+                        "blogs": {
+                            "all": "http://www.nypl.org/blog/library/2787", 
+                            "href": "http://locations.api.nypl.org/locations/battery-park-city/blogs"
+                        }, 
+                        "contact": {
+                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
+                        }, 
+                        "events": {
+                            "all": "http://www.nypl.org/events/calendar?location=2787", 
+                            "href": "http://locations.api.nypl.org/locations/battery-park-city/events"
+                        }, 
+                        "exhibitions": {
+                            "href": "http://locations.api.nypl.org/locations/battery-park-city/exhibitions"
+                        }, 
+                        "on_shelves": {
+                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Battery+Park+City%22&circ=CIRC|NON%20CIRC"
+                        }, 
+                        "self": {
+                            "about": "http://www.nypl.org/about/locations/battery-park-city", 
+                            "href": "http://locations.api.nypl.org/locations/battery-park-city"
+                        }
+                    }, 
+                    "access": "Fully Accessible", 
+                    "contacts": {
+                        "manager": "Anne Barreca", 
+                        "phone": "(212) 790-3499"
+                    }, 
+                    "cross_street": "at Murray Street", 
+                    "geolocation": {
+                        "coordinates": [
+                            -74.0157, 
+                            40.7155
+                        ], 
+                        "type": "Point"
+                    }, 
+                    "hours": {
+                        "regular": [
+                            {
+                                "close": null, 
+                                "day": "Sun", 
+                                "open": null
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Mon", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "20:00", 
+                                "day": "Tue", 
+                                "open": "12:00"
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Wed", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "20:00", 
+                                "day": "Thu", 
+                                "open": "12:00"
+                            }, 
+                            {
+                                "close": "17:00", 
+                                "day": "Fri", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "17:00", 
+                                "day": "Sat", 
+                                "open": "10:00"
+                            }
+                        ]
+                    }, 
+                    "locality": "New York", 
+                    "name": "Battery Park City Library", 
+                    "postal_code": 10282, 
+                    "region": "NY", 
+                    "slug": "battery-park-city", 
+                    "social_media": [
+                        {
+                            "href": "http://www.facebook.com/pages/Battery-Park-City-Branch-Library/192876623472", 
+                            "site": "facebook"
+                        }, 
+                        {
+                            "href": "http://twitter.com/BatteryParkCity", 
+                            "site": "twitter"
+                        }, 
+                        {
+                            "href": "http://foursquare.com/venue/721091", 
+                            "site": "foursquare"
+                        }, 
+                        {
+                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
+                            "site": "youtube"
+                        }
+                    ], 
+                    "street_address": "175 North End Avenue", 
+                    "synonyms": [], 
+                    "type": "circulating"
+                }, 
+                {
+                    "_links": {
+                        "alerts": {
+                            "href": "http://locations.api.nypl.org/locations/castle-hill/alerts"
+                        }, 
+                        "amenities": {
+                            "href": "http://locations.api.nypl.org/locations/castle-hill/amenities"
+                        }, 
+                        "blogs": {
+                            "all": "http://www.nypl.org/blog/library/13", 
+                            "href": "http://locations.api.nypl.org/locations/castle-hill/blogs"
+                        }, 
+                        "contact": {
+                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
+                        }, 
+                        "events": {
+                            "all": "http://www.nypl.org/events/calendar?location=13", 
+                            "href": "http://locations.api.nypl.org/locations/castle-hill/events"
+                        }, 
+                        "exhibitions": {
+                            "href": "http://locations.api.nypl.org/locations/castle-hill/exhibitions"
+                        }, 
+                        "on_shelves": {
+                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Castle+Hill%22&circ=CIRC|NON%20CIRC"
+                        }, 
+                        "self": {
+                            "about": "http://www.nypl.org/about/locations/castle-hill", 
+                            "href": "http://locations.api.nypl.org/locations/castle-hill"
+                        }
+                    }, 
+                    "access": "Fully Accessible", 
+                    "contacts": {
+                        "manager": "Yilda Rodriguez", 
+                        "phone": "(718) 824-3838"
+                    }, 
+                    "cross_street": "at Bruckner Blvd.", 
+                    "geolocation": {
+                        "coordinates": [
+                            -73.8499, 
+                            40.8264
+                        ], 
+                        "type": "Point"
+                    }, 
+                    "hours": {
+                        "regular": [
+                            {
+                                "close": null, 
+                                "day": "Sun", 
+                                "open": null
+                            }, 
+                            {
+                                "close": "19:00", 
+                                "day": "Mon", 
+                                "open": "11:00"
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Tue", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "19:00", 
+                                "day": "Wed", 
+                                "open": "11:00"
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Thu", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "17:00", 
+                                "day": "Fri", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "17:00", 
+                                "day": "Sat", 
+                                "open": "10:00"
+                            }
+                        ]
+                    }, 
+                    "locality": "Bronx", 
+                    "name": "Castle Hill Library", 
+                    "postal_code": 10473, 
+                    "region": "NY", 
+                    "slug": "castle-hill", 
+                    "social_media": [
+                        {
+                            "href": "http://twitter.com/castle_hill", 
+                            "site": "twitter"
+                        }, 
+                        {
+                            "href": "http://foursquare.com/venue/13309618", 
+                            "site": "foursquare"
+                        }, 
+                        {
+                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
+                            "site": "youtube"
+                        }, 
+                        {
+                            "href": "http://www.flickr.com/photos/castlehill_library", 
+                            "site": "flickr"
+                        }
+                    ], 
+                    "street_address": "947 Castle Hill Avenue", 
+                    "synonyms": [], 
+                    "type": "circulating"
+                }, 
+                {
+                    "_links": {
+                        "alerts": {
+                            "href": "http://locations.api.nypl.org/locations/cathedral/alerts"
+                        }, 
+                        "amenities": {
+                            "href": "http://locations.api.nypl.org/locations/cathedral/amenities"
+                        }, 
+                        "blogs": {
+                            "all": "http://www.nypl.org/blog/library/14", 
+                            "href": "http://locations.api.nypl.org/locations/cathedral/blogs"
+                        }, 
+                        "contact": {
+                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
+                        }, 
+                        "events": {
+                            "all": "http://www.nypl.org/events/calendar?location=14", 
+                            "href": "http://locations.api.nypl.org/locations/cathedral/events"
+                        }, 
+                        "exhibitions": {
+                            "href": "http://locations.api.nypl.org/locations/cathedral/exhibitions"
+                        }, 
+                        "on_shelves": {
+                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Cathedral%22&circ=CIRC|NON%20CIRC"
+                        }, 
+                        "self": {
+                            "about": "http://www.nypl.org/about/locations/cathedral", 
+                            "href": "http://locations.api.nypl.org/locations/cathedral"
+                        }
+                    }, 
+                    "access": "Partially Accessible", 
+                    "contacts": {
+                        "phone": "(212) 752-3824"
+                    }, 
+                    "cross_street": "at E. 50th St., lower level", 
+                    "geolocation": {
+                        "coordinates": [
+                            -73.9725, 
+                            40.7568
+                        ], 
+                        "type": "Point"
+                    }, 
+                    "hours": {
+                        "exceptions": {
+                            "description": "The Cathedral Library closed temporarily, beginning on January 6th, 2014, to facilitate necessary repairs to the building's facade. The branch is scheduled to reopen in early, 2015. During this temporary closure, we encourage you to visit the following nearby branches:\r\n\r\n*58th Street Library, 127 East 58th Street (between Park & Lexington Aves.)\r\n*Grand Central Library, 135 East 46th Street (between Lexington & Third Aves.)\r\n\r\nDuring the time your hold requests can be picked up at Grand Central Library at 135 East 46th Street (between Lexington & Third Aves.); Grand Central Library can be reached at (212) 621-0670.", 
+                            "end": "2014-10-25T00:00:00-04:00", 
+                            "start": "2014-10-24T08:45:11-04:00"
+                        }, 
+                        "regular": [
+                            {
+                                "close": null, 
+                                "day": "Sun", 
+                                "open": null
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Mon", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Tue", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Wed", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Thu", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "17:00", 
+                                "day": "Fri", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": null, 
+                                "day": "Sat", 
+                                "open": null
+                            }
+                        ]
+                    }, 
+                    "locality": "New York", 
+                    "name": "Terence Cardinal Cooke-Cathedral Library", 
+                    "postal_code": 10022, 
+                    "region": "NY", 
+                    "slug": "cathedral", 
+                    "social_media": [
+                        {
+                            "href": "https://www.facebook.com/CathedralNYPL", 
+                            "site": "facebook"
+                        }, 
+                        {
+                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
+                            "site": "youtube"
+                        }, 
+                        {
+                            "href": "http://nypl.bibliocommons.com/lists/show/87527711_nypl_cathedral", 
+                            "site": "bibliocommons"
+                        }
+                    ], 
+                    "street_address": "560 Lexington Avenue", 
+                    "synonyms": [], 
+                    "type": "circulating"
+                }, 
+                {
+                    "_links": {
+                        "alerts": {
+                            "href": "http://locations.api.nypl.org/locations/city-island/alerts"
+                        }, 
+                        "amenities": {
+                            "href": "http://locations.api.nypl.org/locations/city-island/amenities"
+                        }, 
+                        "blogs": {
+                            "all": "http://www.nypl.org/blog/library/16", 
+                            "href": "http://locations.api.nypl.org/locations/city-island/blogs"
+                        }, 
+                        "contact": {
+                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
+                        }, 
+                        "events": {
+                            "all": "http://www.nypl.org/events/calendar?location=16", 
+                            "href": "http://locations.api.nypl.org/locations/city-island/events"
+                        }, 
+                        "exhibitions": {
+                            "href": "http://locations.api.nypl.org/locations/city-island/exhibitions"
+                        }, 
+                        "on_shelves": {
+                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22City+Island%22&circ=CIRC|NON%20CIRC"
+                        }, 
+                        "self": {
+                            "about": "http://www.nypl.org/about/locations/city-island", 
+                            "href": "http://locations.api.nypl.org/locations/city-island"
+                        }
+                    }, 
+                    "access": "Fully Accessible", 
+                    "contacts": {
+                        "manager": "Judd Karlman", 
+                        "phone": "(718) 885-1703"
+                    }, 
+                    "cross_street": "between Bay & Fordham Sts.", 
+                    "geolocation": {
+                        "coordinates": [
+                            -73.7865, 
+                            40.8477
+                        ], 
+                        "type": "Point"
+                    }, 
+                    "hours": {
+                        "regular": [
+                            {
+                                "close": null, 
+                                "day": "Sun", 
+                                "open": null
+                            }, 
+                            {
+                                "close": "19:00", 
+                                "day": "Mon", 
+                                "open": "11:00"
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Tue", 
+                                "open": "11:00"
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Wed", 
+                                "open": "11:00"
+                            }, 
+                            {
+                                "close": "19:00", 
+                                "day": "Thu", 
+                                "open": "11:00"
+                            }, 
+                            {
+                                "close": "17:00", 
+                                "day": "Fri", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "17:00", 
+                                "day": "Sat", 
+                                "open": "10:00"
+                            }
+                        ]
+                    }, 
+                    "locality": "Bronx", 
+                    "name": "City Island Library", 
+                    "postal_code": 10464, 
+                    "region": "NY", 
+                    "slug": "city-island", 
+                    "social_media": [
+                        {
+                            "href": "http://www.facebook.com/pages/City-Island-Branch-Library-New-York-Public-Library/121375017941113", 
+                            "site": "facebook"
+                        }, 
+                        {
+                            "href": "https://twitter.com/CityIslandNYPL", 
+                            "site": "twitter"
+                        }, 
+                        {
+                            "href": "http://foursquare.com/venue/1853954", 
+                            "site": "foursquare"
+                        }, 
+                        {
+                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
+                            "site": "youtube"
+                        }
+                    ], 
+                    "street_address": "320 City Island Avenue", 
+                    "synonyms": [], 
+                    "type": "circulating"
+                }
+            ]
+        }, 
+        "_links": {
+            "self": {
+                "href": "http://locations.api.nypl.org/amenities/7975"
+            }
+        }, 
+        "category": "Printing and Copy Services", 
+        "id": 7975, 
+        "name": "Photocopiers (black/white)", 
+        "rank": 5
+    }, 
+    "response": {
+        "api_version": 0.5, 
+        "count": 1, 
+        "limit": 1, 
+        "offset": 0
+    }
+}
