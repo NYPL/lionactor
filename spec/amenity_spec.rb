@@ -12,11 +12,6 @@ describe Lionactor::Amenity do
     end
 
     describe "via automatic methods" do
-      before :each do
-        data = JSON.parse(AMENITY)["amenity"]
-        @amenity = Lionactor::Amenity.new(data, nil)
-      end
-
       describe "#id" do
         it "returns a string" do
           pending "the API returning amenity ids as strings"
