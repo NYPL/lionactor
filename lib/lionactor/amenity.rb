@@ -23,6 +23,11 @@ module Lionactor
       return ! links["info"].nil?
     end
 
+    def info
+      return OpenStruct.new(links["info"]) if info?
+      return nil
+    end 
+
     def locations
       if @locations.nil?
         if (! @data["_embedded"].nil?) and (! @data["_embedded"]["locations"].nil?)

@@ -110,8 +110,24 @@ describe Lionactor::Amenity do
         end
       end
     end
-
     
+    describe "#info" do
+      it "returns an OpenStruct" do
+        expect(@amenity.info).to be_an_instance_of OpenStruct
+      end
+
+      it "has an href property" do
+        expect(@amenity.info.href).to eq "http://www.nypl.org/help/computers-internet-and-wireless-access/reserving-computer"
+      end
+
+      context "With an amenity that has no action" do
+        describe "#info" do
+          it "returns nil" do
+            expect(@no_action.info).to be_nil
+          end
+        end
+      end
+    end
 
     describe "#locations" do
       it "returns an array" do
