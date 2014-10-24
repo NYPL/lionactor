@@ -78,6 +78,14 @@ describe Lionactor::Amenity do
       it "has an info link" do
         expect(@amenity.info?).to be true
       end
+
+      context "With an amenity that has no action or info" do
+        describe "#info?" do
+          it "has an info link" do
+            expect(@no_action.info?).to be false
+          end
+        end
+      end
     end
 
     describe "#locations" do
@@ -88,25 +96,6 @@ describe Lionactor::Amenity do
       it "returns an array of Location objects" do
         expect(@amenity.locations.first)
           .to be_an_instance_of Lionactor::Location
-      end
-    end
-  end
-
-  context "With an amenity that has no action or info" do
-    before :each do
-      data = JSON.parse(AMENITY_NO_ACTION)["amenity"]
-      @amenity = Lionactor::Amenity.new(data, nil)
-    end
-
-    describe "#action?" do
-      it "does not have an action" do
-        expect(@amenity.action?).to eq false
-      end
-    end
-
-    describe "#info?" do
-      it "has an info link" do
-        expect(@amenity.info?).to be false
       end
     end
   end
