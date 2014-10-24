@@ -10,6 +10,10 @@ module Lionactor
       @locations = nil
     end
 
+    def action?
+      return ! links["action"].nil?
+    end
+
     def locations
       if @locations.nil?
         if (! @data["_embedded"].nil?) and (! @data["_embedded"]["locations"].nil?)
