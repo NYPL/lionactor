@@ -79,15 +79,22 @@ module Lionactor
     #   values Arrays of {Lionactor::Amenity} objects
     def amenities
       if @amenities.nil?
-        @amenities = {}
-        @data['_embedded']['amenities'].each do |cat|
-          @amenities[cat['name']] = cat['amenities'].map do |a|
-            Lionactor::Amenity.new(a)
-          end
+        @amenities = @data['_embedded']['amenities'].map do |a|
+          Lionactor::LocationAmenity.new(a, @client)
         end
       end
 
       @amenities
+    end
+
+    def features
+      if @features.nil?
+        @features = embedded['features'].map do |f|
+          Lionactor::Feature.new(f)
+        end
+      end
+
+      @features
     end
 
     # Whether or not the location is a circulating branch

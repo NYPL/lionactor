@@ -64,16 +64,13 @@ describe Lionactor::Location do
     end
 
     describe "#amenities" do
-      it "returns an hash" do
-        expect(@loc.amenities).to be_an_instance_of Hash
+      it "returns a array" do
+        expect(@loc.amenities).to be_an_instance_of Array
       end
 
-      it "returns a hash of Arrays" do
-        expect(@loc.amenities.map{|a| a.class}.uniq).to eq [Array]
-      end
-
-      it "returns a hash of Arrays of Amenity objects" do
-        expect(@loc.amenities['Computer Services'].map{|a| a.class}.uniq).to eq [Lionactor::Amenity]
+      it "returns an Array of LocationAmenity objects" do
+        expect(@loc.amenities.first)
+          .to be_an_instance_of Lionactor::LocationAmenity
       end
     end
 
@@ -112,6 +109,20 @@ describe Lionactor::Location do
 
       it "is -73.9817" do
         expect(@loc.longitude).to eq -73.9817
+      end
+    end
+
+    describe "#features" do
+      it "returns an Array" do
+        expect(@loc.features).to be_an_instance_of Array
+      end
+
+      it "returns an Array of Feature objects" do
+        expect(@loc.features.first).to be_an_instance_of Lionactor::Feature
+      end
+
+      it "feature should have titles" do
+        expect(@loc.features.first.title).to eq "The Picture Collection"
       end
     end
   end
