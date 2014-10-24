@@ -5,253 +5,43 @@
                 {
                     "_links": {
                         "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/mariners-harbor/alerts"
+                            "href": "http://locations.api.nypl.org/locations/allerton/alerts"
                         }, 
                         "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/mariners-harbor/amenities"
+                            "href": "http://locations.api.nypl.org/locations/allerton/amenities"
                         }, 
                         "blogs": {
-                            "all": "http://www.nypl.org/blog/library/7892", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/mariners-harbor/blogs"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=7892", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/mariners-harbor/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/mariners-harbor/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Mariner%27s+Harbor%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/mariners-harbor", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/mariners-harbor"
-                        }
-                    }, 
-                    "access": "Fully Accessible", 
-                    "contacts": {
-                        "phone": "(212) 621-0690"
-                    }, 
-                    "cross_street": "between Arlington Pl. and Brabant St.", 
-                    "geolocation": {
-                        "coordinates": [
-                            -74.1665, 
-                            40.6348
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "regular": [
-                            {
-                                "close": null, 
-                                "day": "Sun", 
-                                "open": null
-                            }, 
-                            {
-                                "close": "20:00", 
-                                "day": "Mon", 
-                                "open": "12:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Tue", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Wed", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Thu", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Fri", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "Staten Island", 
-                    "name": "Mariners Harbor Library", 
-                    "postal_code": 10303, 
-                    "region": "NY", 
-                    "slug": "mariners-harbor", 
-                    "social_media": [
-                        {
-                            "href": "https://www.facebook.com/MarinersHarborLibrary", 
-                            "site": "facebook"
-                        }, 
-                        {
-                            "href": "https://twitter.com/myharborNYPL", 
-                            "site": "twitter"
-                        }
-                    ], 
-                    "street_address": "206 South Ave", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/castle-hill/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/castle-hill/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/13", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/castle-hill/blogs"
+                            "all": "http://www.nypl.org/blog/library/7", 
+                            "href": "http://locations.api.nypl.org/locations/allerton/blogs"
                         }, 
                         "contact": {
                             "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
                         }, 
                         "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=13", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/castle-hill/events"
+                            "all": "http://www.nypl.org/events/calendar?location=7", 
+                            "href": "http://locations.api.nypl.org/locations/allerton/events"
                         }, 
                         "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/castle-hill/exhibitions"
+                            "href": "http://locations.api.nypl.org/locations/allerton/exhibitions"
                         }, 
                         "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Castle+Hill%22&circ=CIRC|NON%20CIRC"
+                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Allerton%22&circ=CIRC|NON%20CIRC"
                         }, 
                         "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/castle-hill", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/castle-hill"
+                            "about": "http://www.nypl.org/about/locations/allerton", 
+                            "href": "http://locations.api.nypl.org/locations/allerton"
                         }
                     }, 
                     "access": "Fully Accessible", 
                     "contacts": {
-                        "manager": "Yilda Rodriguez", 
-                        "phone": "(718) 824-3838"
+                        "manager": "Manuel Martinez", 
+                        "phone": "(718) 881-4240"
                     }, 
-                    "cross_street": "at Bruckner Blvd.", 
+                    "cross_street": "between Allerton & Arnow Aves.", 
                     "geolocation": {
                         "coordinates": [
-                            -73.8499, 
-                            40.8264
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "regular": [
-                            {
-                                "close": null, 
-                                "day": "Sun", 
-                                "open": null
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Mon", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Tue", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Wed", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Thu", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Fri", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "Bronx", 
-                    "name": "Castle Hill Library", 
-                    "postal_code": 10473, 
-                    "region": "NY", 
-                    "slug": "castle-hill", 
-                    "social_media": [
-                        {
-                            "href": "http://twitter.com/castle_hill", 
-                            "site": "twitter"
-                        }, 
-                        {
-                            "href": "http://foursquare.com/venue/13309618", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://www.flickr.com/photos/castlehill_library", 
-                            "site": "flickr"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87216992_nypl_castle_hill", 
-                            "site": "bibliocommons"
-                        }
-                    ], 
-                    "street_address": "947 Castle Hill Avenue", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/van-cortlandt/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/van-cortlandt/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/79", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/van-cortlandt/blogs"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=79", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/van-cortlandt/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/van-cortlandt/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Van+Cortlandt%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/van-cortlandt", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/van-cortlandt"
-                        }
-                    }, 
-                    "access": "Fully Accessible", 
-                    "contacts": {
-                        "manager": "Peter Pamphile", 
-                        "phone": "(718) 543-5150"
-                    }, 
-                    "cross_street": "south of Mosholu Parkway", 
-                    "geolocation": {
-                        "coordinates": [
-                            -73.8951, 
-                            40.8825
+                            -73.8632, 
+                            40.866
                         ], 
                         "type": "Point"
                     }, 
@@ -295,1864 +85,52 @@
                         ]
                     }, 
                     "locality": "Bronx", 
-                    "name": "Van Cortlandt Library", 
-                    "postal_code": 10463, 
+                    "name": "Allerton Library", 
+                    "postal_code": 10467, 
                     "region": "NY", 
-                    "slug": "van-cortlandt", 
+                    "slug": "allerton", 
                     "social_media": [
                         {
-                            "href": "http://foursquare.com/venue/5811639", 
+                            "href": "http://foursquare.com/venue/7368000", 
                             "site": "foursquare"
                         }, 
                         {
                             "href": "http://www.youtube.com/NewYorkPublicLibrary", 
                             "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87221141_nypl_van_cortlandt", 
-                            "site": "bibliocommons"
                         }
                     ], 
-                    "street_address": "3874 Sedgwick Avenue", 
+                    "street_address": "2740 Barnes Avenue", 
                     "synonyms": [], 
                     "type": "circulating"
                 }, 
                 {
                     "_links": {
                         "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/125th-street/alerts"
+                            "href": "http://locations.api.nypl.org/locations/battery-park-city/alerts"
                         }, 
                         "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/125th-street/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/2", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/125th-street/blogs"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=2", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/125th-street/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/125th-street/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22125th+Street%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/125th-street", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/125th-street"
-                        }
-                    }, 
-                    "access": "Partially Accessible", 
-                    "contacts": {
-                        "manager": "Stephanie Pamphile", 
-                        "phone": "(212) 534-5050"
-                    }, 
-                    "cross_street": "near Third Ave.", 
-                    "geolocation": {
-                        "coordinates": [
-                            -73.9354, 
-                            40.8034
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "exceptions": {
-                            "description": "The 125th Street Branch Library is temporarily closed to facilitate branch improvements. For the duration of the closing, items requested for pickup at 125th Street will instead be delivered to the nearby Harlem Branch, located at 9 West 124th Street. You may select an alternate pickup location for any items not already arrived or in transit to the Harlem Branch Library.", 
-                            "end": "2014-09-30T00:00:00-04:00", 
-                            "start": "2014-09-29T11:15:05-04:00"
-                        }, 
-                        "regular": [
-                            {
-                                "close": null, 
-                                "day": "Sun", 
-                                "open": null
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Mon", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Tue", 
-                                "open": "12:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Wed", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Thu", 
-                                "open": "12:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Fri", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "New York", 
-                    "name": "125th Street Library", 
-                    "postal_code": 10035, 
-                    "region": "NY", 
-                    "slug": "125th-street", 
-                    "social_media": [
-                        {
-                            "href": "http://www.facebook.com/pages/125th-Street-Branch-Library-The-New-York-Public-Library-NYPL/368170331680", 
-                            "site": "facebook"
-                        }, 
-                        {
-                            "href": "http://foursquare.com/venue/13306678", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }
-                    ], 
-                    "street_address": "224 East 125th Street", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/58th-street/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/58th-street/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/3", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/58th-street/blogs"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=3", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/58th-street/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/58th-street/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%2258th+Street%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/58th-street", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/58th-street"
-                        }
-                    }, 
-                    "access": "Partially Accessible", 
-                    "contacts": {
-                        "manager": "John D Bhagwandin", 
-                        "phone": "(212) 759-7358"
-                    }, 
-                    "cross_street": "between Park &amp; Lexington Aves.", 
-                    "geolocation": {
-                        "coordinates": [
-                            -73.9691, 
-                            40.7619
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "regular": [
-                            {
-                                "close": null, 
-                                "day": "Sun", 
-                                "open": null
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Mon", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Tue", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Wed", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Thu", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Fri", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "New York", 
-                    "name": "58th Street Library", 
-                    "postal_code": 10022, 
-                    "region": "NY", 
-                    "slug": "58th-street", 
-                    "social_media": [
-                        {
-                            "href": "http://www.facebook.com/pages/58th-Street-Branch-Library-NYPL/269845179098", 
-                            "site": "facebook"
-                        }, 
-                        {
-                            "href": "http://twitter.com/58stlibrary", 
-                            "site": "twitter"
-                        }, 
-                        {
-                            "href": "http://foursquare.com/venue/897294", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87219877_nypl_58th_street", 
-                            "site": "bibliocommons"
-                        }
-                    ], 
-                    "street_address": "127 East 58th Street", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/67th-street/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/67th-street/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/4", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/67th-street/blogs"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=4", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/67th-street/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/67th-street/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%2267th+Street%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/67th-street", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/67th-street"
-                        }
-                    }, 
-                    "access": "Fully Accessible", 
-                    "contacts": {
-                        "manager": "Rebecca Dash Donsky", 
-                        "phone": "(212) 734-1717", 
-                        "tty": "(212) 794-3854"
-                    }, 
-                    "cross_street": "near First Ave.", 
-                    "geolocation": {
-                        "coordinates": [
-                            -73.9601, 
-                            40.7652
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "regular": [
-                            {
-                                "close": null, 
-                                "day": "Sun", 
-                                "open": null
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Mon", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Tue", 
-                                "open": "12:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Wed", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Thu", 
-                                "open": "12:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Fri", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "New York", 
-                    "name": "67th Street Library", 
-                    "postal_code": 10065, 
-                    "region": "NY", 
-                    "slug": "67th-street", 
-                    "social_media": [
-                        {
-                            "href": "http://www.facebook.com/pages/67th-Street-Branch-Library/144607708888183", 
-                            "site": "facebook"
-                        }, 
-                        {
-                            "href": "http://twitter.com/67thstrlibrary", 
-                            "site": "twitter"
-                        }, 
-                        {
-                            "href": "http://foursquare.com/venue/266595", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87220031_nypl_67th_street", 
-                            "site": "bibliocommons"
-                        }
-                    ], 
-                    "street_address": "328 East 67th Street", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/96th-street/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/96th-street/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/5", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/96th-street/blogs"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=5", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/96th-street/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/96th-street/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%2296th+Street%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/96th-street", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/96th-street"
-                        }
-                    }, 
-                    "access": "Fully Accessible", 
-                    "contacts": {
-                        "manager": "William J. Seufert", 
-                        "phone": "(212) 289-0908"
-                    }, 
-                    "cross_street": "near Lexington Ave.", 
-                    "geolocation": {
-                        "coordinates": [
-                            -73.9522, 
-                            40.7863
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "regular": [
-                            {
-                                "close": null, 
-                                "day": "Sun", 
-                                "open": null
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Mon", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Tue", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Wed", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Thu", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Fri", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "New York", 
-                    "name": "96th Street Library", 
-                    "postal_code": 10128, 
-                    "region": "NY", 
-                    "slug": "96th-street", 
-                    "social_media": [
-                        {
-                            "href": "http://www.facebook.com/pages/96th-Street-Branch-Library/112904585429247", 
-                            "site": "facebook"
-                        }, 
-                        {
-                            "href": "http://foursquare.com/venue/511119", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87218420_nypl_96th_street", 
-                            "site": "bibliocommons"
-                        }
-                    ], 
-                    "street_address": "112 East 96th Street", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/bloomingdale/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/bloomingdale/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/11", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/bloomingdale/blogs"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=11", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/bloomingdale/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/bloomingdale/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Bloomingdale%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/bloomingdale", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/bloomingdale"
-                        }
-                    }, 
-                    "access": "Partially Accessible", 
-                    "contacts": {
-                        "phone": "(212) 222-8030"
-                    }, 
-                    "cross_street": "between Amsterdam & Columbus Aves.", 
-                    "geolocation": {
-                        "coordinates": [
-                            -73.9671, 
-                            40.796
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "exceptions": {
-                            "description": "Due to the elevator replacement project, there is NO ELEVATOR ACCESS to the 2nd floor.  We apologize for the inconvenience!\r\n ", 
-                            "end": "2014-09-30T00:00:00-04:00", 
-                            "start": "2014-09-29T11:15:10-04:00"
-                        }, 
-                        "regular": [
-                            {
-                                "close": null, 
-                                "day": "Sun", 
-                                "open": null
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Mon", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Tue", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Wed", 
-                                "open": "12:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Thu", 
-                                "open": "12:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Fri", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "New York", 
-                    "name": "Bloomingdale Library", 
-                    "postal_code": 10025, 
-                    "region": "NY", 
-                    "slug": "bloomingdale", 
-                    "social_media": [
-                        {
-                            "href": "http://www.facebook.com/pages/Bloomingdale-Branch-Library/55295381601", 
-                            "site": "facebook"
-                        }, 
-                        {
-                            "href": "http://twitter.com/BloomingaleNYPL", 
-                            "site": "twitter"
-                        }, 
-                        {
-                            "href": "http://foursquare.com/venue/147934", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87220085_nypl_bloomingdale", 
-                            "site": "bibliocommons"
-                        }
-                    ], 
-                    "street_address": "150 West 100th Street", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/bronx-library-center/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/bronx-library-center/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/12", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/bronx-library-center/blogs"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=12", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/bronx-library-center/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/bronx-library-center/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Bronx+Library+Center%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/bronx-library-center", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/bronx-library-center"
-                        }
-                    }, 
-                    "access": "Fully Accessible", 
-                    "contacts": {
-                        "manager": "Michael Alvarez", 
-                        "phone": "(718) 579-4244", 
-                        "tty": "(718) 579-4244"
-                    }, 
-                    "cross_street": "at Briggs Avenue", 
-                    "geolocation": {
-                        "coordinates": [
-                            -73.8944, 
-                            40.8634
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "regular": [
-                            {
-                                "close": "18:00", 
-                                "day": "Sun", 
-                                "open": "12:00"
-                            }, 
-                            {
-                                "close": "21:00", 
-                                "day": "Mon", 
-                                "open": "09:00"
-                            }, 
-                            {
-                                "close": "21:00", 
-                                "day": "Tue", 
-                                "open": "09:00"
-                            }, 
-                            {
-                                "close": "21:00", 
-                                "day": "Wed", 
-                                "open": "09:00"
-                            }, 
-                            {
-                                "close": "21:00", 
-                                "day": "Thu", 
-                                "open": "09:00"
-                            }, 
-                            {
-                                "close": "21:00", 
-                                "day": "Fri", 
-                                "open": "09:00"
-                            }, 
-                            {
-                                "close": "21:00", 
-                                "day": "Sat", 
-                                "open": "09:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "Bronx", 
-                    "name": "Bronx Library Center", 
-                    "postal_code": 10458, 
-                    "region": "NY", 
-                    "slug": "bronx-library-center", 
-                    "social_media": [
-                        {
-                            "href": "http://www.facebook.com/pages/Bronx-Library-Center-NYPL/167290796662123", 
-                            "site": "facebook"
-                        }, 
-                        {
-                            "href": "http://twitter.com/#!/BLC_Adult", 
-                            "site": "twitter"
-                        }, 
-                        {
-                            "href": "http://foursquare.com/venue/1208744", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87216544_nypl_bronx_library_ctr", 
-                            "site": "bibliocommons"
-                        }, 
-                        {
-                            "href": "http://bronxlibrarycenter.tumblr.com/", 
-                            "site": "tumblr"
-                        }
-                    ], 
-                    "street_address": "310 East Kingsbridge Road", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/francis-martin/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/francis-martin/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/26", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/francis-martin/blogs"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=26", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/francis-martin/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/francis-martin/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Francis+Martin%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/francis-martin", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/francis-martin"
-                        }
-                    }, 
-                    "access": "Fully Accessible", 
-                    "contacts": {
-                        "manager": "Linda Jones", 
-                        "phone": "(718) 295-5287"
-                    }, 
-                    "cross_street": "at 181st St.", 
-                    "geolocation": {
-                        "coordinates": [
-                            -73.9095, 
-                            40.8574
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "regular": [
-                            {
-                                "close": null, 
-                                "day": "Sun", 
-                                "open": null
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Mon", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Tue", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Wed", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Thu", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Fri", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "Bronx", 
-                    "name": "Francis Martin Library", 
-                    "postal_code": 10453, 
-                    "region": "NY", 
-                    "slug": "francis-martin", 
-                    "social_media": [
-                        {
-                            "href": "http://www.facebook.com/pages/Francis-Martin-Library/185654073694", 
-                            "site": "facebook"
-                        }, 
-                        {
-                            "href": "http://twitter.com/FXRLibrary", 
-                            "site": "twitter"
-                        }, 
-                        {
-                            "href": "http://foursquare.com/venue/13310835", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87217316_nypl_francis_martin", 
-                            "site": "bibliocommons"
-                        }
-                    ], 
-                    "street_address": "2150 University Avenue", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/great-kills/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/great-kills/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/29", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/great-kills/blogs"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=29", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/great-kills/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/great-kills/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Great+Kills%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/great-kills", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/great-kills"
-                        }
-                    }, 
-                    "access": "Fully Accessible", 
-                    "contacts": {
-                        "manager": "Annamaria Mason", 
-                        "phone": "(718) 984-6670"
-                    }, 
-                    "cross_street": "at Margaret St.", 
-                    "geolocation": {
-                        "coordinates": [
-                            -74.151, 
-                            40.5524
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "exceptions": {
-                            "description": "Visit our Teen Corner. Every month a young adult author will be featured along with swag giveaways. See staff for details. Supplies are limited. \r\n\r\n", 
-                            "end": "2014-09-30T00:00:00-04:00", 
-                            "start": "2014-09-29T11:15:17-04:00"
-                        }, 
-                        "regular": [
-                            {
-                                "close": null, 
-                                "day": "Sun", 
-                                "open": null
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Mon", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Tue", 
-                                "open": "12:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Wed", 
-                                "open": "12:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Thu", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Fri", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "Staten Island", 
-                    "name": "Great Kills Library", 
-                    "postal_code": 10308, 
-                    "region": "NY", 
-                    "slug": "great-kills", 
-                    "social_media": [
-                        {
-                            "href": "http://www.facebook.com/pages/Great-Kills-Library/209924302382383", 
-                            "site": "facebook"
-                        }, 
-                        {
-                            "href": "http://foursquare.com/venue/2356727", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87295258_nypl_great_kills", 
-                            "site": "bibliocommons"
-                        }
-                    ], 
-                    "street_address": "56 Giffords Lane", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/hamilton-fish-park/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/hamilton-fish-park/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/30", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/hamilton-fish-park/blogs"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=30", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/hamilton-fish-park/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/hamilton-fish-park/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Hamilton+Fish+Park%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/hamilton-fish-park", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/hamilton-fish-park"
-                        }
-                    }, 
-                    "access": "Partially Accessible", 
-                    "contacts": {
-                        "manager": "Norma Acevedo", 
-                        "phone": "(212) 673-2290"
-                    }, 
-                    "cross_street": "near Avenue D", 
-                    "geolocation": {
-                        "coordinates": [
-                            -73.9791, 
-                            40.7199
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "regular": [
-                            {
-                                "close": null, 
-                                "day": "Sun", 
-                                "open": null
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Mon", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Tue", 
-                                "open": "12:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Wed", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Thu", 
-                                "open": "12:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Fri", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "New York", 
-                    "name": "Hamilton Fish Park Library", 
-                    "postal_code": 10002, 
-                    "region": "NY", 
-                    "slug": "hamilton-fish-park", 
-                    "social_media": [
-                        {
-                            "href": "http://foursquare.com/venue/232658", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87523922_nypl_hamilton_fish_park", 
-                            "site": "bibliocommons"
-                        }
-                    ], 
-                    "street_address": "415 East Houston Street", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/schwarzman/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/schwarzman/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/36", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/schwarzman/blogs"
-                        }, 
-                        "concierge": {
-                            "href": "http://www.nypl.org/ask-nypl/make-appointment-sasb"
-                        }, 
-                        "contact": {
-                            "href": "http://www.nypl.org/locations/tid/36/node/126488"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=36", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/schwarzman/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/schwarzman/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Stephen+A.+Schwarzman+Building%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/schwarzman", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/schwarzman"
-                        }
-                    }, 
-                    "access": "Fully Accessible", 
-                    "contacts": {
-                        "phone": "(917) 275-6975"
-                    }, 
-                    "cross_street": "", 
-                    "geolocation": {
-                        "coordinates": [
-                            -73.9822, 
-                            40.7532
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "exceptions": {
-                            "description": "<p>The Rose Main Reading Room and the Bill Blass Public Catalog Room in the Stephen A. Schwarzman Building will be temporarily closed. <a href=\"http://www.nypl.org/readingroomupdate\">More information is available on the updates page.<a/></p>\r\n\r\n<p>General Research Division (GRD) onsite materials are still available for use in the Stephen A. Schwarzman Building. We encourage you to submit requests in advance of your visit via our <a href=\"http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm;jsessionid=7B8D22D69482BCDDAE43913EA5B374C3?&institution=13777&type=1&language=1&qphost=qpap01pxdu.prod.oclc.org&\">online form</a>.</p>\r\n\r\n<p>Otherwise, you may request GRD materials in Room 217 or in any of the Schwarzman Building\u2019s other reading rooms.</p>\r\n\r\n<p>For offsite requests, please consult our <a href=\"http://catalog.nypl.org/\">Classic Catalog</a> and submit your request for any item by clicking the gray Request From Off-Site Storage button in the catalog record. Materials will be available for pickup in Room 217.</p>\r\n\r\n<p>Laptop computers are available for use in place of our desktop computers. If you prefer to use desktops, you can visit the Mid-Manhattan Library across Fifth Avenue at the corner of 40th Street.</p>", 
-                            "end": "2014-09-30T00:00:00-04:00", 
-                            "start": "2014-09-29T11:15:20-04:00"
-                        }, 
-                        "regular": [
-                            {
-                                "close": null, 
-                                "day": "Sun", 
-                                "open": null
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Mon", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "20:00", 
-                                "day": "Tue", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "20:00", 
-                                "day": "Wed", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Thu", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Fri", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "New York", 
-                    "name": "Stephen A. Schwarzman Building", 
-                    "postal_code": 10018, 
-                    "region": "NY", 
-                    "slug": "schwarzman", 
-                    "social_media": [
-                        {
-                            "href": "http://foursquare.com/venue/31643", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://instagram.com/nypl", 
-                            "site": "instagram"
-                        }
-                    ], 
-                    "street_address": "Fifth Avenue at 42nd Street", 
-                    "synonyms": [], 
-                    "type": "research"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/jefferson-market/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/jefferson-market/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/39", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/jefferson-market/blogs"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=39", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/jefferson-market/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/jefferson-market/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Jefferson+Market%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/jefferson-market", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/jefferson-market"
-                        }
-                    }, 
-                    "access": "Fully Accessible", 
-                    "contacts": {
-                        "manager": "Frank Collerius", 
-                        "phone": "(212) 243-4334"
-                    }, 
-                    "cross_street": "at 10th St.", 
-                    "geolocation": {
-                        "coordinates": [
-                            -73.999, 
-                            40.7347
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "exceptions": {
-                            "description": "Please note our accessible lift is out of order and will be repaired shortly.  Sincere apologies for any inconvenience!", 
-                            "end": "2014-09-30T00:00:00-04:00", 
-                            "start": "2014-09-29T11:15:22-04:00"
-                        }, 
-                        "regular": [
-                            {
-                                "close": null, 
-                                "day": "Sun", 
-                                "open": null
-                            }, 
-                            {
-                                "close": "20:00", 
-                                "day": "Mon", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Tue", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "20:00", 
-                                "day": "Wed", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Thu", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Fri", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "New York", 
-                    "name": "Jefferson Market Library", 
-                    "postal_code": 10011, 
-                    "region": "NY", 
-                    "slug": "jefferson-market", 
-                    "social_media": [
-                        {
-                            "href": "http://www.facebook.com/pages/Jefferson-Market-Library/308585249433", 
-                            "site": "facebook"
-                        }, 
-                        {
-                            "href": "http://twitter.com/jmarketlibrary", 
-                            "site": "twitter"
-                        }, 
-                        {
-                            "href": "http://foursquare.com/venue/418685", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87524126_nypl_jefferson_market", 
-                            "site": "bibliocommons"
-                        }
-                    ], 
-                    "street_address": "425 Avenue of the Americas", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/mid-manhattan-library/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/mid-manhattan-library/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/45", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/mid-manhattan-library/blogs"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=45", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/mid-manhattan-library/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/mid-manhattan-library/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Mid-Manhattan%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/mid-manhattan-library", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/mid-manhattan-library"
-                        }
-                    }, 
-                    "access": "Fully Accessible", 
-                    "contacts": {
-                        "manager": "Caryl Soriano", 
-                        "phone": "(212) 340-0863", 
-                        "tty": "(212) 340-0931"
-                    }, 
-                    "cross_street": "at 40th Street", 
-                    "geolocation": {
-                        "coordinates": [
-                            -73.9817, 
-                            40.7518
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "regular": [
-                            {
-                                "close": "18:00", 
-                                "day": "Sun", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "23:00", 
-                                "day": "Mon", 
-                                "open": "08:00"
-                            }, 
-                            {
-                                "close": "23:00", 
-                                "day": "Tue", 
-                                "open": "08:00"
-                            }, 
-                            {
-                                "close": "23:00", 
-                                "day": "Wed", 
-                                "open": "08:00"
-                            }, 
-                            {
-                                "close": "23:00", 
-                                "day": "Thu", 
-                                "open": "08:00"
-                            }, 
-                            {
-                                "close": "20:00", 
-                                "day": "Fri", 
-                                "open": "08:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "New York", 
-                    "name": "Mid-Manhattan Library", 
-                    "postal_code": 10016, 
-                    "region": "NY", 
-                    "slug": "mid-manhattan-library", 
-                    "social_media": [
-                        {
-                            "href": "http://www.facebook.com/midmanhattanlibrary", 
-                            "site": "facebook"
-                        }, 
-                        {
-                            "href": "http://twitter.com/midmanhattanlib", 
-                            "site": "twitter"
-                        }, 
-                        {
-                            "href": "https://foursquare.com/v/ny-public-library--midmanhattan-library/4e91f563550342b5a4c99baf", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87524369_nypl_mid_manhattan", 
-                            "site": "bibliocommons"
-                        }
-                    ], 
-                    "street_address": "455 Fifth Avenue", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/sibl/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/sibl/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/65", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/sibl/blogs"
-                        }, 
-                        "concierge": {
-                            "href": "http://www.nypl.org/ask-nypl/make-appointment-sibl"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=13307&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=65", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/sibl/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/sibl/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22SIBL+-+Science+Industry+and+Business%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/sibl", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/sibl"
-                        }
-                    }, 
-                    "access": "Fully Accessible", 
-                    "contacts": {
-                        "phone": "(917) 275-6975"
-                    }, 
-                    "cross_street": "", 
-                    "geolocation": {
-                        "coordinates": [
-                            -73.983, 
-                            40.748
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "exceptions": {
-                            "description": "Many of SIBL's research collections are stored offsite. Check in the \"Classic Catalog\" to determine availability and  request materials in advance of your visit. ", 
-                            "end": "2014-09-30T00:00:00-04:00", 
-                            "start": "2014-09-29T11:15:37-04:00"
-                        }, 
-                        "regular": [
-                            {
-                                "close": null, 
-                                "day": "Sun", 
-                                "open": null
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Mon", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "20:00", 
-                                "day": "Tue", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "20:00", 
-                                "day": "Wed", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "20:00", 
-                                "day": "Thu", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Fri", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Sat", 
-                                "open": "11:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "New York", 
-                    "name": "Science, Industry and Business Library (SIBL)", 
-                    "postal_code": 10016, 
-                    "region": "NY", 
-                    "slug": "sibl", 
-                    "social_media": [
-                        {
-                            "href": "https://www.facebook.com/pages/Science-Industry-And-Business-Library-of-The-New-York-Public-Library/166572133369558", 
-                            "site": "facebook"
-                        }, 
-                        {
-                            "href": "http://twitter.com/NYPL_SIBL", 
-                            "site": "twitter"
-                        }, 
-                        {
-                            "href": "http://foursquare.com/venue/249237", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87527461_nypl_sibl", 
-                            "site": "bibliocommons"
-                        }
-                    ], 
-                    "street_address": "188 Madison Avenue @ 34th Street", 
-                    "synonyms": [], 
-                    "type": "research"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/seward-park/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/seward-park/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/67", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/seward-park/blogs"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=67", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/seward-park/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/seward-park/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Seward+Park%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/seward-park", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/seward-park"
-                        }
-                    }, 
-                    "access": "Fully Accessible", 
-                    "contacts": {
-                        "manager": "Laura Rifkin", 
-                        "phone": "(212) 477-6770"
-                    }, 
-                    "cross_street": "at Jefferson St.", 
-                    "geolocation": {
-                        "coordinates": [
-                            -73.9884, 
-                            40.7144
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "regular": [
-                            {
-                                "close": null, 
-                                "day": "Sun", 
-                                "open": null
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Mon", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "20:00", 
-                                "day": "Tue", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Wed", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "20:00", 
-                                "day": "Thu", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Fri", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "New York", 
-                    "name": "Seward Park Library", 
-                    "postal_code": 10002, 
-                    "region": "NY", 
-                    "slug": "seward-park", 
-                    "social_media": [
-                        {
-                            "href": "http://www.facebook.com/pages/Seward-Park-Branch-Library/184768068227826", 
-                            "site": "facebook"
-                        }, 
-                        {
-                            "href": "http://twitter.com/SewardParkNYPL", 
-                            "site": "twitter"
-                        }, 
-                        {
-                            "href": "http://foursquare.com/venue/392525", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87527376_nypl_seward_park", 
-                            "site": "bibliocommons"
-                        }
-                    ], 
-                    "street_address": "192 East Broadway", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/todt-hill-westerleigh/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/todt-hill-westerleigh/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/75", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/todt-hill-westerleigh/blogs"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=75", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/todt-hill-westerleigh/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/todt-hill-westerleigh/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Todt+Hill-Westerleigh%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/todt-hill-westerleigh", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/todt-hill-westerleigh"
-                        }
-                    }, 
-                    "access": "Fully Accessible", 
-                    "contacts": {
-                        "manager": "Jeanise LaBrew", 
-                        "phone": "(718) 494-1642"
-                    }, 
-                    "cross_street": "past Willowbrook Rd.", 
-                    "geolocation": {
-                        "coordinates": [
-                            -74.148, 
-                            40.6098
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "regular": [
-                            {
-                                "close": "17:00", 
-                                "day": "Sun", 
-                                "open": "13:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Mon", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "20:00", 
-                                "day": "Tue", 
-                                "open": "12:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Wed", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Thu", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Fri", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "Staten Island", 
-                    "name": "Todt Hill-Westerleigh Library", 
-                    "postal_code": 10314, 
-                    "region": "NY", 
-                    "slug": "todt-hill-westerleigh", 
-                    "social_media": [
-                        {
-                            "href": "http://foursquare.com/venue/5137307", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87218725_nypl_todt_hill", 
-                            "site": "bibliocommons"
-                        }
-                    ], 
-                    "street_address": "2550 Victory Boulevard", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/grand-central/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/grand-central/amenities"
-                        }, 
-                        "blogs": {
-                            "all": "http://www.nypl.org/blog/library/871", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/grand-central/blogs"
-                        }, 
-                        "contact": {
-                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
-                        }, 
-                        "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=871", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/grand-central/events"
-                        }, 
-                        "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/grand-central/exhibitions"
-                        }, 
-                        "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Grand+Central%22&circ=CIRC|NON%20CIRC"
-                        }, 
-                        "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/grand-central", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/grand-central"
-                        }
-                    }, 
-                    "access": "Fully Accessible", 
-                    "contacts": {
-                        "manager": "Genoveve Stowell", 
-                        "phone": "(212) 621-0670"
-                    }, 
-                    "cross_street": "between Lexington &amp; Third Aves.", 
-                    "geolocation": {
-                        "coordinates": [
-                            -73.974, 
-                            40.7539
-                        ], 
-                        "type": "Point"
-                    }, 
-                    "hours": {
-                        "regular": [
-                            {
-                                "close": null, 
-                                "day": "Sun", 
-                                "open": null
-                            }, 
-                            {
-                                "close": "19:00", 
-                                "day": "Mon", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Tue", 
-                                "open": "10:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Wed", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Thu", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "18:00", 
-                                "day": "Fri", 
-                                "open": "11:00"
-                            }, 
-                            {
-                                "close": "17:00", 
-                                "day": "Sat", 
-                                "open": "10:00"
-                            }
-                        ]
-                    }, 
-                    "locality": "New York", 
-                    "name": "Grand Central Library", 
-                    "postal_code": 10017, 
-                    "region": "NY", 
-                    "slug": "grand-central", 
-                    "social_media": [
-                        {
-                            "href": "https://www.facebook.com/pages/Grand-Central-Library/145759075487536", 
-                            "site": "facebook"
-                        }, 
-                        {
-                            "href": "http://twitter.com/GrandCentralLib", 
-                            "site": "twitter"
-                        }, 
-                        {
-                            "href": "http://foursquare.com/venue/231626", 
-                            "site": "foursquare"
-                        }, 
-                        {
-                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
-                            "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/87523849_nypl_grand_central", 
-                            "site": "bibliocommons"
-                        }
-                    ], 
-                    "street_address": "135 East 46th Street", 
-                    "synonyms": [], 
-                    "type": "circulating"
-                }, 
-                {
-                    "_links": {
-                        "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/battery-park-city/alerts"
-                        }, 
-                        "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/battery-park-city/amenities"
+                            "href": "http://locations.api.nypl.org/locations/battery-park-city/amenities"
                         }, 
                         "blogs": {
                             "all": "http://www.nypl.org/blog/library/2787", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/battery-park-city/blogs"
+                            "href": "http://locations.api.nypl.org/locations/battery-park-city/blogs"
                         }, 
                         "contact": {
                             "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
                         }, 
                         "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=2787", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/battery-park-city/events"
+                            "all": "http://www.nypl.org/events/calendar?location=2787", 
+                            "href": "http://locations.api.nypl.org/locations/battery-park-city/events"
                         }, 
                         "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/battery-park-city/exhibitions"
+                            "href": "http://locations.api.nypl.org/locations/battery-park-city/exhibitions"
                         }, 
                         "on_shelves": {
                             "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Battery+Park+City%22&circ=CIRC|NON%20CIRC"
                         }, 
                         "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/battery-park-city", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/battery-park-city"
+                            "about": "http://www.nypl.org/about/locations/battery-park-city", 
+                            "href": "http://locations.api.nypl.org/locations/battery-park-city"
                         }
                     }, 
                     "access": "Fully Accessible", 
@@ -2228,10 +206,6 @@
                         {
                             "href": "http://www.youtube.com/NewYorkPublicLibrary", 
                             "site": "youtube"
-                        }, 
-                        {
-                            "href": "http://nypl.bibliocommons.com/lists/show/86806309_nypl_battery_park_city", 
-                            "site": "bibliocommons"
                         }
                     ], 
                     "street_address": "175 North End Avenue", 
@@ -2241,43 +215,43 @@
                 {
                     "_links": {
                         "alerts": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/115th-street/alerts"
+                            "href": "http://locations.api.nypl.org/locations/castle-hill/alerts"
                         }, 
                         "amenities": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/115th-street/amenities"
+                            "href": "http://locations.api.nypl.org/locations/castle-hill/amenities"
                         }, 
                         "blogs": {
-                            "all": "http://www.nypl.org/blog/library/1", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/115th-street/blogs"
+                            "all": "http://www.nypl.org/blog/library/13", 
+                            "href": "http://locations.api.nypl.org/locations/castle-hill/blogs"
                         }, 
                         "contact": {
                             "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
                         }, 
                         "events": {
-                            "all": "http://dev.www.aws.nypl.org/events/calendar?location=1", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/115th-street/events"
+                            "all": "http://www.nypl.org/events/calendar?location=13", 
+                            "href": "http://locations.api.nypl.org/locations/castle-hill/events"
                         }, 
                         "exhibitions": {
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/115th-street/exhibitions"
+                            "href": "http://locations.api.nypl.org/locations/castle-hill/exhibitions"
                         }, 
                         "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22115th+Street%22&circ=CIRC|NON%20CIRC"
+                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Castle+Hill%22&circ=CIRC|NON%20CIRC"
                         }, 
                         "self": {
-                            "about": "http://dev.www.aws.nypl.org/about/locations/115th-street", 
-                            "href": "http://locations-api-alpha.herokuapp.com/locations/115th-street"
+                            "about": "http://www.nypl.org/about/locations/castle-hill", 
+                            "href": "http://locations.api.nypl.org/locations/castle-hill"
                         }
                     }, 
                     "access": "Fully Accessible", 
                     "contacts": {
-                        "manager": "Tequila Davis", 
-                        "phone": "(212) 666-9393"
+                        "manager": "Yilda Rodriguez", 
+                        "phone": "(718) 824-3838"
                     }, 
-                    "cross_street": "", 
+                    "cross_street": "at Bruckner Blvd.", 
                     "geolocation": {
                         "coordinates": [
-                            -73.9532, 
-                            40.8028
+                            -73.8499, 
+                            40.8264
                         ], 
                         "type": "Point"
                     }, 
@@ -2291,22 +265,240 @@
                             {
                                 "close": "19:00", 
                                 "day": "Mon", 
-                                "open": "12:00"
+                                "open": "11:00"
                             }, 
                             {
                                 "close": "18:00", 
                                 "day": "Tue", 
-                                "open": "11:00"
+                                "open": "10:00"
                             }, 
                             {
                                 "close": "19:00", 
                                 "day": "Wed", 
-                                "open": "12:00"
+                                "open": "11:00"
                             }, 
                             {
                                 "close": "18:00", 
                                 "day": "Thu", 
-                                "open": "11:00"
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "17:00", 
+                                "day": "Fri", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "17:00", 
+                                "day": "Sat", 
+                                "open": "10:00"
+                            }
+                        ]
+                    }, 
+                    "locality": "Bronx", 
+                    "name": "Castle Hill Library", 
+                    "postal_code": 10473, 
+                    "region": "NY", 
+                    "slug": "castle-hill", 
+                    "social_media": [
+                        {
+                            "href": "http://twitter.com/castle_hill", 
+                            "site": "twitter"
+                        }, 
+                        {
+                            "href": "http://foursquare.com/venue/13309618", 
+                            "site": "foursquare"
+                        }, 
+                        {
+                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
+                            "site": "youtube"
+                        }, 
+                        {
+                            "href": "http://www.flickr.com/photos/castlehill_library", 
+                            "site": "flickr"
+                        }
+                    ], 
+                    "street_address": "947 Castle Hill Avenue", 
+                    "synonyms": [], 
+                    "type": "circulating"
+                }, 
+                {
+                    "_links": {
+                        "alerts": {
+                            "href": "http://locations.api.nypl.org/locations/cathedral/alerts"
+                        }, 
+                        "amenities": {
+                            "href": "http://locations.api.nypl.org/locations/cathedral/amenities"
+                        }, 
+                        "blogs": {
+                            "all": "http://www.nypl.org/blog/library/14", 
+                            "href": "http://locations.api.nypl.org/locations/cathedral/blogs"
+                        }, 
+                        "contact": {
+                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
+                        }, 
+                        "events": {
+                            "all": "http://www.nypl.org/events/calendar?location=14", 
+                            "href": "http://locations.api.nypl.org/locations/cathedral/events"
+                        }, 
+                        "exhibitions": {
+                            "href": "http://locations.api.nypl.org/locations/cathedral/exhibitions"
+                        }, 
+                        "on_shelves": {
+                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Cathedral%22&circ=CIRC|NON%20CIRC"
+                        }, 
+                        "self": {
+                            "about": "http://www.nypl.org/about/locations/cathedral", 
+                            "href": "http://locations.api.nypl.org/locations/cathedral"
+                        }
+                    }, 
+                    "access": "Partially Accessible", 
+                    "contacts": {
+                        "phone": "(212) 752-3824"
+                    }, 
+                    "cross_street": "at E. 50th St., lower level", 
+                    "geolocation": {
+                        "coordinates": [
+                            -73.9725, 
+                            40.7568
+                        ], 
+                        "type": "Point"
+                    }, 
+                    "hours": {
+                        "exceptions": {
+                            "description": "The Cathedral Library closed temporarily, beginning on January 6th, 2014, to facilitate necessary repairs to the building's facade. The branch is scheduled to reopen in early, 2015. During this temporary closure, we encourage you to visit the following nearby branches:\r\n\r\n*58th Street Library, 127 East 58th Street (between Park & Lexington Aves.)\r\n*Grand Central Library, 135 East 46th Street (between Lexington & Third Aves.)\r\n\r\nDuring the time your hold requests can be picked up at Grand Central Library at 135 East 46th Street (between Lexington & Third Aves.); Grand Central Library can be reached at (212) 621-0670.", 
+                            "end": "2014-10-25T00:00:00-04:00", 
+                            "start": "2014-10-24T08:45:11-04:00"
+                        }, 
+                        "regular": [
+                            {
+                                "close": null, 
+                                "day": "Sun", 
+                                "open": null
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Mon", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Tue", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Wed", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "18:00", 
+                                "day": "Thu", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "17:00", 
+                                "day": "Fri", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": null, 
+                                "day": "Sat", 
+                                "open": null
+                            }
+                        ]
+                    }, 
+                    "locality": "New York", 
+                    "name": "Terence Cardinal Cooke-Cathedral Library", 
+                    "postal_code": 10022, 
+                    "region": "NY", 
+                    "slug": "cathedral", 
+                    "social_media": [
+                        {
+                            "href": "https://www.facebook.com/CathedralNYPL", 
+                            "site": "facebook"
+                        }, 
+                        {
+                            "href": "http://www.youtube.com/NewYorkPublicLibrary", 
+                            "site": "youtube"
+                        }, 
+                        {
+                            "href": "http://nypl.bibliocommons.com/lists/show/87527711_nypl_cathedral", 
+                            "site": "bibliocommons"
+                        }
+                    ], 
+                    "street_address": "560 Lexington Avenue", 
+                    "synonyms": [], 
+                    "type": "circulating"
+                }, 
+                {
+                    "_links": {
+                        "alerts": {
+                            "href": "http://locations.api.nypl.org/locations/chatham-square/alerts"
+                        }, 
+                        "amenities": {
+                            "href": "http://locations.api.nypl.org/locations/chatham-square/amenities"
+                        }, 
+                        "blogs": {
+                            "all": "http://www.nypl.org/blog/library/15", 
+                            "href": "http://locations.api.nypl.org/locations/chatham-square/blogs"
+                        }, 
+                        "contact": {
+                            "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
+                        }, 
+                        "events": {
+                            "all": "http://www.nypl.org/events/calendar?location=15", 
+                            "href": "http://locations.api.nypl.org/locations/chatham-square/events"
+                        }, 
+                        "exhibitions": {
+                            "href": "http://locations.api.nypl.org/locations/chatham-square/exhibitions"
+                        }, 
+                        "on_shelves": {
+                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Chatham+Square%22&circ=CIRC|NON%20CIRC"
+                        }, 
+                        "self": {
+                            "about": "http://www.nypl.org/about/locations/chatham-square", 
+                            "href": "http://locations.api.nypl.org/locations/chatham-square"
+                        }
+                    }, 
+                    "access": "Fully Accessible", 
+                    "contacts": {
+                        "manager": "Sean Ferguson", 
+                        "phone": "(212) 964-6598"
+                    }, 
+                    "cross_street": "near Catherine St.", 
+                    "geolocation": {
+                        "coordinates": [
+                            -73.9965, 
+                            40.7134
+                        ], 
+                        "type": "Point"
+                    }, 
+                    "hours": {
+                        "regular": [
+                            {
+                                "close": null, 
+                                "day": "Sun", 
+                                "open": null
+                            }, 
+                            {
+                                "close": "19:00", 
+                                "day": "Mon", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "19:00", 
+                                "day": "Tue", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "19:00", 
+                                "day": "Wed", 
+                                "open": "10:00"
+                            }, 
+                            {
+                                "close": "19:00", 
+                                "day": "Thu", 
+                                "open": "10:00"
                             }, 
                             {
                                 "close": "17:00", 
@@ -2321,21 +513,21 @@
                         ]
                     }, 
                     "locality": "New York", 
-                    "name": "115th Street Library", 
-                    "postal_code": 10026, 
+                    "name": "Chatham Square Library", 
+                    "postal_code": 10002, 
                     "region": "NY", 
-                    "slug": "115th-street", 
+                    "slug": "chatham-square", 
                     "social_media": [
                         {
-                            "href": "http://www.facebook.com/pages/115th-Street-Branch/105612772837483", 
+                            "href": "http://www.facebook.com/pages/CHATHAM-SQUARE-LIBRARY-NYPL/119857518029956", 
                             "site": "facebook"
                         }, 
                         {
-                            "href": "http://twitter.com/115stBranch", 
+                            "href": "https://twitter.com/#!/ChathamSqNYPL/", 
                             "site": "twitter"
                         }, 
                         {
-                            "href": "http://foursquare.com/venue/1029658", 
+                            "href": "http://foursquare.com/venue/137406", 
                             "site": "foursquare"
                         }, 
                         {
@@ -2343,7 +535,7 @@
                             "site": "youtube"
                         }
                     ], 
-                    "street_address": "203 West 115th Street", 
+                    "street_address": "33 East Broadway", 
                     "synonyms": [], 
                     "type": "circulating"
                 }
@@ -2351,22 +543,23 @@
         }, 
         "_links": {
             "action": {
-                "href": null, 
+                "href": "http://www.nypl.org/help/computers-internet-and-wireless-access/reserving-computer", 
                 "name": "Reserve a PC"
             }, 
             "info": {
-                "href": null
+                "href": "http://www.nypl.org/help/computers-internet-and-wireless-access/reserving-computer"
             }, 
             "self": {
-                "href": "http://locations-api-alpha.herokuapp.com/amenities/7950"
+                "href": "http://locations.api.nypl.org/amenities/7964"
             }
         }, 
         "category": "Computer Services", 
-        "id": 7950, 
+        "id": 7964, 
         "name": "Computers for Public Use", 
         "rank": 1
     }, 
     "response": {
+        "api_version": 0.5, 
         "count": 1, 
         "limit": 1, 
         "offset": 0
