@@ -87,6 +87,16 @@ module Lionactor
       @amenities
     end
 
+    def features
+      if @features.nil?
+        @features = embedded['features'].map do |f|
+          Lionactor::Feature.new(f)
+        end
+      end
+
+      @features
+    end
+
     # Whether or not the location is a circulating branch
     # @see #type
     # @return [Boolean]
