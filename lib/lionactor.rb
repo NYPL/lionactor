@@ -1,5 +1,6 @@
 require "faraday"
 require "json"
+require "ostruct"
 require "lionactor/client"
 require "lionactor/resource"
 require "lionactor/amenity"
