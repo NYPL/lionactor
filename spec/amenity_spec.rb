@@ -63,6 +63,12 @@ describe Lionactor::Amenity do
       end
     end
 
+    describe "#info?" do
+      it "has an info link" do
+        expect(@amenity.info?).to be true
+      end
+    end
+
     describe "#locations" do
       it "returns an array" do
         expect(@amenity.locations).to be_an_instance_of Array
@@ -84,6 +90,12 @@ describe Lionactor::Amenity do
     describe "#action?" do
       it "does not have an action" do
         expect(@amenity.action?).to eq false
+      end
+    end
+
+    describe "#info?" do
+      it "has an info link" do
+        expect(@amenity.info?).to be false
       end
     end
   end
