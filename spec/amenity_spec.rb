@@ -6,6 +6,9 @@ describe Lionactor::Amenity do
     before :each do
       data = JSON.parse(AMENITY)["amenity"]
       @amenity = Lionactor::Amenity.new(data, nil)
+
+      data = JSON.parse(AMENITY_NO_ACTION)["amenity"]
+      @no_action = Lionactor::Amenity.new(data, nil)
     end
 
     describe "via automatic methods" do
@@ -60,6 +63,14 @@ describe Lionactor::Amenity do
     describe "#action?" do
       it "has an action" do
         expect(@amenity.action?).to eq true
+      end
+
+      context "With an amenity that has no action or info" do
+        describe "#action?" do
+          it "does not have an action" do
+            expect(@no_action.action?).to eq false
+          end
+        end
       end
     end
 
