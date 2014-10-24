@@ -111,6 +111,20 @@ describe Lionactor::Location do
         expect(@loc.longitude).to eq -73.9817
       end
     end
+
+    describe "#features" do
+      it "returns an Array" do
+        expect(@loc.features).to be_an_instance_of Array
+      end
+
+      it "returns an Array of Feature objects" do
+        expect(@loc.features.first).to be_an_instance_of Lionactor::Feature
+      end
+
+      it "feature should have titles" do
+        expect(@loc.features.first.title).to eq "The Picture Collection"
+      end
+    end
   end
 
   context "With a research branch" do

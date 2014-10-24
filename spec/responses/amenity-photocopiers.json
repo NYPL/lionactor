@@ -433,43 +433,43 @@
                 {
                     "_links": {
                         "alerts": {
-                            "href": "http://locations.api.nypl.org/locations/chatham-square/alerts"
+                            "href": "http://locations.api.nypl.org/locations/city-island/alerts"
                         }, 
                         "amenities": {
-                            "href": "http://locations.api.nypl.org/locations/chatham-square/amenities"
+                            "href": "http://locations.api.nypl.org/locations/city-island/amenities"
                         }, 
                         "blogs": {
-                            "all": "http://www.nypl.org/blog/library/15", 
-                            "href": "http://locations.api.nypl.org/locations/chatham-square/blogs"
+                            "all": "http://www.nypl.org/blog/library/16", 
+                            "href": "http://locations.api.nypl.org/locations/city-island/blogs"
                         }, 
                         "contact": {
                             "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?&institution=10208&type=1&language=1"
                         }, 
                         "events": {
-                            "all": "http://www.nypl.org/events/calendar?location=15", 
-                            "href": "http://locations.api.nypl.org/locations/chatham-square/events"
+                            "all": "http://www.nypl.org/events/calendar?location=16", 
+                            "href": "http://locations.api.nypl.org/locations/city-island/events"
                         }, 
                         "exhibitions": {
-                            "href": "http://locations.api.nypl.org/locations/chatham-square/exhibitions"
+                            "href": "http://locations.api.nypl.org/locations/city-island/exhibitions"
                         }, 
                         "on_shelves": {
-                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Chatham+Square%22&circ=CIRC|NON%20CIRC"
+                            "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22City+Island%22&circ=CIRC|NON%20CIRC"
                         }, 
                         "self": {
-                            "about": "http://www.nypl.org/about/locations/chatham-square", 
-                            "href": "http://locations.api.nypl.org/locations/chatham-square"
+                            "about": "http://www.nypl.org/about/locations/city-island", 
+                            "href": "http://locations.api.nypl.org/locations/city-island"
                         }
                     }, 
                     "access": "Fully Accessible", 
                     "contacts": {
-                        "manager": "Sean Ferguson", 
-                        "phone": "(212) 964-6598"
+                        "manager": "Judd Karlman", 
+                        "phone": "(718) 885-1703"
                     }, 
-                    "cross_street": "near Catherine St.", 
+                    "cross_street": "between Bay & Fordham Sts.", 
                     "geolocation": {
                         "coordinates": [
-                            -73.9965, 
-                            40.7134
+                            -73.7865, 
+                            40.8477
                         ], 
                         "type": "Point"
                     }, 
@@ -483,22 +483,22 @@
                             {
                                 "close": "19:00", 
                                 "day": "Mon", 
-                                "open": "10:00"
+                                "open": "11:00"
                             }, 
                             {
-                                "close": "19:00", 
+                                "close": "18:00", 
                                 "day": "Tue", 
-                                "open": "10:00"
+                                "open": "11:00"
                             }, 
                             {
-                                "close": "19:00", 
+                                "close": "18:00", 
                                 "day": "Wed", 
-                                "open": "10:00"
+                                "open": "11:00"
                             }, 
                             {
                                 "close": "19:00", 
                                 "day": "Thu", 
-                                "open": "10:00"
+                                "open": "11:00"
                             }, 
                             {
                                 "close": "17:00", 
@@ -512,22 +512,22 @@
                             }
                         ]
                     }, 
-                    "locality": "New York", 
-                    "name": "Chatham Square Library", 
-                    "postal_code": 10002, 
+                    "locality": "Bronx", 
+                    "name": "City Island Library", 
+                    "postal_code": 10464, 
                     "region": "NY", 
-                    "slug": "chatham-square", 
+                    "slug": "city-island", 
                     "social_media": [
                         {
-                            "href": "http://www.facebook.com/pages/CHATHAM-SQUARE-LIBRARY-NYPL/119857518029956", 
+                            "href": "http://www.facebook.com/pages/City-Island-Branch-Library-New-York-Public-Library/121375017941113", 
                             "site": "facebook"
                         }, 
                         {
-                            "href": "https://twitter.com/#!/ChathamSqNYPL/", 
+                            "href": "https://twitter.com/CityIslandNYPL", 
                             "site": "twitter"
                         }, 
                         {
-                            "href": "http://foursquare.com/venue/137406", 
+                            "href": "http://foursquare.com/venue/1853954", 
                             "site": "foursquare"
                         }, 
                         {
@@ -535,28 +535,21 @@
                             "site": "youtube"
                         }
                     ], 
-                    "street_address": "33 East Broadway", 
+                    "street_address": "320 City Island Avenue", 
                     "synonyms": [], 
                     "type": "circulating"
                 }
             ]
         }, 
         "_links": {
-            "action": {
-                "href": "http://www.nypl.org/help/computers-internet-and-wireless-access/reserving-computer", 
-                "name": "Reserve a PC"
-            }, 
-            "info": {
-                "href": "http://www.nypl.org/help/computers-internet-and-wireless-access/reserving-computer"
-            }, 
             "self": {
-                "href": "http://locations.api.nypl.org/amenities/7964"
+                "href": "http://locations.api.nypl.org/amenities/7975"
             }
         }, 
-        "category": "Computer Services", 
-        "id": 7964, 
-        "name": "Computers for Public Use", 
-        "rank": 1
+        "category": "Printing and Copy Services", 
+        "id": 7975, 
+        "name": "Photocopiers (black/white)", 
+        "rank": 5
     }, 
     "response": {
         "api_version": 0.5, 
