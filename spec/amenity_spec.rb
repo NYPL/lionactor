@@ -74,6 +74,29 @@ describe Lionactor::Amenity do
       end
     end
 
+    describe "#action" do
+      it "returns a Hash" do
+        expect(@amenity.action).to be_an_instance_of OpenStruct
+      end
+
+      it "has an href property" do
+        pending "Resolution of LOC-442"
+        expect(@amenity.action.href).to eq "http://pcreserve.nypl.org/"
+      end
+
+      it "has a name property" do
+        expect(@amenity.action.name).to eq "Reserve a PC"
+      end
+
+      context "With an amenity that has no action" do
+        describe "#action" do
+          it "returns nil" do
+            expect(@no_action.action).to be_nil
+          end
+        end
+      end
+    end
+
     describe "#info?" do
       it "has an info link" do
         expect(@amenity.info?).to be true

@@ -14,6 +14,11 @@ module Lionactor
       return ! links["action"].nil?
     end
 
+    def action
+      return OpenStruct.new(links["action"]) if action?
+      return nil
+    end 
+
     def info?
       return ! links["info"].nil?
     end
