@@ -14,6 +14,10 @@ module Lionactor
       return ! links["action"].nil?
     end
 
+    def info?
+      return ! links["info"].nil?
+    end
+
     def locations
       if @locations.nil?
         if (! @data["_embedded"].nil?) and (! @data["_embedded"]["locations"].nil?)
