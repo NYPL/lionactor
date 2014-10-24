@@ -1,6 +1,7 @@
 module Lionactor
   class Client
-    def initialize
+    def initialize(api="http://locations.api.nypl.org/api/v0.5")
+      @api = api
       @conn = Faraday.new
     end
 
@@ -51,13 +52,12 @@ module Lionactor
 
     protected
     def get_endpoint(path)
-      puts api_path(path)
       response = @conn.get(api_path(path))
       JSON.parse response.body
     end
     
     def api_path(path)
-      return "http://locations-api-beta.nypl.org/#{path}"
+      return "#{@api}/#{path}"
     end
   end
 end
