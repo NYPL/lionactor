@@ -10,19 +10,27 @@ module Lionactor
       @locations = nil
     end
 
+    # Indicate whether or not the resource has an associated action
     def action?
       return ! links["action"].nil?
     end
 
+    # Return the associated action. Returned object will have href and name
+    # properties.
+    # @return [OpenStruct]
     def action
       return OpenStruct.new(links["action"]) if action?
       return nil
     end 
 
+    # Indicate whether or not the resource has an associated info link
     def info?
       return ! links["info"].nil?
     end
 
+    # Return the associated info linke. Returned object will have an href
+    # property.
+    # @return [OpenStruct]
     def info
       return OpenStruct.new(links["info"]) if info?
       return nil
