@@ -130,6 +130,11 @@ module Lionactor
       @data['geolocation']['coordinates'][0]
     end
 
+    # Whether or not the location has divisions
+    # @return [Array]
+    def has_divisions?
+      ! embedded['divisions'].nil?
+    end
 
   end
 end    
