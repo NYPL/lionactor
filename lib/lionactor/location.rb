@@ -56,6 +56,7 @@ module Lionactor
       super(data, client)
       @hours = nil
       @amenities = nil
+      @divisions = nil
     end
 
     # The main phone number for the location
@@ -131,10 +132,20 @@ module Lionactor
     end
 
     # Whether or not the location has divisions
-    # @return [Array]
     def has_divisions?
       ! embedded['divisions'].nil?
     end
 
+    # Research divisions at the location
+    # return [Array]
+    def divisions
+      if @divisions.nil?
+        @divisions = embedded['divisions'].map do |d|
+          Lionactor::Division.new(d, @client)
+        end
+      end
+
+      @divisions
+    end
   end
 end    
