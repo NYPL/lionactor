@@ -135,13 +135,13 @@ describe Lionactor::Location do
     end
 
     describe "#is_circulating?" do
-      it "is true" do
+      it "is false" do
         expect(@loc.is_circulating?).to be false
       end
     end
 
     describe "#is_research?" do
-      it "is false" do
+      it "is true" do
         expect(@loc.is_research?).to be true
       end
     end
