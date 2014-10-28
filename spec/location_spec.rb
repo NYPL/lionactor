@@ -157,7 +157,16 @@ describe Lionactor::Location do
         expect(@loc.has_divisions?).to be true
       end
     end
+
+    describe "#divisions" do
+      it "returns an Array" do
+        expect(@loc.divisions).to be_an_instance_of Array
+      end
+
+      it "returns an Array of Division objects" do
+        expect(@loc.divisions.first).to be_an_instance_of Lionactor::Division
+      end
+    end
   end
-    
 end
  
