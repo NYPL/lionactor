@@ -392,6 +392,23 @@
                 {
                     "_links": {
                         "self": {
+                            "href": "http://www.nypl.org/blog/2014/10/23/jane-smiley-podcast"
+                        }
+                    }, 
+                    "author": {
+                        "location": null, 
+                        "name": "Tracy O'Neill", 
+                        "position": "Social Media Curator"
+                    }, 
+                    "body": "The New York Public Library Podcast brings you the best of the Library's author talks, live events, and other bookish curiosities. In our most recent episode, author Jane Smiley visited NYPL for Books at Noon, where she discussed the origins of her trilogy The Last Hundred Years, the hard part about living with characters for one hundred years of their lives, and her middle school reading tastes.", 
+                    "id": 276087, 
+                    "image": "https://www.nypl.org/sites/default/files/10649569_10154547089413125_5040943063917491583_n.jpg", 
+                    "pubdate": "2014-10-23T18:26:31Z", 
+                    "title": "Podcast: Jane Smiley on Living with Characters"
+                }, 
+                {
+                    "_links": {
+                        "self": {
                             "href": "http://www.nypl.org/blog/2014/10/22/genealogical-research-using-newspapers"
                         }
                     }, 
@@ -426,6 +443,23 @@
                 {
                     "_links": {
                         "self": {
+                            "href": "http://www.nypl.org/blog/2014/10/17/africans-india-then-and-now"
+                        }
+                    }, 
+                    "author": {
+                        "location": "Curator of Digital Collections, Schomburg Center for Research in Black Culture", 
+                        "name": "Sylviane A. Diouf", 
+                        "position": null
+                    }, 
+                    "body": "The Schomburg Center's exhibition Africans in India: A Rediscovery recently opened in New Delhi, India's capital, against a backdrop of racist attacks against Africans. The contrast between the African experience of yesterday and that of today could not have been greater and the exhibition could not have come at a more appropriate time.", 
+                    "id": 275827, 
+                    "image": "https://www.nypl.org/sites/default/files/styles/medium/public/05-02.jpg?itok=xRDx2GX3", 
+                    "pubdate": "2014-10-17T17:49:28Z", 
+                    "title": "Africans in India: Then and Now"
+                }, 
+                {
+                    "_links": {
+                        "self": {
                             "href": "http://www.nypl.org/blog/2014/10/17/birthday-moby-dick"
                         }
                     }, 
@@ -456,40 +490,6 @@
                     "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/Mark%20Strand_CREDIT_Sarah%20Schatz-180_0.jpg", 
                     "pubdate": "2014-09-29T16:59:17Z", 
                     "title": "Ask the Author: Mark Strand"
-                }, 
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2014/09/25/kermit-there-was-catesby"
-                        }
-                    }, 
-                    "author": {
-                        "location": "Stephen A. Schwarzman Building, Rare Book Division", 
-                        "name": "Jessica Pigza", 
-                        "position": null
-                    }, 
-                    "body": "My devotion to Kermit has led to a love for frogs in print as well, from Arnold Lobel's Frog and Toad books to Ken Kimura's 999 Frogs. And whenever I examine illustrated natural histories in the Rare Book Division where I work, I'm always on the lookout for Kermit's amphibious ancestors.", 
-                    "id": 273469, 
-                    "image": "http://images.nypl.org/index.php?id=400816&t=w", 
-                    "pubdate": "2014-09-25T17:57:30Z", 
-                    "title": "Before Kermit, There Was Catesby"
-                }, 
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2014/09/25/19th-century-fashion-plate-magazines"
-                        }
-                    }, 
-                    "author": {
-                        "location": "Volunteer, Art & Architecture Collection, Stephen A. Schwarzman Building", 
-                        "name": "Doris Straus", 
-                        "position": null
-                    }, 
-                    "body": "The Art & Architecture Collection has a large collection of women\u2019s (and some men\u2019s) 19th century fashion-plate periodicals. While French fashion dominated the 19th century this post features a selection of magazines from England, America and Sweden.", 
-                    "id": 273273, 
-                    "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/(1)%20Gallery%20of%20Fashion%201799.JPG", 
-                    "pubdate": "2014-09-25T15:08:26Z", 
-                    "title": "Fashion, The High Life, and \"The Duties of Married Females\": 19th Century Fashion-Plate Magazines"
                 }
             ], 
             "divisions": [
@@ -533,8 +533,8 @@
                     "hours": {
                         "exceptions": {
                             "description": "<p>NOTE: The Stephen A. Schwarzman Building will be CLOSED on Monday, November 3, 2014 for the Library's annual Library Lions fund-raising event.</p>\r\n\r\n<p>The Rose Main Reading Room and the Bill Blass Public Catalog Room in the Stephen A. Schwarzman Building will be temporarily closed. <a href=\"http://www.nypl.org/readingroomupdate\">More information is available on the updates page.<a/></p>\r\n\r\n<p>General Research Division (GRD) onsite materials are still available for use in the Stephen A. Schwarzman Building. We encourage you to submit requests in advance of your visit via our <a href=\"http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm;jsessionid=7B8D22D69482BCDDAE43913EA5B374C3?&institution=13777&type=1&language=1&qphost=qpap01pxdu.prod.oclc.org&\">online form</a>.</p>\r\n\r\n<p>Otherwise, you may request GRD materials in Room 217 or in any of the Schwarzman Building\u2019s other reading rooms.</p>\r\n\r\n<p>For offsite requests, please consult our <a href=\"http://catalog.nypl.org/\">Classic Catalog</a> and submit your request for any item by clicking the gray Request From Off-Site Storage button in the catalog record. Materials will be available for pickup in Room 217.</p>", 
-                            "end": "2014-10-25T00:00:00-04:00", 
-                            "start": "2014-10-24T10:46:04-04:00"
+                            "end": "2014-10-29T00:00:00-04:00", 
+                            "start": "2014-10-28T13:46:03-04:00"
                         }, 
                         "regular": [
                             {
@@ -583,12 +583,12 @@
                     "open": true, 
                     "plan_your_visit": [
                         {
-                            "label": "Access Procedures", 
-                            "url": "http://www.nypl.org/about/divisions/general-research-division/access"
-                        }, 
-                        {
                             "label": "Plan Your Research Visit", 
                             "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
+                        }, 
+                        {
+                            "label": "Access Procedures", 
+                            "url": "http://www.nypl.org/about/divisions/general-research-division/access"
                         }
                     ], 
                     "rank": 0, 
@@ -695,12 +695,12 @@
                     "open": true, 
                     "plan_your_visit": [
                         {
-                            "label": "Access Procedures", 
-                            "url": "http://www.nypl.org/about/divisions/wallach-division/access"
-                        }, 
-                        {
                             "label": "Plan Your Research Visit", 
                             "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
+                        }, 
+                        {
+                            "label": "Access Procedures", 
+                            "url": "http://www.nypl.org/about/divisions/wallach-division/access"
                         }
                     ], 
                     "rank": 1, 
@@ -898,6 +898,10 @@
                     "open": true, 
                     "plan_your_visit": [
                         {
+                            "label": "Plan Your Research Visit", 
+                            "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
+                        }, 
+                        {
                             "label": "Access Procedures", 
                             "url": "http://www.nypl.org/about/divisions/milstein/access"
                         }, 
@@ -908,10 +912,6 @@
                         {
                             "label": "Internet Resources", 
                             "url": "http://www.nypl.org/about/divisions/milstein/internet-resources"
-                        }, 
-                        {
-                            "label": "Plan Your Research Visit", 
-                            "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
                         }
                     ], 
                     "rank": 3, 
@@ -974,8 +974,8 @@
                     "hours": {
                         "exceptions": {
                             "description": "November closings:\r\n The Library will be closed Monday, November 3 (Annual Library Lions Fundraising Event); Tuesday, November 11 (Veterans' Day); and Thursday, November 27 (Thanksgiving Day).", 
-                            "end": "2014-10-25T00:00:00-04:00", 
-                            "start": "2014-10-24T10:46:07-04:00"
+                            "end": "2014-10-29T00:00:00-04:00", 
+                            "start": "2014-10-28T13:46:06-04:00"
                         }, 
                         "regular": [
                             {
@@ -1024,12 +1024,12 @@
                     "open": true, 
                     "plan_your_visit": [
                         {
-                            "label": "Access Procedures", 
-                            "url": "http://www.nypl.org/about/divisions/jewish-division/access"
-                        }, 
-                        {
                             "label": "Plan Your Research Visit", 
                             "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
+                        }, 
+                        {
+                            "label": "Access Procedures", 
+                            "url": "http://www.nypl.org/about/divisions/jewish-division/access"
                         }
                     ], 
                     "rank": 4, 
@@ -1330,12 +1330,12 @@
                     "open": true, 
                     "plan_your_visit": [
                         {
-                            "label": "Access Procedures", 
-                            "url": "http://www.nypl.org/about/divisions/berg-collection-english-and-american-literature/access"
-                        }, 
-                        {
                             "label": "Plan Your Research Visit", 
                             "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
+                        }, 
+                        {
+                            "label": "Access Procedures", 
+                            "url": "http://www.nypl.org/about/divisions/berg-collection-english-and-american-literature/access"
                         }
                     ], 
                     "rank": 7, 
@@ -1428,12 +1428,12 @@
                     "open": true, 
                     "plan_your_visit": [
                         {
-                            "label": "Access Procedures", 
-                            "url": "http://www.nypl.org/about/divisions/pforzheimer-collection-shelley-and-his-circle/access"
-                        }, 
-                        {
                             "label": "Plan Your Research Visit", 
                             "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
+                        }, 
+                        {
+                            "label": "Access Procedures", 
+                            "url": "http://www.nypl.org/about/divisions/pforzheimer-collection-shelley-and-his-circle/access"
                         }
                     ], 
                     "rank": 8, 
@@ -1448,116 +1448,119 @@
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2014/10/25/family-read-aloud"
+                            "href": "http://www.nypl.org/events/programs/2014/10/28/preschool-storytime"
                         }
                     }, 
-                    "body": "A librarian will share favorite picture books, providing children with the wonder of books and the joy of reading.  For children ages 3-8.", 
-                    "end": "2014-10-25T16:00:00Z", 
-                    "id": 265416, 
+                    "body": "Stories, songs and participation activities for children ages 3-5.", 
+                    "end": "2014-10-28T20:30:00Z", 
+                    "id": 266258, 
                     "image": null, 
                     "registration": null, 
-                    "start": "2014-10-25T15:30:00Z", 
+                    "start": "2014-10-28T20:00:00Z", 
                     "status": {
                         "label": null, 
                         "status": true
                     }, 
-                    "title": "Family Read Aloud"
+                    "title": "Preschool Storytime"
                 }, 
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2014/10/25/legend-sleepy-hollow-bones"
+                            "href": "http://www.nypl.org/events/programs/2014/10/28/bryan-stevenson"
                         }
                     }, 
-                    "body": "Ichabod is a bird who loves to fly--even at night.  But when the other birds begin frightening him with with tales of a terrifying creature of the night--Sleepy HollowBones--he starts having second thoughts!  Presented by Jonathan Ellers.  Activity and craft to follow. For ages 4 and older.", 
-                    "end": "2014-10-25T19:00:00Z", 
-                    "id": 271060, 
+                    "body": "Does our criminal justice system lack mercy? Could the U.S. legal system exact justice if it abolished capital punishment, or eliminated mandatory minimum sentencing? These questions are at the heart of Bryan Stevenson\u2019s new book, Just Mercy, which explores these issues and chronicles his career as founder and executive director of the Equal Justice Initiative. Joining him at LIVE is Sister Helen Prejean, from The Ministry Against the Death Penalty and author of Dead Man Walking: An Eyewitness Account of the Death Penalty in the United States. \n\nBRYAN STEVENSON is a public-interest lawyer...", 
+                    "end": "2014-10-29T01:00:00Z", 
+                    "id": 266876, 
                     "image": null, 
                     "registration": null, 
-                    "start": "2014-10-25T19:00:00Z", 
+                    "start": "2014-10-28T23:00:00Z", 
                     "status": {
                         "label": null, 
                         "status": true
                     }, 
-                    "title": "The Legend of Sleepy Hollow Bones"
+                    "title": "Bryan Stevenson | Sister Helen Prejean"
                 }, 
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2014/10/26/books-boo"
+                            "href": "http://www.nypl.org/events/programs/2014/10/29/books-noon-sam-roberts"
                         }
                     }, 
-                    "body": "An annual Halloween favorite, this ghoulishly fun event offers Family Members of The New York Public Library exclusive access to a morning of spooky festivities, enchanted performances and readings, delicious treats, and a little hocus pocus.\n\t\n\tSunday, October 26, 2014\n\tDoors open at 9:45 a.m.\n\tFun begins at 10 a.m.\n\t\n\tHosted by the Conservators program. This event is open to all Conservator Family Members and above, and is also open to Young Lions Family Members and above. For more information about the Conservators or Young Lions programs or to join, please contact Karen Seo at...", 
-                    "end": "2014-10-26T16:00:00Z", 
-                    "id": 269676, 
+                    "body": "Sam Roberts comes to Books at Noon to discuss his latest work, A History of New York in 101 Objects.\n\nSam Roberts is the urban affairs correspondent for The New York Times.  He is the host of The New York Times Close Up, an hour-long weekly news and interview program on cable channel NY1 that he inaugurated in 1992. He is the author or editor of eight previous books, including A History of New York in 101 Objects, which is being published simultaneously with a new edition of The Brother. He lives in New York City.\n\nMake the most of your lunch hour and come to The New York Public Library's...", 
+                    "end": "2014-10-29T17:00:00Z", 
+                    "id": 270143, 
                     "image": null, 
                     "registration": null, 
-                    "start": "2014-10-26T14:00:00Z", 
+                    "start": "2014-10-29T16:00:00Z", 
                     "status": {
                         "label": null, 
                         "status": true
                     }, 
-                    "title": "Books & Boo!"
+                    "title": "Sam Roberts"
                 }, 
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2014/10/26/family-read-aloud"
+                            "href": "http://www.nypl.org/events/programs/2014/10/29/nina-trivedi"
                         }
                     }, 
-                    "body": "A librarian will share favorite picture books, providing children with the wonder of books and the joy of reading.  For children ages 3-8.", 
-                    "end": "2014-10-26T19:30:00Z", 
-                    "id": 266237, 
-                    "image": null, 
-                    "registration": null, 
-                    "start": "2014-10-26T19:00:00Z", 
-                    "status": {
-                        "label": null, 
-                        "status": true
-                    }, 
-                    "title": "Family Read Aloud"
-                }, 
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/events/programs/2014/10/27/baby-laptime-pre-walkers-birth-12-months"
-                        }
-                    }, 
-                    "body": "Babies from birth to 12 months old (pre-walkers) and their parents/caregivers can enjoy great books, lively songs, and rhymes, and meet other babies in the neighborhood.  Space is limited.  Tickets are given out on a first come, first served basis.", 
-                    "end": "2014-10-27T15:45:00Z", 
-                    "id": 264197, 
+                    "body": "This talk will focus on the theories of Edward Bernays and his Freudian influences, with particular focus on Bernays\u2019 work with Woodrow Wilson and the affective relationship of key policies during and after WW1.  How can we critique commodities, production, consumption and propaganda in relation to Debord\u2019s concept of the society of the spectacle and Marx\u2019s commodity fetish?  Post modern theory will help us to look at current notions capitalist realism in relation to political spectacle.  Case studies of the exhibition, Propaganda: Power and Persuasion, at the British library in 2013...", 
+                    "end": "2014-10-29T17:15:00Z", 
+                    "id": 268322, 
                     "image": null, 
                     "registration": {
-                        "start": "2014-10-27T15:15:00Z", 
+                        "start": "2014-10-29T17:15:00Z", 
                         "type": "First come, first served"
                     }, 
-                    "start": "2014-10-27T15:15:00Z", 
+                    "start": "2014-10-29T17:15:00Z", 
                     "status": {
                         "label": null, 
                         "status": true
                     }, 
-                    "title": "Baby Laptime for Pre-Walkers (birth to 12 months)"
+                    "title": "Propaganda and Political Spectacle"
                 }, 
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2014/10/27/new-walkers-storytime-12-17-months"
+                            "href": "http://www.nypl.org/events/programs/2014/10/29/music-makers-and-story-shakers"
                         }
                     }, 
-                    "body": "Babies from 12-17 months old (walking with assistance) and their parents/caregivers can enjoy great books, lively songs, and rhymes, and meet other babies in the neighborhood.  Space is limited.  Tickets are given out on a first come, first served basis.\n\nPlease note:  Children that are walking independently should attend our toddler program on Thursday mornings.", 
-                    "end": "2014-10-27T17:45:00Z", 
-                    "id": 264223, 
-                    "image": null, 
+                    "body": "Children will make a musical instrument from a different part of the world and play along while listening to a great story.  Recommended for ages 6 to 10.  Pre-registration will be begin on 10/22.", 
+                    "end": "2014-10-29T20:00:00Z", 
+                    "id": 275174, 
+                    "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/African_Drum_2.png", 
                     "registration": {
-                        "start": "2014-10-27T17:15:00Z", 
-                        "type": "First come, first served"
+                        "start": "2014-10-29T20:00:00Z", 
+                        "type": "Phone or in-person"
                     }, 
-                    "start": "2014-10-27T17:15:00Z", 
+                    "start": "2014-10-29T20:00:00Z", 
                     "status": {
                         "label": null, 
                         "status": true
                     }, 
-                    "title": "New Walkers Storytime (12-17 months)"
+                    "title": "Music Makers and Story Shakers: African Drum"
+                }, 
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/events/programs/2014/10/29/fred-herko-warhol\u2019s-first-superstar-billy-name-gerard-forde-artist"
+                        }
+                    }, 
+                    "body": "FREE - South Court Auditorium doors open at 5:30 p.m.\n\nUPDATE - Billy Name, who was scheduled to take part in this talk, is now unable to attend.\n\nAs part of a week long program of events to mark the fiftieth anniversary of the death of Fred Herko, his biographer Gerard Forde talks with Herko's friends Jean-Claude van Itallie and Michael Townsend Smith about Herko's role in Judson Dance Theater, Off-Off-Broadway theater and Warhol's Factory. For details of all the events in this program visit www.freddieherko.com.\n\n\n\t\n\t\tHerko in Double Concerto by James Waring , May 1964, photo by Ed Olaksek...", 
+                    "end": "2014-10-30T00:00:00Z", 
+                    "id": 261361, 
+                    "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/500_Herko%20in%20James%20Waring\u2019s%20Double%20Concerto,%20May%201964,%20photo%20by%20Ed%20Olaksek.jpg", 
+                    "registration": {
+                        "start": "2014-10-29T22:00:00Z", 
+                        "type": "First come, first served"
+                    }, 
+                    "start": "2014-10-29T22:00:00Z", 
+                    "status": {
+                        "label": null, 
+                        "status": true
+                    }, 
+                    "title": "Fred Herko: Warhol s First Superstar | Jean-Claude van Itallie, Michael Townsend Smith, Gerard Forde | An Artist Dialogue Series Event"
                 }
             ], 
             "exhibitions": [
@@ -1720,8 +1723,8 @@
         "hours": {
             "exceptions": {
                 "description": "<p>NOTE: The Stephen A. Schwarzman Building will be CLOSED on Monday, November 3, 2014 for the Library's annual Library Lions fund-raising event.</p>\r\n\r\n<p>The Rose Main Reading Room and the Bill Blass Public Catalog Room in the Stephen A. Schwarzman Building will be temporarily closed. <a href=\"http://www.nypl.org/readingroomupdate\">More information is available on the updates page.<a/></p>\r\n\r\n<p>General Research Division (GRD) onsite materials are still available for use in the Stephen A. Schwarzman Building. We encourage you to submit requests in advance of your visit via our <a href=\"http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm;jsessionid=7B8D22D69482BCDDAE43913EA5B374C3?&institution=13777&type=1&language=1&qphost=qpap01pxdu.prod.oclc.org&\">online form</a>.</p>\r\n\r\n<p>Otherwise, you may request GRD materials in Room 217 or in any of the Schwarzman Building\u2019s other reading rooms.</p>\r\n\r\n<p>For offsite requests, please consult our <a href=\"http://catalog.nypl.org/\">Classic Catalog</a> and submit your request for any item by clicking the gray Request From Off-Site Storage button in the catalog record. Materials will be available for pickup in Room 217.</p>\r\n\r\n<p>Laptop computers are available for use in place of our desktop computers. If you prefer to use desktops, you can visit the Mid-Manhattan Library across Fifth Avenue at the corner of 40th Street.</p>", 
-                "end": "2014-10-25T00:00:00-04:00", 
-                "start": "2014-10-24T10:45:53-04:00"
+                "end": "2014-10-29T00:00:00-04:00", 
+                "start": "2014-10-28T13:45:52-04:00"
             }, 
             "regular": [
                 {
