@@ -125,6 +125,12 @@ describe Lionactor::Location do
         expect(@loc.features.first.title).to eq "The Picture Collection"
       end
     end
+
+    describe "#has_divisions?" do
+      it "is false" do
+        expect(@loc.has_divisions?).to be false
+      end
+    end
   end
 
   context "With a research branch" do
@@ -135,17 +141,32 @@ describe Lionactor::Location do
     end
 
     describe "#is_circulating?" do
-      it "is true" do
+      it "is false" do
         expect(@loc.is_circulating?).to be false
       end
     end
 
     describe "#is_research?" do
-      it "is false" do
+      it "is true" do
         expect(@loc.is_research?).to be true
       end
     end
+
+    describe "#has_divisions?" do
+      it "is true" do
+        expect(@loc.has_divisions?).to be true
+      end
+    end
+
+    describe "#divisions" do
+      it "returns an Array" do
+        expect(@loc.divisions).to be_an_instance_of Array
+      end
+
+      it "returns an Array of Division objects" do
+        expect(@loc.divisions.first).to be_an_instance_of Lionactor::Division
+      end
+    end
   end
-    
 end
  
