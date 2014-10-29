@@ -67,4 +67,17 @@ describe Lionactor::Client do
       end
     end
   end
+
+  describe "#amenity" do
+    before :each do
+      @r = double(Faraday::Response, :body => AMENITY, :headers => {})
+      allow_any_instance_of(Faraday::Connection).to receive(:get).
+        and_return(@r)
+      @amenity = @client.amenity(0)
+    end
+
+    it "returns an Amenity" do
+      expect(@amenity).to be_an_instance_of Lionactor::Amenity
+    end
+  end
 end
