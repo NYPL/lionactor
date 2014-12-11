@@ -252,7 +252,32 @@
             ], 
             "events": null, 
             "exhibitions": null, 
-            "features": null, 
+            "features": [
+                {
+                    "_id": 275629,
+                    "title": "Recently cataloged and available for research",
+                    "body": "<p>Click here for a list of collections and material now available for consultation via research in archives.</p> ",
+                    "image": "http://cdn-dev.www.aws.nypl.org/sites/default/files/images/features/Huson%20Lark.jpeg",
+                    "weight": -10,
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/node/275627"
+                        }
+                    }
+                },
+                {
+                    "_id": 275625,
+                    "title": "John Bigelow papers",
+                    "body": "<p><span>John Bigelow was a newspaper editor, diplomat, and author. His diaries are available digitally and span the years </span><span>1843 to 1911.</span></p> ",
+                    "image": "http://cdn-dev.www.aws.nypl.org/sites/default/files/images/features/Bigelow.jpeg",
+                    "weight": -10,
+                    "_links": {
+                        "self": {
+                            "href": "http://archives.nypl.org/mss/301#c108182"
+                        }
+                    }
+                }
+            ], 
             "location": {
                 "_links": {
                     "alerts": {

@@ -59,6 +59,21 @@ describe Lionactor::Division do
     end
   end
 
+  describe "#features" do
+    it "returns an Array" do
+      puts "#{@div.features.first}"
+      expect(@div.features).to be_an_instance_of Array
+    end
+
+    it "returns an Array of Feature objects" do
+      expect(@div.features.first).to be_an_instance_of Lionactor::Feature
+    end
+
+    it "feature should have titles" do
+      expect(@div.features.first.title).to eq "Recently cataloged and available for research"
+    end
+  end
+
   describe "#parent" do
     it "should not have a parent" do
       expect(@div.parent).to be_nil
