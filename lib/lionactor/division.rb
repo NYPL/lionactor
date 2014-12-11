@@ -41,6 +41,16 @@ module Lionactor
       @divisions
     end
 
+    def features
+      if @features.nil?
+        @features = embedded['features'].map do |f|
+          Lionactor::Feature.new(f)
+        end
+      end
+
+      @features
+    end
+
     # Whether or not the division is a sub-division and has a parent
     def has_parent?
       ! embedded['parent'].nil?
