@@ -75,7 +75,6 @@ describe Lionactor::Amenity do
       end
 
       it "has an href property" do
-        # pending "Resolution of LOC-442"
         expect(@amenity.action.href).to eq "http://pcreserve.nypl.org/"
       end
 
