@@ -3,480 +3,648 @@
         "_embedded": {
             "alerts": [
                 {
-                    "_id": 71582, 
+                    "_id": 283838,
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/node/71582"
+                            "href": "http://www.nypl.org/node/283838"
                         }
-                    }, 
-                    "body": "The New York Public Library will be closed on November 11 in observance of Veterans Day.", 
-                    "end": "2014-11-12T01:00:00-05:00", 
-                    "scope": "all", 
-                    "start": "2014-11-04T00:00:00-05:00", 
-                    "title": "Veterans Day"
-                }, 
+                    },
+                    "body": "<p>The New York Public Library will be closed on Monday, February 16 in observance of Presidents Day.</p>",
+                    "end": "2015-02-16T00:00:00-05:00",
+                    "scope": "all",
+                    "start": "2015-02-12T00:00:00-05:00",
+                    "title": "2015 President's Day"
+                },
                 {
-                    "_id": 71583, 
+                    "_id": 283839,
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/node/71583"
+                            "href": "http://www.nypl.org/node/283839"
                         }
-                    }, 
-                    "body": "The New York Public Library will be closed on Thanksgiving Day, Thursday, November 27.", 
-                    "end": "2014-11-28T01:00:00-05:00", 
-                    "scope": "all", 
-                    "start": "2014-11-20T00:00:00-05:00", 
-                    "title": "Thanksgiving Day"
-                }, 
+                    },
+                    "body": "<p>The New York Public Library will be closed on Sunday, April 5.</p>",
+                    "end": "2015-04-05T00:00:00-04:00",
+                    "scope": "all",
+                    "start": "2015-04-01T00:00:00-04:00",
+                    "title": "2015 Easter"
+                },
                 {
-                    "_id": 71584, 
+                    "_id": 283840,
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/node/71584"
+                            "href": "http://www.nypl.org/node/283840"
                         }
-                    }, 
-                    "body": "All NYPL locations will close at 5 PM on December 24 and will be closed on December 25.", 
-                    "end": "2014-12-26T23:59:00-05:00", 
-                    "scope": "all", 
-                    "start": "2014-12-17T00:00:00-05:00", 
-                    "title": "Christmas"
-                }, 
+                    },
+                    "body": "<p>The New York Public Library will be closed from May 23 through May 25 in observance of Memorial Day.</p>",
+                    "end": "2015-05-25T00:00:00-04:00",
+                    "scope": "all",
+                    "start": "2015-05-17T00:00:00-04:00",
+                    "title": "2015 Memorial Day"
+                },
                 {
-                    "_id": 275835, 
+                    "_id": 283846,
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/node/275835"
+                            "href": "http://www.nypl.org/node/283846"
                         }
-                    }, 
-                    "body": "The Stephen A. Schwarzman Building will be CLOSED on Monday, November 3 for the Library's annual Library Lions fund-raising event.", 
-                    "end": "2014-11-03T00:00:00-05:00", 
-                    "scope": "home", 
-                    "start": "2014-10-17T00:00:00-04:00", 
-                    "title": "Schwarzman Library Lions 2014"
+                    },
+                    "body": "<p>All units of the NYPL will be closed July 4.</p>",
+                    "end": "2015-07-04T00:00:00-04:00",
+                    "scope": "all",
+                    "start": "2015-06-27T00:00:00-04:00",
+                    "title": "2015 Independence Day"
+                },
+                {
+                    "_id": 283851,
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/node/283851"
+                        }
+                    },
+                    "body": "<p>The New York Public Library will be closed September 5th through September 7th in observance of Labor Day.</p>",
+                    "end": "2015-09-07T00:00:00-04:00",
+                    "scope": "all",
+                    "start": "2015-08-28T00:00:00-04:00",
+                    "title": "2015 Labor Day"
+                },
+                {
+                    "_id": 283892,
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/node/283892"
+                        }
+                    },
+                    "body": "<p>The New York Public Library will be closed on Monday, October 12 in observance of Columbus Day.</p>",
+                    "end": "2015-10-12T00:00:00-04:00",
+                    "scope": "home",
+                    "start": "2015-10-07T00:00:00-04:00",
+                    "title": "2015 Columbus Day"
+                },
+                {
+                    "_id": 283893,
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/node/283893"
+                        }
+                    },
+                    "body": "<p>The New York Public Library will be closed on November 11 in observance of Veterans Day.</p>",
+                    "end": "2015-11-11T00:00:00-05:00",
+                    "scope": "all",
+                    "start": "2015-11-06T00:00:00-05:00",
+                    "title": "2015 Veterans Day"
+                },
+                {
+                    "_id": 283894,
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/node/283894"
+                        }
+                    },
+                    "body": "<p>The New York Public Library will be closed on Thanksgiving Day, Thursday, November 26.</p>",
+                    "end": "2015-11-26T00:00:00-05:00",
+                    "scope": "all",
+                    "start": "2015-11-20T00:00:00-05:00",
+                    "title": "2015 Thanksgiving Day"
+                },
+                {
+                    "_id": 283895,
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/node/283895"
+                        }
+                    },
+                    "body": "<p>All NYPL locations will close at 5 PM on December 24 and will be closed on December 25.</p>",
+                    "end": "2015-12-25T00:00:00-05:00",
+                    "scope": "all",
+                    "start": "2015-12-17T00:00:00-05:00",
+                    "title": "2015 Christmas"
+                },
+                {
+                    "_id": 283896,
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/node/283896"
+                        }
+                    },
+                    "body": "<p>All NYPL locations will close at 5 PM on December 31 and will be closed on January 1, 2015.</p>",
+                    "end": "2016-01-01T00:00:00-05:00",
+                    "scope": "all",
+                    "start": "2015-12-26T00:00:00-05:00",
+                    "title": "2015 New Years Eve and New Years Day"
                 }
-            ], 
+            ],
             "blogs": [
                 {
-                    "_id": 162748, 
+                    "_id": 162748,
                     "_links": {
                         "self": {
                             "href": "http://www.nypl.org/blog/2012/04/16/iceland-moss-and-charles-dickens"
                         }
-                    }, 
+                    },
                     "author": {
-                        "location": "Stephen A. Schwarzman Building, Rare Book Division", 
-                        "name": "Jessica Pigza", 
+                        "location": "Stephen A. Schwarzman Building, Rare Book Division",
+                        "name": "Jessica Pigza",
                         "position": null
-                    }, 
-                    "body": "Thanks to bibliophile George Arents, the Rare Book Division's holdings include an extensive collection of nineteenth century books in parts, and they are fascinating artifacts of their time. Little did I know, however, that I'd learn about a healthful and tasty lichen drink while reading one.\n\nSarah Augusta Dickson, the first curator of the George Arents Collection, defined this particular form of serial fiction as \"published piecemeal over a period of time, each unit having its separate cover, usually paper or boards, and in many cases with the title-page and other preliminary matter for the...", 
-                    "image": null, 
-                    "pubdate": "2012-04-16T14:38:31Z", 
+                    },
+                    "body": "Thanks to bibliophile George Arents, the Rare Book Division's holdings include an extensive collection of nineteenth century books in parts, and they are fascinating artifacts of their time. Little did I know, however, that I'd learn about a healthful and tasty lichen drink while reading one.\n\nSarah Augusta Dickson, the first curator of the George Arents Collection, defined this particular form of serial fiction as \"published piecemeal over a period of time, each unit having its separate cover, usually paper or boards, and in many cases with the title-page and other preliminary matter for the...",
+                    "image": null,
+                    "pubdate": "2012-04-16T14:38:31Z",
                     "title": "Iceland Moss and Charles Dickens"
-                }, 
+                },
                 {
-                    "_id": 158211, 
+                    "_id": 158211,
                     "_links": {
                         "self": {
                             "href": "http://www.nypl.org/blog/2012/03/12/houghs-american-woods"
                         }
-                    }, 
+                    },
                     "author": {
-                        "location": "Stephen A. Schwarzman Building, Rare Book Division", 
-                        "name": "Jessica Pigza", 
+                        "location": "Stephen A. Schwarzman Building, Rare Book Division",
+                        "name": "Jessica Pigza",
                         "position": null
-                    }, 
-                    "body": "\ufeffRomeyn Hough (1857-1924) was single-minded in his devotion to trees. He was also a New Yorker, and when he embarked on The American Woods, he turned to the trees of his state first in what would eventually grow to be a 14-volume masterwork. The American Woods remains invaluable today due to the range and age of the tree samples Hough included, and the Library's Rare Book Division holds a complete set of this delicate and beautiful work, as part of its George Arents Collection.\n\nWhat sets The American Woods apart from other tree studies is the presence of samples of each and every North...", 
-                    "image": null, 
-                    "pubdate": "2012-03-12T16:38:22Z", 
+                    },
+                    "body": "\ufeffRomeyn Hough (1857-1924) was single-minded in his devotion to trees. He was also a New Yorker, and when he embarked on The American Woods, he turned to the trees of his state first in what would eventually grow to be a 14-volume masterwork. The American Woods remains invaluable today due to the range and age of the tree samples Hough included, and the Library's Rare Book Division holds a complete set of this delicate and beautiful work, as part of its George Arents Collection.\n\nWhat sets The American Woods apart from other tree studies is the presence of samples of each and every North...",
+                    "image": null,
+                    "pubdate": "2012-03-12T16:38:22Z",
                     "title": "Hough's American Woods"
-                }, 
+                },
                 {
-                    "_id": 145591, 
+                    "_id": 145591,
                     "_links": {
                         "self": {
                             "href": "http://www.nypl.org/blog/2011/12/14/happy-families-and-vintage-games"
                         }
-                    }, 
+                    },
                     "author": {
-                        "location": "Stephen A. Schwarzman Building, Rare Book Division", 
-                        "name": "Jessica Pigza", 
+                        "location": "Stephen A. Schwarzman Building, Rare Book Division",
+                        "name": "Jessica Pigza",
                         "position": null
-                    }, 
-                    "body": "My apologies to Tolstoy, but happy families are NOT all alike. In the Library\u2019s Rare Book Division,  two distinct sets of playing cards prove the point.  Here they are:\n\n\n\nThese cards, designed to be used in a card game called Happy Families, are two series of cigarette cards.\n\n\n\nThe George Arents Collection includes among its holdings thousands of cigarette cards, which were premiums tucked into cigarette packages. The cards were produced in various series meant to be collected--and also meant to encourage cigarette brand loyalty. (In NYPL\u2019s Digital Gallery you can view both sides of...", 
-                    "image": "http://www.nypl.org/sites/default/files/happy_families.inline%20vertical.jpg", 
-                    "pubdate": "2011-12-14T20:51:09Z", 
+                    },
+                    "body": "My apologies to Tolstoy, but happy families are NOT all alike. In the Library\u2019s Rare Book Division,  two distinct sets of playing cards prove the point.  Here they are:\n\n\n\nThese cards, designed to be used in a card game called Happy Families, are two series of cigarette cards.\n\n\n\nThe George Arents Collection includes among its holdings thousands of cigarette cards, which were premiums tucked into cigarette packages. The cards were produced in various series meant to be collected--and also meant to encourage cigarette brand loyalty. (In NYPL\u2019s Digital Gallery you can view both sides of...",
+                    "image": "http://www.nypl.org/sites/default/files/happy_families.inline%20vertical.jpg",
+                    "pubdate": "2011-12-14T20:51:09Z",
                     "title": "Happy Families and Vintage Games"
-                }, 
+                },
                 {
-                    "_id": 28379, 
+                    "_id": 28379,
                     "_links": {
                         "self": {
                             "href": "http://www.nypl.org/blog/2008/04/02/ladies-fashion-insult-one-time"
                         }
-                    }, 
+                    },
                     "author": {
-                        "location": null, 
-                        "name": "Paula Baxter", 
+                        "location": null,
+                        "name": "Paula Baxter",
                         "position": null
-                    }, 
-                    "body": "I ran across the following book while doing research the other day. Written by H.D. Eastman in 1853, it's called Fast man's directory and lovers' guide to the ladies of fashion and houses of pleasure in New-York and other large cities. \nWhat strikes me is the understanding that \"ladies of fashion\" is a term for prostitutes. I didn't know that! I recall that high end courtesans and prostitutes in England were called \"fashionable impures\" in the early nineteenth century, but didn't know about this American usage. Does anyone know the story behind this label and how long it lasted?", 
-                    "image": "http://images.nypl.org/?id=PS_CPS_CD4_057&t=w", 
-                    "pubdate": "2008-04-02T12:36:53Z", 
+                    },
+                    "body": "I ran across the following book while doing research the other day. Written by H.D. Eastman in 1853, it's called Fast man's directory and lovers' guide to the ladies of fashion and houses of pleasure in New-York and other large cities. \nWhat strikes me is the understanding that \"ladies of fashion\" is a term for prostitutes. I didn't know that! I recall that high end courtesans and prostitutes in England were called \"fashionable impures\" in the early nineteenth century, but didn't know about this American usage. Does anyone know the story behind this label and how long it lasted?",
+                    "image": "http://images.nypl.org/?id=PS_CPS_CD4_057&t=w",
+                    "pubdate": "2008-04-02T12:36:53Z",
                     "title": "Ladies of Fashion- An Insult At One Time?"
-                }, 
+                },
                 {
-                    "_id": 27754, 
+                    "_id": 27754,
                     "_links": {
                         "self": {
                             "href": "http://www.nypl.org/blog/2008/01/23/team-photos-and-press"
                         }
-                    }, 
+                    },
                     "author": {
-                        "location": "Special Formats Processing", 
-                        "name": "Virginia Bartow", 
+                        "location": "Special Formats Processing",
+                        "name": "Virginia Bartow",
                         "position": null
-                    }, 
-                    "body": "At first glance, this picture looks like it has seen better days. To a trained eye, it looks like a remarkable survival.\nWhich is it?\nThis picture of the Atlantic Base Ball Club in 1869, from the Albert G. Spalding Collection, is an albumen photographic print, mounted on thin paper board.\n\nTwo words come to mind, \u201cfugitive materials.\u201d Because of the albumen photographic printing process, the image will fade every time it is exposed to light. Imagine how many times this picture has been viewed since it was printed in 1869! The wood pulp that formed the photograph\u2019s mounting backboard is...", 
-                    "image": "http://images.nypl.org/?id=56623&t=w", 
-                    "pubdate": "2008-01-23T17:06:06Z", 
+                    },
+                    "body": "At first glance, this picture looks like it has seen better days. To a trained eye, it looks like a remarkable survival.\nWhich is it?\nThis picture of the Atlantic Base Ball Club in 1869, from the Albert G. Spalding Collection, is an albumen photographic print, mounted on thin paper board.\n\nTwo words come to mind, \u201cfugitive materials.\u201d Because of the albumen photographic printing process, the image will fade every time it is exposed to light. Imagine how many times this picture has been viewed since it was printed in 1869! The wood pulp that formed the photograph\u2019s mounting backboard is...",
+                    "image": "http://images.nypl.org/?id=56623&t=w",
+                    "pubdate": "2008-01-23T17:06:06Z",
                     "title": "Team photos and the press"
                 }
-            ], 
-            "events": null, 
-            "exhibitions": null, 
-            "features": null, 
+            ],
+            "events": null,
+            "exhibitions": null,
+            "features": null,
             "location": {
                 "_links": {
                     "alerts": {
                         "href": "http://locations.api.nypl.org/locations/schwarzman/alerts"
-                    }, 
+                    },
                     "amenities": {
                         "href": "http://locations.api.nypl.org/locations/schwarzman/amenities"
-                    }, 
+                    },
                     "blogs": {
-                        "all": "http://www.nypl.org/blog/library/36", 
+                        "all": "http://www.nypl.org/blog/library/36",
                         "href": "http://locations.api.nypl.org/locations/schwarzman/blogs"
-                    }, 
+                    },
                     "concierge": {
                         "href": "http://www.nypl.org/ask-nypl/make-appointment-sasb"
-                    }, 
+                    },
                     "contact": {
-                        "href": "http://www.nypl.org/locations/tid/36/node/126488"
-                    }, 
+                        "href": "http://www.nypl.org/help/email-a-librarian/sasb"
+                    },
                     "events": {
-                        "all": "http://www.nypl.org/events/calendar?location=36", 
+                        "all": "http://www.nypl.org/events/calendar?location=36",
                         "href": "http://locations.api.nypl.org/locations/schwarzman/events"
-                    }, 
+                    },
                     "exhibitions": {
                         "href": "http://locations.api.nypl.org/locations/schwarzman/exhibitions"
-                    }, 
+                    },
                     "on_shelves": {
                         "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Stephen+A.+Schwarzman+Building%22&circ=CIRC|NON%20CIRC"
-                    }, 
+                    },
                     "self": {
-                        "about": "http://www.nypl.org/about/locations/schwarzman", 
+                        "about": "http://www.nypl.org/about/locations/schwarzman",
                         "href": "http://locations.api.nypl.org/locations/schwarzman"
                     }
-                }, 
-                "about": "The Stephen A. Schwarzman Building is part of The New York Public Library, which consists of four major research libraries and 88 branch libraries located in the Bronx, Manhattan, and Staten Island. Often referred to as the \"main branch,\" the Beaux-Arts landmark building on Fifth Avenue and 42nd Street houses outstanding research collections in the humanities and social sciences as well as a circulating children\u2019s collection.", 
-                "access": "Fully Accessible", 
+                },
+                "about": "The Stephen A. Schwarzman Building is part of The New York Public Library, which consists of four major research libraries and 88 branch libraries located in the Bronx, Manhattan, and Staten Island. Often referred to as the \"main branch,\" the Beaux-Arts landmark building on Fifth Avenue and 42nd Street houses outstanding research collections in the humanities and social sciences as well as a circulating children\u2019s collection.",
+                "access": "Fully Accessible",
                 "contacts": {
                     "phone": "(917) 275-6975"
-                }, 
-                "cross_street": "", 
+                },
+                "cross_street": "",
                 "fundraising": {
-                    "_id": 275290, 
-                    "appeal": "Become a Member", 
-                    "button_label": "Join or Renew", 
-                    "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN", 
+                    "_id": 275290,
+                    "appeal": "Become a Member",
+                    "button_label": "Join or Renew",
+                    "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
                     "statement": "Friends of the Library can support their favorite library and receive great benefits!"
-                }, 
+                },
                 "geolocation": {
                     "coordinates": [
-                        -73.9822, 
+                        -73.9822,
                         40.7532
-                    ], 
+                    ],
                     "type": "Point"
-                }, 
+                },
                 "hours": {
                     "exceptions": {
-                        "description": "<p>NOTE: The Stephen A. Schwarzman Building will be CLOSED on Monday, November 3, 2014 for the Library's annual Library Lions fund-raising event.</p>\r\n\r\n<p>The Rose Main Reading Room and the Bill Blass Public Catalog Room in the Stephen A. Schwarzman Building will be temporarily closed. <a href=\"http://www.nypl.org/readingroomupdate\">More information is available on the updates page.<a/></p>\r\n\r\n<p>General Research Division (GRD) onsite materials are still available for use in the Stephen A. Schwarzman Building. We encourage you to submit requests in advance of your visit via our <a href=\"http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm;jsessionid=7B8D22D69482BCDDAE43913EA5B374C3?&institution=13777&type=1&language=1&qphost=qpap01pxdu.prod.oclc.org&\">online form</a>.</p>\r\n\r\n<p>Otherwise, you may request GRD materials in Room 217 or in any of the Schwarzman Building\u2019s other reading rooms.</p>\r\n\r\n<p>For offsite requests, please consult our <a href=\"http://catalog.nypl.org/\">Classic Catalog</a> and submit your request for any item by clicking the gray Request From Off-Site Storage button in the catalog record. Materials will be available for pickup in Room 217.</p>\r\n\r\n<p>Laptop computers are available for use in place of our desktop computers. If you prefer to use desktops, you can visit the Mid-Manhattan Library across Fifth Avenue at the corner of 40th Street.</p>", 
-                        "end": "2014-10-29T00:00:00-04:00", 
-                        "start": "2014-10-28T15:15:54-04:00"
-                    }, 
+                        "description": "The Rose Main Reading Room and the Bill Blass Public Catalog Room in the Stephen A. Schwarzman Building are temporarily closed.  General Research Division (GRD) onsite materials are still available for use; we encourage you to submit requests in advance via our <a href=\"http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm;jsessionid=7B8D22D69482BCDDAE43913EA5B374C3?&institution=13777&type=1&language=1&qphost=qpap01pxdu.prod.oclc.org&\">online form</a>. The <a href=\"http://catalog.nypl.org/\">Classic Catalog</a> may be used for offsite requests, which will be available for pickup in Room 217. More information is available on the <a href=\"http://www.nypl.org/readingroomupdate\">updates page</a>.<br><br>The Library\u2019s Gottesman Exhibition Hall, which currently houses the \u201cPublic Eye: 175 Years of Sharing Photography\u201d exhibition, is temporarily closed. More information is available on the <a href=\"http://www.nypl.org/events/exhibitions/public-eye\">exhibition page</a>.</p>",
+                        "end": "2015-01-24T00:00:00-05:00",
+                        "start": "2015-01-23T14:45:55-05:00"
+                    },
                     "regular": [
                         {
-                            "close": "17:00", 
-                            "day": "Sun", 
+                            "close": "17:00",
+                            "day": "Sun",
                             "open": "13:00"
-                        }, 
+                        },
                         {
-                            "close": "18:00", 
-                            "day": "Mon", 
+                            "close": "18:00",
+                            "day": "Mon",
                             "open": "10:00"
-                        }, 
+                        },
                         {
-                            "close": "20:00", 
-                            "day": "Tue", 
+                            "close": "20:00",
+                            "day": "Tue",
                             "open": "10:00"
-                        }, 
+                        },
                         {
-                            "close": "20:00", 
-                            "day": "Wed", 
+                            "close": "20:00",
+                            "day": "Wed",
                             "open": "10:00"
-                        }, 
+                        },
                         {
-                            "close": "18:00", 
-                            "day": "Thu", 
+                            "close": "18:00",
+                            "day": "Thu",
                             "open": "10:00"
-                        }, 
+                        },
                         {
-                            "close": "18:00", 
-                            "day": "Fri", 
+                            "close": "18:00",
+                            "day": "Fri",
                             "open": "10:00"
-                        }, 
+                        },
                         {
-                            "close": "18:00", 
-                            "day": "Sat", 
+                            "close": "18:00",
+                            "day": "Sat",
                             "open": "10:00"
                         }
                     ]
-                }, 
-                "id": "SASB", 
+                },
+                "id": "SASB",
                 "images": {
-                    "exterior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/36/exterior_sasb2_0.jpg", 
+                    "exterior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/36/exterior_sasb2_0.jpg",
                     "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/36/interior_sasb_reading_room.jpg"
-                }, 
-                "locality": "New York", 
-                "name": "Stephen A. Schwarzman Building", 
-                "open": true, 
+                },
+                "locality": "New York",
+                "name": "Stephen A. Schwarzman Building",
+                "open": true,
                 "plan_your_visit": [
                     {
-                        "label": "Plan Your Research Visit", 
+                        "label": "Visitor Guide",
+                        "url": "http://www.nypl.org/about/locations/schwarzman/visitor-guide"
+                    },
+                    {
+                        "label": "Plan Your Research Visit",
                         "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
-                    }, 
+                    },
                     {
-                        "label": "Using the Library", 
+                        "label": "Using the Library",
                         "url": "http://www.nypl.org/about/locations/using-the-library"
-                    }, 
+                    },
                     {
-                        "label": "Building Tours", 
-                        "url": "http://www.nypl.org/events/tours/schwarzman"
-                    }, 
-                    {
-                        "label": "Fellowships", 
+                        "label": "Fellowships",
                         "url": "http://www.nypl.org/help/about-nypl/fellowships-institutes"
-                    }, 
+                    },
                     {
-                        "label": "Research Study Rooms", 
+                        "label": "Research Study Rooms",
                         "url": "http://www.nypl.org/about/locations/schwarzman/research-study-rooms"
-                    }, 
+                    },
                     {
-                        "label": "Space Rental", 
+                        "label": "Space Rental",
                         "url": "http://www.nypl.org/spacerental/event-spaces/schwarzman"
                     }
-                ], 
-                "postal_code": 10018, 
-                "region": "NY", 
-                "slug": "schwarzman", 
+                ],
+                "postal_code": "10018",
+                "region": "NY",
+                "slug": "schwarzman",
                 "social_media": [
                     {
-                        "href": "http://foursquare.com/venue/31643", 
+                        "href": "http://foursquare.com/venue/31643",
                         "site": "foursquare"
-                    }, 
+                    },
                     {
-                        "href": "http://www.youtube.com/NewYorkPublicLibrary", 
+                        "href": "http://www.youtube.com/NewYorkPublicLibrary",
                         "site": "youtube"
                     }
-                ], 
-                "street_address": "Fifth Avenue at 42nd Street", 
-                "synonyms": [], 
+                ],
+                "street_address": "Fifth Avenue at 42nd Street",
+                "synonyms": [],
                 "type": "research"
-            }, 
+            },
             "parent": {
                 "_links": {
                     "alerts": {
                         "href": "http://locations.api.nypl.org/divisions/rare-books-division/alerts"
-                    }, 
+                    },
                     "blogs": {
-                        "all": "http://www.nypl.org/blog/library/445", 
+                        "all": "http://www.nypl.org/blog/division/5222",
                         "href": "http://locations.api.nypl.org/divisions/rare-books-division/blogs"
-                    }, 
+                    },
                     "concierge": {
-                        "href": "http://www.nypl.org/locations/tid/36/node/209462"
-                    }, 
+                        "href": "http://www.nypl.org/help/email-a-librarian/rare-books-division"
+                    },
                     "contact": {
-                        "href": "http://www.nypl.org/locations/tid/36/node/209462"
-                    }, 
+                        "href": "http://www.nypl.org/help/email-a-librarian/rare-books-division"
+                    },
                     "events": {
-                        "all": "http://www.nypl.org/events/calendar?location=445", 
+                        "all": "http://www.nypl.org/events/calendar?location=445",
                         "href": "http://locations.api.nypl.org/divisions/rare-books-division/events"
-                    }, 
+                    },
                     "exhibitions": {
                         "href": "http://locations.api.nypl.org/divisions/rare-books-division/exhibitions"
-                    }, 
+                    },
                     "on_shelves": {
                         "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Rare+Book+Division%22&circ=CIRC|NON%20CIRC"
-                    }, 
+                    },
                     "self": {
-                        "about": "http://www.nypl.org/about/divisions/rare-books-division", 
+                        "about": "http://www.nypl.org/about/divisions/rare-books-division",
                         "href": "http://locations.api.nypl.org/divisions/rare-books-division"
                     }
-                }, 
-                "about": "The printed collections of The New York Public Library could be said to begin in the Rare Book Division, with nearly 800 pieces of incunabula, ranging from the 1460 Catholicon to Schedel's Liber Chronicarum, and including De Bury's Philobiblon, Breydenbach's Peregrinatio in Terram sanctam, Holle's 1482 printing of Ptolemy's Cosmographia, and a number of editions of Sacro Bosco's Sphaera mundi. Works printed by Peter Sch\u00f6ffer, William Caxton, G\u00fcnter Zainer, and Anton Koberger are represented, as are block books, indulgences, and even several examples of Asian printing, which predate the incunabular period.", 
-                "access": "Partially Accessible", 
+                },
+                "about": "The printed collections of The New York Public Library could be said to begin in the Rare Book Division, with nearly 800 pieces of incunabula, ranging from the 1460 Catholicon to Schedel's Liber Chronicarum, and including De Bury's Philobiblon, Breydenbach's Peregrinatio in Terram sanctam, Holle's 1482 printing of Ptolemy's Cosmographia, and a number of editions of Sacro Bosco's Sphaera mundi. Works printed by Peter Sch\u00f6ffer, William Caxton, G\u00fcnter Zainer, and Anton Koberger are represented, as are block books, indulgences, and even several examples of Asian printing, which predate the incunabular period.",
+                "access": "Partially Accessible",
                 "contacts": {
-                    "fax": "(212) 302-4815", 
+                    "fax": "(212) 302-4815",
+                    "manager": {
+                        "fn": null,
+                        "title": null
+                    },
                     "phone": "(212) 642-0110"
-                }, 
-                "floor": "Third Floor", 
+                },
+                "floor": "Third Floor",
+                "fundraising": {
+                    "_id": 275290,
+                    "appeal": "Become a Member",
+                    "button_label": "Join or Renew",
+                    "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
+                    "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+                },
                 "hours": {
                     "regular": [
                         {
-                            "close": null, 
-                            "day": "Sun", 
+                            "close": null,
+                            "day": "Sun",
                             "open": null
-                        }, 
+                        },
                         {
-                            "close": null, 
-                            "day": "Mon", 
+                            "close": null,
+                            "day": "Mon",
                             "open": null
-                        }, 
+                        },
                         {
-                            "close": "17:45", 
-                            "day": "Tue", 
+                            "close": "17:45",
+                            "day": "Tue",
                             "open": "10:00"
-                        }, 
+                        },
                         {
-                            "close": "17:45", 
-                            "day": "Wed", 
+                            "close": "17:45",
+                            "day": "Wed",
                             "open": "10:00"
-                        }, 
+                        },
                         {
-                            "close": "17:45", 
-                            "day": "Thu", 
+                            "close": "17:45",
+                            "day": "Thu",
                             "open": "10:00"
-                        }, 
+                        },
                         {
-                            "close": "17:45", 
-                            "day": "Fri", 
+                            "close": "17:45",
+                            "day": "Fri",
                             "open": "10:00"
-                        }, 
+                        },
                         {
-                            "close": "17:45", 
-                            "day": "Sat", 
+                            "close": "17:45",
+                            "day": "Sat",
                             "open": "10:00"
                         }
                     ]
-                }, 
-                "id": null, 
+                },
+                "id": "RBK",
                 "images": {
-                    "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/445/dc_sasb_rarebooks.jpg", 
+                    "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/445/dc_sasb_rarebooks2.jpg",
                     "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/445/research_interior_2014_09_18_sasb_rarebooks_I45A8003.jpg"
-                }, 
-                "name": "Rare Book Division", 
-                "open": true, 
-                "plan_your_visit": null, 
-                "rank": 6, 
-                "room": "328", 
-                "slug": "rare-books-division", 
-                "synonyms": []
+                },
+                "name": "Rare Book Division",
+                "open": true,
+                "plan_your_visit": null,
+                "rank": 7,
+                "room": "328",
+                "slug": "rare-books-division",
+                "synonyms": [],
+                "terms": [
+                    {
+                        "_id": 41,
+                        "name": "Media",
+                        "terms": [
+                            {
+                                "_id": 8025,
+                                "name": "Maps"
+                            },
+                            {
+                                "_id": 8029,
+                                "name": "Rare Books"
+                            }
+                        ]
+                    },
+                    {
+                        "_id": 42,
+                        "name": "Subjects",
+                        "terms": [
+                            {
+                                "_id": 8039,
+                                "name": "Literature"
+                            },
+                            {
+                                "_id": 8050,
+                                "name": "Religion"
+                            },
+                            {
+                                "_id": 8059,
+                                "name": "U.S. History"
+                            },
+                            {
+                                "_id": 8066,
+                                "name": "Latin American Studies"
+                            },
+                            {
+                                "_id": 8080,
+                                "name": "Children's Literature"
+                            },
+                            {
+                                "_id": 8081,
+                                "name": "Culinary Studies"
+                            },
+                            {
+                                "_id": 8084,
+                                "name": "Popular Culture"
+                            }
+                        ]
+                    }
+                ]
             }
-        }, 
+        },
         "_links": {
             "alerts": {
                 "href": "http://locations.api.nypl.org/divisions/arents-collection/alerts"
-            }, 
+            },
             "blogs": {
-                "all": "http://www.nypl.org/blog/library/444", 
+                "all": "http://www.nypl.org/blog/division/5211",
                 "href": "http://locations.api.nypl.org/divisions/arents-collection/blogs"
-            }, 
+            },
             "concierge": {
-                "href": "http://www.nypl.org/locations/tid/36/node/209462"
-            }, 
+                "href": "http://www.nypl.org/help/email-a-librarian/rare-books-division"
+            },
             "contact": {
-                "href": "http://www.nypl.org/locations/tid/36/node/209462"
-            }, 
+                "href": "http://www.nypl.org/help/email-a-librarian/rare-books-division"
+            },
             "events": {
-                "all": "http://www.nypl.org/events/calendar?location=444", 
+                "all": "http://www.nypl.org/events/calendar?location=444",
                 "href": "http://locations.api.nypl.org/divisions/arents-collection/events"
-            }, 
+            },
             "exhibitions": {
                 "href": "http://locations.api.nypl.org/divisions/arents-collection/exhibitions"
-            }, 
+            },
             "on_shelves": {
                 "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Arents+Collection%22&circ=CIRC|NON%20CIRC"
-            }, 
+            },
             "self": {
-                "about": "http://www.nypl.org/about/divisions/rare-books-division/arents-collection", 
+                "about": "http://www.nypl.org/about/divisions/rare-books-division/arents-collection",
                 "href": "http://locations.api.nypl.org/divisions/arents-collection"
             }
-        }, 
-        "about": "The George Arents Collection comprises two distinct groupings of materials under a single umbrella. The first portion of the collection, the Arents Tobacco Collection, constitutes the largest and most comprehensive library in the world devoted to the history, literature, and lore of tobacco. The collection contains both printed and manuscript works\u2014as well as prints, drawings, and ephemera\u2014dating from 1507 to the present, representing Continental Europe, England, and the Americas. ", 
-        "access": "Fully Accessible", 
+        },
+        "about": "The George Arents Collection comprises two distinct groupings of materials under a single umbrella. The first portion of the collection, the Arents Tobacco Collection, constitutes the largest and most comprehensive library in the world devoted to the history, literature, and lore of tobacco. The collection contains both printed and manuscript works\u2014as well as prints, drawings, and ephemera\u2014dating from 1507 to the present, representing Continental Europe, England, and the Americas. ",
+        "access": "Fully Accessible",
         "contacts": {
-            "fax": "(212) 302-4815", 
+            "fax": "(212) 302-4815",
+            "manager": {
+                "fn": null,
+                "title": null
+            },
             "phone": "(212) 642-0110"
-        }, 
-        "floor": "Third Floor", 
+        },
+        "floor": "Third Floor",
+        "fundraising": {
+            "_id": 275290,
+            "appeal": "Become a Member",
+            "button_label": "Join or Renew",
+            "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
+            "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+        },
         "hours": {
             "regular": [
                 {
-                    "close": null, 
-                    "day": "Sun", 
+                    "close": null,
+                    "day": "Sun",
                     "open": null
-                }, 
+                },
                 {
-                    "close": null, 
-                    "day": "Mon", 
+                    "close": null,
+                    "day": "Mon",
                     "open": null
-                }, 
+                },
                 {
-                    "close": "17:45", 
-                    "day": "Tue", 
+                    "close": "17:45",
+                    "day": "Tue",
                     "open": "10:00"
-                }, 
+                },
                 {
-                    "close": "17:45", 
-                    "day": "Wed", 
+                    "close": "17:45",
+                    "day": "Wed",
                     "open": "10:00"
-                }, 
+                },
                 {
-                    "close": "17:45", 
-                    "day": "Thu", 
+                    "close": "17:45",
+                    "day": "Thu",
                     "open": "10:00"
-                }, 
+                },
                 {
-                    "close": "17:45", 
-                    "day": "Fri", 
+                    "close": "17:45",
+                    "day": "Fri",
                     "open": "10:00"
-                }, 
+                },
                 {
-                    "close": "17:45", 
-                    "day": "Sat", 
+                    "close": "17:45",
+                    "day": "Sat",
                     "open": "10:00"
                 }
             ]
-        }, 
-        "id": "ARN", 
+        },
+        "id": "ARN",
         "images": {
-            "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/444/dc_sasb_arents.jpg", 
+            "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/444/dc_sasb_arents.jpg",
             "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/444/research_interior_2014_09_18_sasb_arents_8012.jpg"
-        }, 
-        "location_id": "SASB", 
-        "name": "George Arents Collection", 
-        "open": true, 
-        "plan_your_visit": null, 
-        "rank": 0, 
-        "room": "328", 
-        "slug": "arents-collection", 
-        "synonyms": [], 
+        },
+        "location_id": "SASB",
+        "name": "George Arents Collection",
+        "open": true,
+        "plan_your_visit": null,
+        "rank": 0,
+        "room": "328",
+        "slug": "arents-collection",
+        "social_media": null,
+        "synonyms": [],
+        "terms": [
+            {
+                "id": 42,
+                "name": "Subjects",
+                "terms": [
+                    {
+                        "id": 8039,
+                        "name": "Literature"
+                    },
+                    {
+                        "id": 8059,
+                        "name": "U.S. History"
+                    }
+                ]
+            }
+        ],
         "type": "research"
-    }, 
+    },
     "response": {
-        "api_version": 0.5, 
-        "count": 1, 
-        "limit": 1, 
-        "offset": 0
+        "api_version": 0.6,
+        "count": 1,
+        "limit": 1,
+        "offset": 0,
+        "query": "/divisions/arents-collection"
     }
 }
