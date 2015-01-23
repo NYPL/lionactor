@@ -42,7 +42,6 @@ describe Lionactor::Location do
       end
 
       describe "#postal code" do
-        # This is currently a mistake in the API
         it "should be a string" do
           expect(@loc.postal_code).to be_an_instance_of(String)
         end
