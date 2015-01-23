@@ -44,12 +44,10 @@ describe Lionactor::Location do
       describe "#postal code" do
         # This is currently a mistake in the API
         it "should be a string" do
-          pending "the API returning postal codes as strings"
           expect(@loc.postal_code).to be_an_instance_of(String)
         end
 
         it "has a postal code" do
-          pending "the API returning postal codes as strings"
           expect(@loc.postal_code).to eq "10016"
         end
       end
