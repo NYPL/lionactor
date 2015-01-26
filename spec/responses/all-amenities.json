@@ -3,624 +3,486 @@
         {
             "_links": {
                 "self": {
-                    "href": "amenities/7995"
+                    "href": "http://locations.api.nypl.org/amenities/7987"
                 }
-            }, 
-            "category": "Circulation", 
-            "id": 7995, 
-            "name": "Self-service check-out", 
+            },
+            "category": "Facilities",
+            "id": 7987,
+            "name": "Payphones",
             "rank": null
-        }, 
+        },
         {
             "_links": {
                 "self": {
-                    "href": "amenities/7992"
+                    "href": "http://locations.api.nypl.org/amenities/7988"
                 }
-            }, 
-            "category": "Office Services", 
-            "id": 7992, 
-            "name": "Scanners", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "amenities/7999"
-                }
-            }, 
-            "category": "Facilities", 
-            "id": 7999, 
-            "name": "Water fountain", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7954"
-                }
-            }, 
-            "category": "Computer Services", 
-            "id": 7954, 
-            "name": "Printing (from PC)", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7955"
-                }
-            }, 
-            "category": "Computer Services", 
-            "id": 7955, 
-            "name": "Electric outlets available", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "action": {
-                    "href": null, 
-                    "name": null
-                }, 
-                "info": {
-                    "href": null
-                }, 
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7957"
-                }
-            }, 
-            "category": "Circulation", 
-            "id": 7957, 
-            "name": "Self-service check-out", 
-            "rank": 4
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7959"
-                }
-            }, 
-            "category": "Circulation", 
-            "id": 7959, 
-            "name": "Books in braille", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7960"
-                }
-            }, 
-            "category": "Circulation", 
-            "id": 7960, 
-            "name": "Talking books", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7961"
-                }
-            }, 
-            "category": "Office Services", 
-            "id": 7961, 
-            "name": "Photocopiers (black/white)", 
-            "rank": 5
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7962"
-                }
-            }, 
-            "category": "Office Services", 
-            "id": 7962, 
-            "name": "Photocopiers (color)", 
-            "rank": 6
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7969"
-                }
-            }, 
-            "category": "Facilities", 
-            "id": 7969, 
-            "name": "Parking", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "action": {
-                    "href": null, 
-                    "name": null
-                }, 
-                "info": {
-                    "href": "http://www.nypl.org/help/computers-internet-and-wireless-access/wireless-internet-access"
-                }, 
-                "self": {
-                    "href": "amenities/8000"
-                }
-            }, 
-            "category": "Computer Services", 
-            "id": 8000, 
-            "name": "Wireless Internet Access", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "amenities/7996"
-                }
-            }, 
-            "category": "Circulation", 
-            "id": 7996, 
-            "name": "Talking books", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "amenities/7988"
-                }
-            }, 
-            "category": "Facilities", 
-            "id": 7988, 
-            "name": "Public Restrooms", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "amenities/7990"
-                }
-            }, 
-            "category": "Facilities", 
-            "id": 7990, 
-            "name": "Research Study Rooms", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "amenities/7993"
-                }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7993, 
-            "name": "Screen magnification software (MAGic)", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "amenities/7994"
-                }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7994, 
-            "name": "Screen reading software (JAWS)", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "amenities/7991"
-                }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7991, 
-            "name": "Scanner/Reading Machines", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "amenities/7989"
-                }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7989, 
-            "name": "Refreshable braille display", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "amenities/7997"
-                }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7997, 
-            "name": "Telecommunications Devices for the Deaf (TTYs)", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "amenities/7998"
-                }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7998, 
-            "name": "VRS (Video Relay Service)", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "action": {
-                    "href": "http://dev.www.aws.nypl.org/help/computers-internet-and-wireless-access/reserving-computer", 
-                    "name": "Reserve a PC"
-                }, 
-                "info": {
-                    "href": "http://dev.www.aws.nypl.org/help/computers-internet-and-wireless-access/reserving-computer"
-                }, 
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7950"
-                }
-            }, 
-            "category": "Computer Services", 
-            "id": 7950, 
-            "name": "Computers for Public Use", 
-            "rank": 1
-        }, 
-        {
-            "_links": {
-                "action": {
-                    "href": "http://dev.www.aws.nypl.org/help/computers-internet-and-wireless-access/reserving-computer", 
-                    "name": "Reserve a Laptop"
-                }, 
-                "info": {
-                    "href": "http://dev.www.aws.nypl.org/help/computers-internet-and-wireless-access/reserving-computer"
-                }, 
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7953"
-                }
-            }, 
-            "category": "Computer Services", 
-            "id": 7953, 
-            "name": "Laptops for Public Use", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "action": {
-                    "href": "http://dev.www.aws.nypl.org/help/computers-internet-and-wireless-access/wireless-internet-access", 
-                    "name": null
-                }, 
-                "info": {
-                    "href": "http://dev.www.aws.nypl.org/help/computers-internet-and-wireless-access/wireless-internet-access"
-                }, 
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7952"
-                }
-            }, 
-            "category": "Computer Services", 
-            "id": 7952, 
-            "name": "Wireless Internet Access", 
-            "rank": 2
-        }, 
-        {
-            "_links": {
-                "action": {
-                    "href": "http://dev.www.aws.nypl.org/help/research-services/interlibrary-loan", 
-                    "name": null
-                }, 
-                "info": {
-                    "href": "http://dev.www.aws.nypl.org/help/research-services/interlibrary-loan"
-                }, 
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7956"
-                }
-            }, 
-            "category": "Circulation", 
-            "id": 7956, 
-            "name": "Inter-Library Loan", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "action": {
-                    "href": "http://dev.www.aws.nypl.org/help/borrowing-materials/book-drops", 
-                    "name": null
-                }, 
-                "info": {
-                    "href": "http://dev.www.aws.nypl.org/help/borrowing-materials/book-drops"
-                }, 
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7951"
-                }
-            }, 
-            "category": "Circulation", 
-            "id": 7951, 
-            "name": "Book drop box (24 hour)", 
-            "rank": 3
-        }, 
-        {
-            "_links": {
-                "action": {
-                    "href": "http://dev.www.aws.nypl.org/help/borrowing-materials/book-drops", 
-                    "name": null
-                }, 
-                "info": {
-                    "href": "http://dev.www.aws.nypl.org/help/borrowing-materials/book-drops"
-                }, 
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7958"
-                }
-            }, 
-            "category": "Circulation", 
-            "id": 7958, 
-            "name": "Book drop box (limited hours)", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7963"
-                }
-            }, 
-            "category": "Office Services", 
-            "id": 7963, 
-            "name": "Scanning", 
-            "rank": 7
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7964"
-                }
-            }, 
-            "category": "Office Services", 
-            "id": 7964, 
-            "name": "Map photocopiers (up to 36\" wide)", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7965"
-                }
-            }, 
-            "category": "Office Services", 
-            "id": 7965, 
-            "name": "Change machine", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7966"
-                }
-            }, 
-            "category": "Facilities", 
-            "id": 7966, 
-            "name": "Public Restrooms", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7967"
-                }
-            }, 
-            "category": "Facilities", 
-            "id": 7967, 
-            "name": "Children's Only Restrooms", 
-            "rank": 8
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7968"
-                }
-            }, 
-            "category": "Facilities", 
-            "id": 7968, 
-            "name": "Research Study Rooms", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7970"
-                }
-            }, 
-            "category": "Facilities", 
-            "id": 7970, 
-            "name": "Lost and found", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7971"
-                }
-            }, 
-            "category": "Facilities", 
-            "id": 7971, 
-            "name": "Bicycle Rack", 
-            "rank": 10
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7972"
-                }
-            }, 
-            "category": "Facilities", 
-            "id": 7972, 
-            "name": "Checkroom Service", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7973"
-                }
-            }, 
-            "category": "Facilities", 
-            "id": 7973, 
-            "name": "Payphones", 
-            "rank": null
-        }, 
-        {
-            "_links": {
-                "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7974"
-                }
-            }, 
-            "category": "Facilities", 
-            "id": 7974, 
-            "name": "Changing station", 
+            },
+            "category": "Facilities",
+            "id": 7988,
+            "name": "Changing station",
             "rank": 9
-        }, 
+        },
         {
             "_links": {
                 "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7975"
+                    "href": "http://locations.api.nypl.org/amenities/7989"
                 }
-            }, 
-            "category": "Facilities", 
-            "id": 7975, 
-            "name": "Water fountain", 
+            },
+            "category": "Facilities",
+            "id": 7989,
+            "name": "Water fountain",
             "rank": null
-        }, 
+        },
+        {
+            "_links": {
+                "info": {
+                    "href": "http://www.nypl.org/help/community-outreach/services-for-persons-with-disabilities/assistive-technologies/software",
+                    "name": "Learn more"
+                },
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7990"
+                }
+            },
+            "category": "Assistive Technologies",
+            "id": 7990,
+            "name": "Screen magnification software (MAGic)",
+            "rank": 17
+        },
+        {
+            "_links": {
+                "info": {
+                    "href": "http://www.nypl.org/help/community-outreach/services-for-persons-with-disabilities/assistive-technologies/software",
+                    "name": "Learn more"
+                },
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7991"
+                }
+            },
+            "category": "Assistive Technologies",
+            "id": 7991,
+            "name": "Screen reading software (JAWS)",
+            "rank": 18
+        },
+        {
+            "_links": {
+                "info": {
+                    "href": "http://www.nypl.org/help/community-outreach/services-for-persons-with-disabilities/assistive-technologies/other-assistive-technologies",
+                    "name": "Learn more"
+                },
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7992"
+                }
+            },
+            "category": "Assistive Technologies",
+            "id": 7992,
+            "name": "Closed-Circuit Television Enlargers (CCTVs)",
+            "rank": 25
+        },
         {
             "_links": {
                 "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7976"
+                    "href": "http://locations.api.nypl.org/amenities/7993"
                 }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7976, 
-            "name": "Screen magnification software (MAGic)", 
-            "rank": null
-        }, 
+            },
+            "category": "Assistive Technologies",
+            "id": 7993,
+            "name": "Scanner/Reading Machines",
+            "rank": 27
+        },
         {
             "_links": {
                 "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7977"
+                    "href": "http://locations.api.nypl.org/amenities/7994"
                 }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7977, 
-            "name": "Screen reading software (JAWS)", 
-            "rank": null
-        }, 
+            },
+            "category": "Assistive Technologies",
+            "id": 7994,
+            "name": "Braille translation software",
+            "rank": 24
+        },
         {
             "_links": {
                 "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7978"
+                    "href": "http://locations.api.nypl.org/amenities/7995"
                 }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7978, 
-            "name": "Closed-Circuit Television Enlargers (CCTVs)", 
-            "rank": null
-        }, 
+            },
+            "category": "Assistive Technologies",
+            "id": 7995,
+            "name": "Braille embossing",
+            "rank": 23
+        },
         {
             "_links": {
                 "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7979"
+                    "href": "http://locations.api.nypl.org/amenities/7996"
                 }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7979, 
-            "name": "Scanner/Reading Machines", 
-            "rank": null
-        }, 
+            },
+            "category": "Assistive Technologies",
+            "id": 7996,
+            "name": "Refreshable braille display",
+            "rank": 26
+        },
         {
             "_links": {
                 "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7980"
+                    "href": "http://locations.api.nypl.org/amenities/7997"
                 }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7980, 
-            "name": "Braille translation software", 
-            "rank": null
-        }, 
+            },
+            "category": "Assistive Technologies",
+            "id": 7997,
+            "name": "Adjustable height tables",
+            "rank": 22
+        },
+        {
+            "_links": {
+                "info": {
+                    "href": "http://www.nypl.org/help/community-outreach/services-for-persons-with-disabilities/assistive-technologies/other-assistive-technologies",
+                    "name": "Learn more"
+                },
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7998"
+                }
+            },
+            "category": "Assistive Technologies",
+            "id": 7998,
+            "name": "Braille writers",
+            "rank": 29
+        },
+        {
+            "_links": {
+                "info": {
+                    "href": "http://www.nypl.org/help/community-outreach/services-for-persons-with-disabilities/assistive-technologies/other-assistive-technologies",
+                    "name": "Learn more"
+                },
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7999"
+                }
+            },
+            "category": "Assistive Technologies",
+            "id": 7999,
+            "name": "Assistive Amplification Systems",
+            "rank": 31
+        },
         {
             "_links": {
                 "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7981"
+                    "href": "http://locations.api.nypl.org/amenities/8001"
                 }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7981, 
-            "name": "Braille embossing", 
+            },
+            "category": "Assistive Technologies",
+            "id": 8001,
+            "name": "VRS (Video Relay Service)",
             "rank": null
-        }, 
+        },
+        {
+            "_links": {
+                "info": {
+                    "href": "http://www.nypl.org/help/community-outreach/services-for-persons-with-disabilities/assistive-technologies/other-assistive-technologies",
+                    "name": "Learn more"
+                },
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/8004"
+                }
+            },
+            "category": "Assistive Technologies",
+            "id": 8004,
+            "name": "Personal Reading Machines",
+            "rank": 37
+        },
+        {
+            "_links": {
+                "action": {
+                    "href": "http://pcreserve.nypl.org/",
+                    "name": "Reserve a PC"
+                },
+                "info": {
+                    "href": "http://www.nypl.org/help/computers-internet-and-wireless-access/reserving-computer",
+                    "name": ""
+                },
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7964"
+                }
+            },
+            "category": "Computer Services",
+            "id": 7964,
+            "name": "Computers for Public Use",
+            "rank": 1
+        },
         {
             "_links": {
                 "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7982"
+                    "href": "http://locations.api.nypl.org/amenities/7965"
                 }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7982, 
-            "name": "Refreshable braille display", 
-            "rank": null
-        }, 
+            },
+            "category": "Computer Services",
+            "id": 7965,
+            "name": "Laptops for Public Use",
+            "rank": 20
+        },
+        {
+            "_links": {
+                "info": {
+                    "href": "http://www.nypl.org/help/computers-internet-and-wireless-access/reserving-computer",
+                    "name": "Learn more"
+                },
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7966"
+                }
+            },
+            "category": "Computer Services",
+            "id": 7966,
+            "name": "Printing (from PC)",
+            "rank": 11
+        },
+        {
+            "_links": {
+                "info": {
+                    "href": "http://www.nypl.org/help/computers-internet-and-wireless-access/wireless-internet-access",
+                    "name": "Learn more"
+                },
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7967"
+                }
+            },
+            "category": "Computer Services",
+            "id": 7967,
+            "name": "Wireless Internet Access",
+            "rank": 2
+        },
         {
             "_links": {
                 "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7983"
+                    "href": "http://locations.api.nypl.org/amenities/7968"
                 }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7983, 
-            "name": "Adjustable height tables", 
-            "rank": null
-        }, 
+            },
+            "category": "Computer Services",
+            "id": 7968,
+            "name": "Electric outlets available",
+            "rank": 33
+        },
+        {
+            "_links": {
+                "info": {
+                    "href": "http://www.nypl.org/help/research-services/interlibrary-loan",
+                    "name": "Learn more"
+                },
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7969"
+                }
+            },
+            "category": "Circulation",
+            "id": 7969,
+            "name": "Inter-Library Loan",
+            "rank": 16
+        },
         {
             "_links": {
                 "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7984"
+                    "href": "http://locations.api.nypl.org/amenities/7970"
                 }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7984, 
-            "name": "Braille writers", 
-            "rank": null
-        }, 
+            },
+            "category": "Circulation",
+            "id": 7970,
+            "name": "Self-service check-out",
+            "rank": 4
+        },
         {
             "_links": {
                 "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7985"
+                    "href": "http://locations.api.nypl.org/amenities/7971"
                 }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7985, 
-            "name": "Assistive Amplification Systems", 
-            "rank": null
-        }, 
+            },
+            "category": "Circulation",
+            "id": 7971,
+            "name": "Book drop box (24 hour)",
+            "rank": 3
+        },
         {
             "_links": {
                 "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7986"
+                    "href": "http://locations.api.nypl.org/amenities/7972"
                 }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7986, 
-            "name": "Telecommunications Devices for the Deaf (TTYs)", 
-            "rank": null
-        }, 
+            },
+            "category": "Circulation",
+            "id": 7972,
+            "name": "Book drop box (limited hours)",
+            "rank": 21
+        },
         {
             "_links": {
                 "self": {
-                    "href": "http://locations-api-alpha.herokuapp.com/amenities/7987"
+                    "href": "http://locations.api.nypl.org/amenities/7973"
                 }
-            }, 
-            "category": "Assistive Technologies", 
-            "id": 7987, 
-            "name": "VRS (Video Relay Service)", 
+            },
+            "category": "Circulation",
+            "id": 7973,
+            "name": "Books in braille",
             "rank": null
+        },
+        {
+            "_links": {
+                "info": {
+                    "href": "http://www.nypl.org/about/locations/heiskell/digital-player",
+                    "name": "Learn more"
+                },
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7974"
+                }
+            },
+            "category": "Circulation",
+            "id": 7974,
+            "name": "Talking books",
+            "rank": 36
+        },
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7975"
+                }
+            },
+            "category": "Printing and Copy Services",
+            "id": 7975,
+            "name": "Photocopiers (black/white)",
+            "rank": 5
+        },
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7976"
+                }
+            },
+            "category": "Printing and Copy Services",
+            "id": 7976,
+            "name": "Photocopiers (color)",
+            "rank": 6
+        },
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7977"
+                }
+            },
+            "category": "Printing and Copy Services",
+            "id": 7977,
+            "name": "Scanners",
+            "rank": 7
+        },
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7978"
+                }
+            },
+            "category": "Printing and Copy Services",
+            "id": 7978,
+            "name": "Map photocopiers (up to 36\" wide)",
+            "rank": 30
+        },
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7979"
+                }
+            },
+            "category": "Printing and Copy Services",
+            "id": 7979,
+            "name": "Change machine",
+            "rank": 13
+        },
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7980"
+                }
+            },
+            "category": "Facilities",
+            "id": 7980,
+            "name": "Public Restrooms",
+            "rank": 14
+        },
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7981"
+                }
+            },
+            "category": "Facilities",
+            "id": 7981,
+            "name": "Children's Only Restrooms",
+            "rank": 8
+        },
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7982"
+                }
+            },
+            "category": "Facilities",
+            "id": 7982,
+            "name": "Research Study Rooms",
+            "rank": 12
+        },
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7983"
+                }
+            },
+            "category": "Facilities",
+            "id": 7983,
+            "name": "Parking",
+            "rank": 19
+        },
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7984"
+                }
+            },
+            "category": "Facilities",
+            "id": 7984,
+            "name": "Lost and found",
+            "rank": 28
+        },
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7985"
+                }
+            },
+            "category": "Facilities",
+            "id": 7985,
+            "name": "Bicycle Rack",
+            "rank": 10
+        },
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/7986"
+                }
+            },
+            "category": "Facilities",
+            "id": 7986,
+            "name": "Checkroom Service",
+            "rank": 34
+        },
+        {
+            "_links": {
+                "self": {
+                    "href": "http://locations.api.nypl.org/amenities/8000"
+                }
+            },
+            "category": "Assistive Technologies",
+            "id": 8000,
+            "name": "Telecommunications Devices for the Deaf (TTYs)",
+            "rank": 32
         }
-    ], 
+    ],
     "response": {
-        "count": 51, 
-        "limit": 51, 
-        "offset": 0
+        "api_version": 0.6,
+        "count": 39,
+        "limit": 39,
+        "offset": 0,
+        "query": "/amenities"
     }
 }

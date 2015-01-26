@@ -15,7 +15,7 @@ describe Lionactor::Feature do
 
     describe "#image" do
       it "should have an image link" do
-        expect(@feature.image).to eq "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/features/mmpc.jpeg"
+        expect(@feature.image).not_to be_nil
       end
     end
 
