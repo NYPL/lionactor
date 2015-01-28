@@ -1,0 +1,313 @@
+{
+    "response": {
+        "api_version": 0.6,
+        "count": 2,
+        "limit": 2,
+        "offset": 0,
+        "query": "/terms"
+    },
+    "terms": [
+        {
+            "id": 42,
+            "name": "Subjects",
+            "terms": [
+                {
+                    "id": 8041,
+                    "name": "Social Sciences",
+                    "terms": [
+                        {
+                            "id": 8075,
+                            "name": "Anthropology"
+                        },
+                        {
+                            "id": 8076,
+                            "name": "Economics"
+                        },
+                        {
+                            "id": 8077,
+                            "name": "Politics & Government"
+                        },
+                        {
+                            "id": 8078,
+                            "name": "Psychology"
+                        },
+                        {
+                            "id": 8079,
+                            "name": "Sociology"
+                        }
+                    ]
+                },
+                {
+                    "id": 8040,
+                    "name": "Performing Arts",
+                    "terms": [
+                        {
+                            "id": 8071,
+                            "name": "Dance"
+                        },
+                        {
+                            "id": 8072,
+                            "name": "Film, Television, & Radio"
+                        },
+                        {
+                            "id": 8073,
+                            "name": "Music"
+                        },
+                        {
+                            "id": 8074,
+                            "name": "Theatre"
+                        }
+                    ]
+                },
+                {
+                    "id": 8036,
+                    "name": "History",
+                    "terms": [
+                        {
+                            "id": 8051,
+                            "name": "African American History"
+                        },
+                        {
+                            "id": 8052,
+                            "name": "Archaeology"
+                        },
+                        {
+                            "id": 8053,
+                            "name": "Civil Rights"
+                        },
+                        {
+                            "id": 8054,
+                            "name": "Genealogy"
+                        },
+                        {
+                            "id": 8055,
+                            "name": "Immigration & Migration"
+                        },
+                        {
+                            "id": 8056,
+                            "name": "Maps"
+                        },
+                        {
+                            "id": 8057,
+                            "name": "New York City History"
+                        },
+                        {
+                            "id": 8058,
+                            "name": "Slavery & Abolition"
+                        },
+                        {
+                            "id": 8059,
+                            "name": "U.S. History"
+                        },
+                        {
+                            "id": 8060,
+                            "name": "World History"
+                        }
+                    ]
+                },
+                {
+                    "id": 8014,
+                    "name": "Fine Arts",
+                    "terms": [
+                        {
+                            "id": 8013,
+                            "name": "Architecture"
+                        },
+                        {
+                            "id": 8042,
+                            "name": "Art History"
+                        },
+                        {
+                            "id": 8043,
+                            "name": "Artists' Books"
+                        },
+                        {
+                            "id": 8044,
+                            "name": "Decorative Arts"
+                        },
+                        {
+                            "id": 8045,
+                            "name": "Photography"
+                        },
+                        {
+                            "id": 8046,
+                            "name": "Prints"
+                        }
+                    ]
+                },
+                {
+                    "id": 8034,
+                    "name": "Cultural Studies",
+                    "terms": [
+                        {
+                            "id": 8080,
+                            "name": "Children's Literature"
+                        },
+                        {
+                            "id": 8081,
+                            "name": "Culinary Studies"
+                        },
+                        {
+                            "id": 8082,
+                            "name": "Gay & Lesbian Studies"
+                        },
+                        {
+                            "id": 8083,
+                            "name": "Native American Studies"
+                        },
+                        {
+                            "id": 8084,
+                            "name": "Popular Culture"
+                        },
+                        {
+                            "id": 8085,
+                            "name": "Sports"
+                        },
+                        {
+                            "id": 8086,
+                            "name": "Women's Studies"
+                        }
+                    ]
+                },
+                {
+                    "id": 8033,
+                    "name": "Business & Finance"
+                },
+                {
+                    "id": 8035,
+                    "name": "Global Studies",
+                    "terms": [
+                        {
+                            "id": 8061,
+                            "name": "African Studies"
+                        },
+                        {
+                            "id": 8062,
+                            "name": "Caribbean Studies"
+                        },
+                        {
+                            "id": 8063,
+                            "name": "East Asian Studies"
+                        },
+                        {
+                            "id": 8064,
+                            "name": "Eastern European Studies"
+                        },
+                        {
+                            "id": 8065,
+                            "name": "Jewish Studies"
+                        },
+                        {
+                            "id": 8066,
+                            "name": "Latin American Studies"
+                        },
+                        {
+                            "id": 8067,
+                            "name": "Middle Eastern Studies"
+                        },
+                        {
+                            "id": 8068,
+                            "name": "Slavic & Baltic Studies"
+                        },
+                        {
+                            "id": 8069,
+                            "name": "South Asian Studies"
+                        },
+                        {
+                            "id": 8070,
+                            "name": "Western European Studies"
+                        }
+                    ]
+                },
+                {
+                    "id": 8032,
+                    "name": "Black Studies"
+                },
+                {
+                    "id": 8038,
+                    "name": "Industry"
+                },
+                {
+                    "id": 8037,
+                    "name": "Humanities",
+                    "terms": [
+                        {
+                            "id": 8048,
+                            "name": "Classics"
+                        },
+                        {
+                            "id": 8049,
+                            "name": "Philosophy"
+                        },
+                        {
+                            "id": 8050,
+                            "name": "Religion"
+                        }
+                    ]
+                },
+                {
+                    "id": 8039,
+                    "name": "Literature"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Media",
+            "terms": [
+                {
+                    "id": 8015,
+                    "name": "Archives"
+                },
+                {
+                    "id": 8020,
+                    "name": "Art & Artifacts"
+                },
+                {
+                    "id": 8021,
+                    "name": "Artists' Books"
+                },
+                {
+                    "id": 8022,
+                    "name": "Film & Video"
+                },
+                {
+                    "id": 8023,
+                    "name": "Government Documents"
+                },
+                {
+                    "id": 8024,
+                    "name": "Manuscripts"
+                },
+                {
+                    "id": 8025,
+                    "name": "Maps"
+                },
+                {
+                    "id": 8026,
+                    "name": "Newspapers"
+                },
+                {
+                    "id": 8027,
+                    "name": "Photographs"
+                },
+                {
+                    "id": 8028,
+                    "name": "Prints"
+                },
+                {
+                    "id": 8029,
+                    "name": "Rare Books"
+                },
+                {
+                    "id": 8030,
+                    "name": "Scores"
+                },
+                {
+                    "id": 8031,
+                    "name": "Sound Recordings"
+                }
+            ]
+        }
+    ]
+}

@@ -6,6 +6,7 @@ module Lionactor
       @divisions = nil
       @location = nil
       @parent = nil
+      @terms = nil
     end
 
     def hours
@@ -62,6 +63,18 @@ module Lionactor
       end
 
       @parent
+    end
+
+    def has_terms?
+      ! @data['terms'].nil?
+    end
+
+    def terms
+      if @terms.nil? && has_terms?
+        @terms = @data['terms'].map{|t| Lionactor::Term.new(t)}
+      end
+
+      @terms
     end
   end
 end    
