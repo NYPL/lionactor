@@ -93,4 +93,20 @@ describe Lionactor::Division do
       end
     end
   end
+
+  describe "#has_terms?" do
+    it "should be true for a division" do
+      expect(@div.has_terms?).to be true
+    end
+  end
+  
+  describe "#terms" do
+    it "should return an array" do
+      expect(@div.terms).to be_an_instance_of Array
+    end
+
+    it "should be an array of Terms" do
+      expect(@div.terms.first).to be_an_instance_of Lionactor::Term
+    end
+  end
 end

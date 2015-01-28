@@ -46,6 +46,13 @@ module Lionactor
       Lionactor::Division.new(resource['division'], @client)
     end
 
+    def terms
+      get_endpoint('terms')['terms'].map do |t|
+        Lionactor::Term.new(t, @client)
+      end
+    end
+      
+
     protected
     def get_endpoint(path)
       response = @conn.get(api_path(path))
