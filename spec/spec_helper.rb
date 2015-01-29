@@ -12,4 +12,4 @@ AMENITIES_MML = IO.read(File.join(cwd, "responses", "amenities-mml.json"))
 RAREBOOKS = IO.read(File.join(cwd, "responses", "rare-books.json"))
 ARENTS = IO.read(File.join(cwd, "responses", "arents.json"))
 TERMS = IO.read(File.join(cwd, "responses", "terms.json"))
-
+FEATURES_FRAG = IO.read(File.join(cwd, "responses", "features-fragment.json"))

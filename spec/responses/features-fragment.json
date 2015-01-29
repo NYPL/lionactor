@@ -1,0 +1,28 @@
+{
+    "features": [
+        {
+            "_id": 273593,
+            "_links": {
+                "self": {
+                    "href": "http://buildinginspector.nypl.org/"
+                }
+            },
+            "body": "<p>A game-like site that helps the NYPL build historical information about NYC's forgotten places.</p>\n",
+            "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/features/Screen%20shot%202014-09-26%20at%202.02.48%20PM.png",
+            "title": "Building Inspector",
+            "weight": -10
+        },
+        {
+            "_id": 273589,
+            "_links": {
+                "self": {
+                    "href": "http://maps.nypl.org"
+                }
+            },
+            "body": "<p>A map tool for aligning old maps to new geography. Create an account &amp; add to knowledge\u00a0of past places.</p>\n",
+            "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/features/Screen%20shot%202014-09-26%20at%201.54.27%20PM.png",
+            "title": "Map Warper",
+            "weight": -10
+        }
+    ]
+}
