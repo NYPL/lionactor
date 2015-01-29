@@ -5,6 +5,16 @@ module Lionactor
       @features = nil
     end
 
+    # The Unit's regular operating hours
+    # @return [Hours]
+    def hours
+      if @hours.nil?
+        @hours = Lionactor::Hours.new(@data['hours'])
+      end
+
+      @hours
+    end
+
     def has_features?
       return ! features.nil?
     end

@@ -9,14 +9,6 @@ module Lionactor
       @terms = nil
     end
 
-    def hours
-      if @hours.nil?
-        @hours = Lionactor::Hours.new(@data['hours'])
-      end
-
-      @hours
-    end
-
     def location
       if @location.nil?
         @location = Lionactor::Location.new(embedded['location'], @client)

@@ -65,16 +65,6 @@ module Lionactor
       @data['contacts']['phone']
     end
 
-    # The location's regular operating hours
-    # @return [Hours]
-    def hours
-      if @hours.nil?
-        @hours = Lionactor::Hours.new(@data['hours'])
-      end
-
-      @hours
-    end
-
     # Returns amenities available at the location
     # @return [Hash] A Hash in which the keys are amenity categories and the
     #   values Arrays of {Lionactor::Amenity} objects
