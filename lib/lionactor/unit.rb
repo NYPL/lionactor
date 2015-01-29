@@ -7,8 +7,10 @@ module Lionactor
 
     def features
       if @features.nil?
-        @features = embedded['features'].map do |f|
-          Lionactor::Feature.new(f)
+        if ! embedded['features'].nil?
+          @features = embedded['features'].map do |f|
+            Lionactor::Feature.new(f)
+          end
         end
       end
 

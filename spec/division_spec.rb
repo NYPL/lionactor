@@ -3,10 +3,23 @@ require "spec_helper"
 describe Lionactor::Division do
   before :each do
     client = double(Lionactor::Client)
+
+    # Two copies of the parsed JSON so we can manipulate one without affecting
+    # the other
     data = JSON.parse(RAREBOOKS)["division"]
+    data_wo_features = JSON.parse(RAREBOOKS)["division"]
+
+    # Get just some predetermined features
     features = JSON.parse(FEATURES_FRAG)["features"]
+
+    # Replace whatever features are in the division response with the
+    # prefetermined fragment
     data['_embedded']['features'] = features
     @div = Lionactor::Division.new(data, client)
+
+    # Delete whatever features are in the division response
+    data_wo_features['_embedded']['features'] = nil
+    @div_wo_features = Lionactor::Division.new(data_wo_features, client)
   end
 
   describe "via automatic methods" do
@@ -63,18 +76,21 @@ describe Lionactor::Division do
 
   describe "#features" do
     it "returns an Array" do
-      pending "Division has some features"
       expect(@div.features).to be_an_instance_of Array
     end
 
     it "returns an Array of Feature objects" do
-      pending "Division has some features"
       expect(@div.features.first).to be_an_instance_of Lionactor::Feature
     end
 
     it "feature should have titles" do
-      pending "Division has some features"
-      expect(@div.features.first.title).to eq "Recently cataloged and available for research"
+      expect(@div.features.first.title).to eq "Building Inspector"
+    end
+
+    context "when the division has no features" do
+      it "returns nil" do
+        expect(@div_wo_features.features).to be_nil
+      end
     end
   end
 
