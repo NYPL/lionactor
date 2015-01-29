@@ -4,6 +4,8 @@ describe Lionactor::Division do
   before :each do
     client = double(Lionactor::Client)
     data = JSON.parse(RAREBOOKS)["division"]
+    features = JSON.parse(FEATURES_FRAG)["features"]
+    data['_embedded']['features'] = features
     @div = Lionactor::Division.new(data, client)
   end
 

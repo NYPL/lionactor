@@ -49,7 +49,7 @@ module Lionactor
   #   @see #is_research?
   #   @return [String]
 
-  class Location < Resource
+  class Location < Unit
     # @param data [Hash] Parsed JSON data for the Location resource
     # @param client [Client] The client that is creating the object
     def initialize(data, client)
@@ -86,16 +86,6 @@ module Lionactor
       end
 
       @amenities
-    end
-
-    def features
-      if @features.nil?
-        @features = embedded['features'].map do |f|
-          Lionactor::Feature.new(f)
-        end
-      end
-
-      @features
     end
 
     # Whether or not the location is a circulating branch
