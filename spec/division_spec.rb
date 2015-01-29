@@ -94,6 +94,20 @@ describe Lionactor::Division do
     end
   end
 
+  describe "#has_features?" do
+    context "when the division has features" do
+      it "returns true" do
+        expect(@div.has_features?).to be true
+      end
+    end
+
+    context "when the division has no features" do
+      it "returns false" do
+        expect(@div_wo_features.has_features?).to be false
+      end
+    end
+  end
+
   describe "#parent" do
     it "should not have a parent" do
       expect(@div.parent).to be_nil

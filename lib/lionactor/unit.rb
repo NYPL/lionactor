@@ -5,6 +5,10 @@ module Lionactor
       @features = nil
     end
 
+    def has_features?
+      return ! features.nil?
+    end
+    
     def features
       if @features.nil?
         if ! embedded['features'].nil?
