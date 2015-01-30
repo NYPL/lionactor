@@ -1,19 +1,12 @@
 module Lionactor
-  class Division < Resource
+  class Division < Unit
     def initialize(data, client)
       super(data, client)
       @hours = nil
       @divisions = nil
       @location = nil
       @parent = nil
-    end
-
-    def hours
-      if @hours.nil?
-        @hours = Lionactor::Hours.new(@data['hours'])
-      end
-
-      @hours
+      @terms = nil
     end
 
     def location
@@ -39,16 +32,6 @@ module Lionactor
       end
 
       @divisions
-    end
-
-    def features
-      if @features.nil?
-        @features = embedded['features'].map do |f|
-          Lionactor::Feature.new(f)
-        end
-      end
-
-      @features
     end
 
     # Whether or not the division is a sub-division and has a parent
