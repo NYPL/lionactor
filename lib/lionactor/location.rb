@@ -49,7 +49,7 @@ module Lionactor
   #   @see #is_research?
   #   @return [String]
 
-  class Location < Resource
+  class Location < Unit
     # @param data [Hash] Parsed JSON data for the Location resource
     # @param client [Client] The client that is creating the object
     def initialize(data, client)
@@ -65,16 +65,6 @@ module Lionactor
       @data['contacts']['phone']
     end
 
-    # The location's regular operating hours
-    # @return [Hours]
-    def hours
-      if @hours.nil?
-        @hours = Lionactor::Hours.new(@data['hours'])
-      end
-
-      @hours
-    end
-
     # Returns amenities available at the location
     # @return [Hash] A Hash in which the keys are amenity categories and the
     #   values Arrays of {Lionactor::Amenity} objects
@@ -86,16 +76,6 @@ module Lionactor
       end
 
       @amenities
-    end
-
-    def features
-      if @features.nil?
-        @features = embedded['features'].map do |f|
-          Lionactor::Feature.new(f)
-        end
-      end
-
-      @features
     end
 
     # Whether or not the location is a circulating branch

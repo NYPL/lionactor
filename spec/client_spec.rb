@@ -80,4 +80,21 @@ describe Lionactor::Client do
       expect(@amenity).to be_an_instance_of Lionactor::Amenity
     end
   end
+
+  describe "#terms" do
+    before :each do
+      @r = double(Faraday::Response, :body => TERMS, :headers => {})
+      allow_any_instance_of(Faraday::Connection).to receive(:get).
+        and_return(@r)
+      @terms = @client.terms
+    end
+
+    it "returns an array" do
+      expect(@terms).to be_an_instance_of Array
+    end
+
+    it "returns an array of Term objects" do
+      expect(@terms.first).to be_an_instance_of Lionactor::Term
+    end
+  end
 end
