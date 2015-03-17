@@ -4,133 +4,129 @@
             "alerts": [
                 {
                     "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/node/283838"
-                        }
-                    },
-                    "body": "<p>The New York Public Library will be closed on Monday, February 16 in observance of Presidents Day.</p>",
-                    "end": "2015-02-16T00:00:00-05:00",
-                    "id": 283838,
-                    "scope": "all",
-                    "start": "2015-02-12T00:00:00-05:00",
-                    "title": "2015 President's Day"
-                },
-                {
-                    "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283839"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed on Sunday, April 5.</p>",
-                    "end": "2015-04-05T00:00:00-04:00",
+                    "display": {
+                        "end": "2015-04-06T00:00:00-04:00",
+                        "start": "2015-04-01T00:00:00-04:00"
+                    },
                     "id": 283839,
-                    "scope": "all",
-                    "start": "2015-04-01T00:00:00-04:00",
-                    "title": "2015 Easter"
+                    "msg": "<p>The New York Public Library will be closed on Sunday, April 5.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283840"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed from May 23 through May 25 in observance of Memorial Day.</p>",
-                    "end": "2015-05-25T00:00:00-04:00",
+                    "display": {
+                        "end": "2015-05-26T00:00:00-04:00",
+                        "start": "2015-05-17T00:00:00-04:00"
+                    },
                     "id": 283840,
-                    "scope": "all",
-                    "start": "2015-05-17T00:00:00-04:00",
-                    "title": "2015 Memorial Day"
+                    "msg": "<p>The New York Public Library will be closed from May 23 through May 25 in observance of Memorial Day.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283846"
                         }
                     },
-                    "body": "<p>All units of the NYPL will be closed July 4.</p>",
-                    "end": "2015-07-04T00:00:00-04:00",
+                    "display": {
+                        "end": "2015-07-05T00:00:00-04:00",
+                        "start": "2015-06-27T00:00:00-04:00"
+                    },
                     "id": 283846,
-                    "scope": "all",
-                    "start": "2015-06-27T00:00:00-04:00",
-                    "title": "2015 Independence Day"
+                    "msg": "<p>All units of the NYPL will be closed July 4.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283851"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed September 5th through September 7th in observance of Labor Day.</p>",
-                    "end": "2015-09-07T00:00:00-04:00",
+                    "display": {
+                        "end": "2015-09-08T00:00:00-04:00",
+                        "start": "2015-08-28T00:00:00-04:00"
+                    },
                     "id": 283851,
-                    "scope": "all",
-                    "start": "2015-08-28T00:00:00-04:00",
-                    "title": "2015 Labor Day"
+                    "msg": "<p>The New York Public Library will be closed September 5th through September 7th in observance of Labor Day.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283892"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed on Monday, October 12 in observance of Columbus Day.</p>",
-                    "end": "2015-10-12T00:00:00-04:00",
+                    "display": {
+                        "end": "2015-10-13T00:00:00-04:00",
+                        "start": "2015-10-07T00:00:00-04:00"
+                    },
                     "id": 283892,
-                    "scope": "home",
-                    "start": "2015-10-07T00:00:00-04:00",
-                    "title": "2015 Columbus Day"
+                    "msg": "<p>The New York Public Library will be closed on Monday, October 12 in observance of Columbus Day.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283893"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed on November 11 in observance of Veterans Day.</p>",
-                    "end": "2015-11-11T00:00:00-05:00",
+                    "display": {
+                        "end": "2015-11-12T00:00:00-05:00",
+                        "start": "2015-11-06T00:00:00-05:00"
+                    },
                     "id": 283893,
-                    "scope": "all",
-                    "start": "2015-11-06T00:00:00-05:00",
-                    "title": "2015 Veterans Day"
+                    "msg": "<p>The New York Public Library will be closed on November 11 in observance of Veterans Day.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283894"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed on Thanksgiving Day, Thursday, November 26.</p>",
-                    "end": "2015-11-26T00:00:00-05:00",
+                    "display": {
+                        "end": "2015-11-27T00:00:00-05:00",
+                        "start": "2015-11-20T00:00:00-05:00"
+                    },
                     "id": 283894,
-                    "scope": "all",
-                    "start": "2015-11-20T00:00:00-05:00",
-                    "title": "2015 Thanksgiving Day"
+                    "msg": "<p>The New York Public Library will be closed on Thanksgiving Day, Thursday, November 26.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283895"
                         }
                     },
-                    "body": "<p>All NYPL locations will close at 5 PM on December 24 and will be closed on December 25.</p>",
-                    "end": "2015-12-25T00:00:00-05:00",
+                    "display": {
+                        "end": "2015-12-26T00:00:00-05:00",
+                        "start": "2015-12-17T00:00:00-05:00"
+                    },
                     "id": 283895,
-                    "scope": "all",
-                    "start": "2015-12-17T00:00:00-05:00",
-                    "title": "2015 Christmas"
+                    "msg": "<p>All NYPL locations will close at 5 PM on December 24 and will be closed on December 25.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283896"
                         }
                     },
-                    "body": "<p>All NYPL locations will close at 5 PM on December 31 and will be closed on January 1, 2015.</p>",
-                    "end": "2016-01-01T00:00:00-05:00",
+                    "display": {
+                        "end": "2016-01-02T00:00:00-05:00",
+                        "start": "2015-12-26T00:00:00-05:00"
+                    },
                     "id": 283896,
-                    "scope": "all",
-                    "start": "2015-12-26T00:00:00-05:00",
-                    "title": "2015 New Years Eve and New Years Day"
+                    "msg": "<p>All NYPL locations will close at 5 PM on December 31 and will be closed on January 1, 2015.</p>",
+                    "scope": "all"
                 }
             ],
             "amenities": [
@@ -153,7 +149,7 @@
                         },
                         "category": "Computer Services",
                         "id": 7964,
-                        "name": "Computers for Public Use",
+                        "name": "Computers for public use",
                         "rank": 1
                     },
                     "location_rank": 1,
@@ -170,7 +166,7 @@
                         },
                         "category": "Computer Services",
                         "id": 7965,
-                        "name": "Laptops for Public Use",
+                        "name": "Laptops for public use",
                         "rank": 20
                     },
                     "location_rank": 2,
@@ -212,7 +208,7 @@
                         },
                         "category": "Computer Services",
                         "id": 7967,
-                        "name": "Wireless Internet Access",
+                        "name": "Wireless access (Wi-Fi)",
                         "rank": 2
                     },
                     "location_rank": 4,
@@ -229,7 +225,7 @@
                         },
                         "category": "Computer Services",
                         "id": 7968,
-                        "name": "Electric outlets available",
+                        "name": "Electric outlets available for public use",
                         "rank": 33
                     },
                     "location_rank": 5,
@@ -314,7 +310,7 @@
                         },
                         "category": "Facilities",
                         "id": 7980,
-                        "name": "Public Restrooms",
+                        "name": "Public restrooms",
                         "rank": 14
                     },
                     "location_rank": 11,
@@ -411,7 +407,7 @@
                         },
                         "category": "Assistive Technologies",
                         "id": 7999,
-                        "name": "Assistive Amplification Systems",
+                        "name": "Assistive amplification systems",
                         "rank": 31
                     },
                     "location_rank": 16,
@@ -432,7 +428,7 @@
                         },
                         "category": "Assistive Technologies",
                         "id": 7992,
-                        "name": "Closed-Circuit Television Enlargers (CCTVs)",
+                        "name": "Closed-circuit television enlargers (CCTVs)",
                         "rank": 25
                     },
                     "location_rank": 17,
@@ -460,92 +456,7 @@
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/blog/2014/12/17/food-studies-reading-list"
-                        }
-                    },
-                    "author": {
-                        "location": "Mid-Manhattan Library",
-                        "name": "Nancy Aravecz",
-                        "position": null
-                    },
-                    "body": "With the holidays upon us, food is a topic at the front of our minds. The centerpiece of our tables, cultures, and familial traditions, food is nourishment for both body and mind. What we eat, however, is also at the center of a growing discipline that marries science and the humanities.",
-                    "id": 270176,
-                    "image": "http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=***REMOVED***&password=***REMOVED***&Value=9780520275966&content=M&Return=1&Type=M",
-                    "pubdate": "2014-12-17T19:50:21Z",
-                    "title": "Food Studies 101 Reading List"
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2014/09/30/october-author-library-programs-mml"
-                        }
-                    },
-                    "author": {
-                        "location": "Mid-Manhattan Library",
-                        "name": "Elizabeth Waters",
-                        "position": null
-                    },
-                    "body": "Are you interested in the history of free-market health care, classic DC comics, the story of an American bride in Kabul in 1961, or an American divorcee in 21st century Qatar, the pleasures of English gardens, rising Islamophobia, tales from 1940s post-war Germany, creating fashion portfolios, the life of early 20th century mover and shaker Mabel Dodge Luhan, GMO foods, new visions for urban life, or secular humanism?",
-                    "id": 273532,
-                    "image": "https://www.nypl.org/sites/default/files/October.png",
-                    "pubdate": "2014-09-30T20:18:52Z",
-                    "title": "October Author @ the Library Programs at Mid-Manhattan"
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2014/09/10/mad-world-interview-lori-majewski"
-                        }
-                    },
-                    "author": {
-                        "location": "Senior Librarian, Mid-Manhattan Library",
-                        "name": "Dana Sagona",
-                        "position": null
-                    },
-                    "body": "Majewski's illustrated lecture brought together an eclectic crowd: hardcore new wavers, music industry insiders, as well as those with just a casual interest. Her enthusiasm rekindled my new wave appreciation, and I had some follow-up questions about Mad World and beyond.",
-                    "id": 271747,
-                    "image": "http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=***REMOVED***&password=***REMOVED***&Value=9781419710971&content=M&Return=1&Type=M",
-                    "pubdate": "2014-09-10T17:39:10Z",
-                    "title": "Author Lori Majewski Takes Us Into a \"Mad World\" of '80s New Wave"
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2014/09/10/little-orphant-annie-james-whitcomb-riley"
-                        }
-                    },
-                    "author": {
-                        "location": "Mid-Manhattan Library",
-                        "name": "Lois Moore",
-                        "position": "Senior Librarian"
-                    },
-                    "body": "Hoosier poet James Whitcomb Riley reminds all of us children to beware of goblins.",
-                    "id": 269770,
-                    "image": "http://images.nypl.org/index.php?id=2006225&t=w",
-                    "pubdate": "2014-09-10T17:20:12Z",
-                    "title": "Little Orphant Annie by James Whitcomb Riley"
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2014/09/05/john-waters-book-list"
-                        }
-                    },
-                    "author": {
-                        "location": "Mid-Manhattan Library",
-                        "name": "Nancy Aravecz",
-                        "position": null
-                    },
-                    "body": "From September 5-14, fans of John Waters can enjoy a retrospective of his film career, courtesy of the Film Society of Lincoln Center. \"50 Years of John Waters: How Much Can you Take?\" will showcase 12 of the \"Pope of Trash\"'s most influential films. Here are some books to read before or after taking in the series.",
-                    "id": 270739,
-                    "image": "http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=***REMOVED***&password=***REMOVED***&Value=9780374251475&content=M&Return=1&Type=M",
-                    "pubdate": "2014-09-05T16:14:41Z",
-                    "title": "Celebrating 50 Trashy Years of John Waters"
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2014/09/04/various-small-books-ed-ruscha"
+                            "href": "http://www.nypl.org/blog/2015/03/03/open-book-night-love"
                         }
                     },
                     "author": {
@@ -553,125 +464,216 @@
                         "name": "Jessica Cline",
                         "position": null
                     },
-                    "body": "\u201cIn plain sight, but overlooked, the gas station excites interest in Ruscha\u201d (p. 21), but also serves as a document of the everyday world that co-exists with our routine and triggers our nostalgia as we see it change over time.",
-                    "id": 271229,
-                    "image": "http://imagesa.btol.com/ContentCafe/Jacket.aspx?UserID=ContentCafeClient&Password=Client&Return=T&Type=L&Value=9780262018777",
-                    "pubdate": "2014-09-04T16:03:00Z",
-                    "title": "Art Books: Various Small Books: Referencing Various Small Books By Ed Ruscha"
+                    "body": "Our February Open Book Night discussion was a success!  We shared books over hot tea on a very cold evening and talked about books we love.",
+                    "id": 292190,
+                    "image": "http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=***REMOVED***&password=***REMOVED***&Value=9780062207395&content=M&Return=1&Type=M",
+                    "pubdate": "2015-03-03T19:23:19Z",
+                    "title": "Invitation to a Book Social: Open Book Night at Mid-Manhattan"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/blog/2015/02/27/best-spock-moments-star-trek-tos"
+                        }
+                    },
+                    "author": {
+                        "location": "Mid-Manhattan Library",
+                        "name": "Nancy Aravecz",
+                        "position": null
+                    },
+                    "body": "In honor of the late, great, Leonard Nimoy, here\u2019s a list of Spock\u2019s greatest moments. May he live long and prosper in our memories. Nimoy was a talented actor, photographer, and poet, who relished in playing the outsider, and inspired generations.",
+                    "id": 291898,
+                    "image": "http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=***REMOVED***&password=***REMOVED***&Value=0786861827&content=M&Return=1&Type=M",
+                    "pubdate": "2015-02-27T22:06:29Z",
+                    "title": "10 Best Spock Moments in Star Trek: The Original Series"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/blog/2015/02/26/march-author-library-programs-mml"
+                        }
+                    },
+                    "author": {
+                        "location": "Mid-Manhattan Library",
+                        "name": "Elizabeth Waters",
+                        "position": null
+                    },
+                    "body": "Drawing as a form of inquiry... groundbreaking graphic designers... The U.S.  a safe haven for Nazis... 1,000 years of visualizing the cosmos... a moment-by-moment account of Hurricane Sandy... the era of great American songwriting... the evolution of the painted nail...",
+                    "id": 291074,
+                    "image": "https://www.nypl.org/sites/default/files/March%20Author.png",
+                    "pubdate": "2015-02-26T22:09:53Z",
+                    "title": "March Author @ the Library Programs at Mid-Manhattan"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/blog/2015/01/14/readers-den-stranger-2"
+                        }
+                    },
+                    "author": {
+                        "location": "Mid-Manhattan Library, Art and Picture Collections",
+                        "name": "Jessica Cline",
+                        "position": null
+                    },
+                    "body": "This week we look at the author, Albert Camus, and offer a few questions for discussion.",
+                    "id": 286981,
+                    "image": "http://images.nypl.org/index.php?id=th-00256&t=w",
+                    "pubdate": "2015-01-14T22:47:49Z",
+                    "title": "Reader's Den: The Stranger, Part 2"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/blog/2015/01/08/shakespeare-101"
+                        }
+                    },
+                    "author": {
+                        "location": "Mid-Manhattan Library",
+                        "name": "Nancy Aravecz",
+                        "position": null
+                    },
+                    "body": "Shakespeare is so important that he is the only author to have his own Dewey Decimal number! The works of Shakespeare and their criticism all live under call number 822.33. With countless editions of the same play, and even more works written about that same play, it\u2019s no wonder Shakespeare requires a number all to himself. This handy guide will de-mystify Shakespeare\u2019s home in your library, and help you find the right book on the Bard for you.",
+                    "id": 285405,
+                    "image": "http://images.nypl.org/index.php?id=2012878&t=w",
+                    "pubdate": "2015-01-08T17:40:07Z",
+                    "title": "Shakespeare 101: How to Use the Library to Learn about the Bard"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/blog/2015/01/06/readers-den-stranger-camus"
+                        }
+                    },
+                    "author": {
+                        "location": "Mid-Manhattan Library, Art and Picture Collections",
+                        "name": "Jessica Cline",
+                        "position": null
+                    },
+                    "body": "I hope you will find it a relief to spend January reading a novel that takes place in the full sun of the Algerian summer, although the story may not bask so lazily in your mind. Also, it is a novella, so it won\u2019t be too difficult to stick to your New Year\u2019s resolution to read more.",
+                    "id": 285994,
+                    "image": "http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=***REMOVED***&password=***REMOVED***&Value=0679720200&content=M&Return=1&Type=M",
+                    "pubdate": "2015-01-06T16:25:01Z",
+                    "title": "Reader's Den: The Stranger by Albert Camus"
                 }
             ],
             "events": [
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2015/01/23/ms-excel-2011-mac-beginners"
+                            "href": "http://www.nypl.org/events/programs/2015/03/17/google-series-getting-more-out-google"
                         }
                     },
-                    "body": "Explore more advanced features of Microsoft Excel 2011 for Mac. Topics include using formulas and functions, data sorting and conditional formatting.",
-                    "end": "2015-01-23T21:30:00Z",
-                    "id": 283065,
+                    "body": "Come and explore the depths of Google. Discover some of the amazing new features Google is offering.",
+                    "end": "2015-03-17T20:30:00Z",
+                    "id": 290069,
                     "image": null,
                     "registration": {
-                        "start": "2015-01-23T19:30:00Z",
-                        "type": "First come, first served"
-                    },
-                    "start": "2015-01-23T19:30:00Z",
-                    "status": {
-                        "label": null,
-                        "status": true
-                    },
-                    "title": "MS Excel 2011 for Mac for Beginners"
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/events/programs/2015/01/23/teach-yourself-learn-new-language"
-                        }
-                    },
-                    "body": "Discover a wide selection of self-study resources to help you learn a new language or brush up on one you\u2019ve studied before. Class covers resources available through NYPL and free websites.\n\nPlease note: This class is for English speakers who want to learn another language. For English language learners we offer Teach Yourself: Learn English Online.",
-                    "end": "2015-01-23T21:30:00Z",
-                    "id": 284923,
-                    "image": null,
-                    "registration": {
-                        "start": "2015-01-16T18:00:00+00:00",
+                        "start": "2015-03-10T17:00:00+00:00",
                         "type": "Online"
                     },
-                    "start": "2015-01-23T19:30:00Z",
+                    "start": "2015-03-17T18:30:00Z",
                     "status": {
                         "label": null,
                         "status": true
                     },
-                    "title": "Teach Yourself: Learn a New Language"
+                    "title": "Google Series: Getting More Out of Google"
                 },
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2015/01/24/clone-story-time-grown-ups-short-not-sweet"
+                            "href": "http://www.nypl.org/events/programs/2015/03/17/advanced-ms-excel-2010"
                         }
                     },
-                    "body": "Love a good story? Sit back and relax as we read you a story or two!\n\nJanuary 2015 \u2014 Short But Not Sweet \n\nSaturday, January 24, 12 noon - 1 pm\n\t \n\nThe School by Donald Barthelme\n\n\n\tIt had already been a difficult school year, and then all the children's orange trees died. This was after the snakes and the gerbils and the tropical fish died. Anyway, the children were depressed and began asking hard questions about life and death and what happens after death. (1981)\n\n\t \n\n\tWants by Grace Paley\n\n\tI saw my ex-husband of twenty-seven years at the library when I returned two books that I had...",
-                    "end": "2015-01-24T18:00:00Z",
-                    "id": 286103,
+                    "body": "Explore more advanced features of Microsoft Excel 2010. Topics include using formulas and functions, data sorting and conditional formatting.",
+                    "end": "2015-03-18T00:30:00Z",
+                    "id": 290027,
                     "image": null,
-                    "registration": null,
-                    "start": "2015-01-24T17:00:00Z",
+                    "registration": {
+                        "start": "2015-03-10T17:00:00+00:00",
+                        "type": "Online"
+                    },
+                    "start": "2015-03-17T22:30:00Z",
                     "status": {
                         "label": null,
                         "status": true
                     },
-                    "title": "Readathon: Story Time for Grown-Ups - Short But Not Sweet"
+                    "title": "Advanced MS Excel 2010"
                 },
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2015/01/24/saturday-movies-postcards-edge"
+                            "href": "http://www.nypl.org/events/programs/2015/03/19/twisted-mind-terrible-thing-wastethe-wild-and-twisted-world-rubes-rubes"
                         }
                     },
-                    "body": "Postcards from the Edge\n\nDVD | Color | 1990 | 101 min | Columbia | Rated R\n\nSubstance-addicted actress Suzanne Vale is on the skids. After a spell at a detox center, her film company insists she live with her mother Doris Mann, herself once a star and now a champion drinker. Such a set-up is bad news for Suzanne who has struggled for years to get out of her mother's shadow, and who finds her mother still treats her like a child. Despite these problems- and further ones to do with the men in in her life- Suzanne begins to see the comedic side of her situation.\n\nDirected by Mike Nichols...",
-                    "end": "2015-01-24T19:00:00Z",
-                    "id": 283546,
-                    "image": null,
+                    "body": "In this illustrated lecture, the innovative and entertaining speaker explores fresh perspectives and creative problem-solving and inspires ways to look at any situation from different viewpoints.\n\nUse this quick list to reserve copies of our March 2015 Author @ the Library titles in the library catalog. \n\nFind out what else is occurring at Mid-Manhattan here:March Events Calendar 2015.pdf",
+                    "end": "2015-03-17T22:30:00Z",
+                    "id": 284868,
+                    "image": "http://cdn-prod.www.aws.nypl.org/modules/file/icons/application-pdf.png",
                     "registration": null,
-                    "start": "2015-01-24T19:00:00Z",
+                    "start": "2015-03-17T22:30:00Z",
                     "status": {
                         "label": null,
                         "status": true
                     },
-                    "title": "Saturday Movies: Postcards from the Edge"
+                    "title": "A Twisted Mind is a Terrible Thing to Waste, with Leigh Rubin, syndicated cartoonist of Rubes , a sit down comedian and the author of \"The Wild and Twisted World of Rubes: A Rubes Cartoon Collection.\""
                 },
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2015/01/27/separate-tables-dvd-black-and-white-100-minutes-1958-metro-goldwyn-mayer"
+                            "href": "http://www.nypl.org/events/programs/2015/03/17/whats-new-ios8"
                         }
                     },
-                    "body": "The boarders at an English resort struggle with emotional problems.\n\nDirected by Delbert Mann\n\nStarring Rita Hayworth, Deborah Kerr, David Niven, and Burt Lancaster\n\nDVD | Black and White | 1958 | 100 min | MGM |",
-                    "end": "2015-01-25T19:00:00Z",
-                    "id": 276231,
+                    "body": "Come learn about what's new with iOS 8. Including key features and changes to the world's most popular operating system for the iPhone and iPad.",
+                    "end": "2015-03-18T00:30:00Z",
+                    "id": 292368,
                     "image": null,
-                    "registration": null,
-                    "start": "2015-01-25T19:00:00Z",
+                    "registration": {
+                        "start": "2015-03-08T17:00:00+00:00",
+                        "type": "Online"
+                    },
+                    "start": "2015-03-17T22:30:00Z",
                     "status": {
                         "label": null,
                         "status": true
                     },
-                    "title": "Sunday Movie: Separate Tables"
+                    "title": "What's New with iOS8"
                 },
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2015/01/26/ms-word-2010-beginners"
+                            "href": "http://www.nypl.org/events/programs/2015/03/03/english-conversation-hour-intermediate-and-advanced-speakers"
+                        }
+                    },
+                    "body": "Would you like to practice your English conversation skills and meet English language learners from other countries?\n\t \n\tDrop in to the Mid-Manhattan Library's ENGLISH CONVERSATION HOUR! an open conversation where English language learners and fluent English speakers can discuss life in New York, art, music, films, food, culture, current events, and other topics of interest. \n\t \n\tOpen to adult Intermediate & Advanced English speakers only. No registration required. Just come and talk! \n\nThe group will meet on Thursdays from 6:30 p.m. \u2013 7:30 p.m.  starting January 8. Beginning February...",
+                    "end": "2015-03-17T23:30:00Z",
+                    "id": 282987,
+                    "image": null,
+                    "registration": {
+                        "start": "2015-03-17T22:30:00Z",
+                        "type": "First come, first served"
+                    },
+                    "start": "2015-03-17T22:30:00Z",
+                    "status": {
+                        "label": null,
+                        "status": true
+                    },
+                    "title": "English Conversation Hour! For Intermediate and Advanced Speakers"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/events/programs/2015/03/18/ms-word-2010-beginners"
                         }
                     },
                     "body": "Learn the basics features of Microsoft Word 2010, a word processing program you can use to create documents. Topics include entering and editing text, saving files, and formatting.",
-                    "end": "2015-01-26T17:30:00Z",
-                    "id": 284677,
+                    "end": "2015-03-18T16:30:00Z",
+                    "id": 290227,
                     "image": null,
                     "registration": {
-                        "start": "2015-01-19T18:00:00+00:00",
+                        "start": "2015-03-11T17:00:00+00:00",
                         "type": "Online"
                     },
-                    "start": "2015-01-26T15:30:00Z",
+                    "start": "2015-03-18T14:30:00Z",
                     "status": {
                         "label": null,
                         "status": true
@@ -683,28 +685,54 @@
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/exhibitions/peter-bynum-illuminated-paint-art-corner-room-exhibition-series"
+                            "href": "http://www.nypl.org/events/exhibitions/patricia-dahlman-big-open-book-art-wall-third-exhibition-series"
                         }
                     },
-                    "body": "Illuminated Paint is a site-specific exhibition of seventeen illuminated paintings on glass by artist Peter Bynum. Painters have long explored the physical limits of paint. Peter Bynum opens new territory for painting by exposing paint\u2019s intrinsic branching behavior, and then illuminating the complex nervous system it creates.",
-                    "end": "2015-01-25T00:00:00Z",
-                    "id": 266908,
-                    "image": "https://www.nypl.org/sites/default/files/500_Unified%20Field\uf022Cerulean\uf0225th%20Ave.%20Window%20No.%202,%202014.%2096%20in.%20H%20x%2048%20in.%20W.%20Acrylic%20paint%20on%20tempered%20glass%20(2%20layers),%20L.E.D.%20backlighting,%20remote%20dimmer,%20steel%20bracket..jpg",
-                    "start": "2014-08-01T00:00:00Z",
-                    "title": "Peter Bynum | Illuminated Paint | Art in the Corner Room Exhibition Series"
+                    "body": "The Art and Picture Collections at Mid-Manhattan Library present Big Open Book, a site-specific exhibition of a soft sculpture of an art history book, created by artist Patricia Dahlman. It is made from canvas, fabric, ribbon, thread, wire, and stuffing. The sculpture contains reproductions of the painting Just in Time by Elizabeth Murray and the painting Weeping Woman by Pablo Picasso. Big Open Book was created in appreciation of public art libraries and of two very influential artists. The exhibition is also a celebration of the beauty and vitality of Artists' Books on a large scale.",
+                    "end": "2015-04-01T00:00:00Z",
+                    "id": 286674,
+                    "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/658_Patircia%20Dahlman_Big%20Open%20Book;%202014;%2058%20x%2083%20x%208;%20canvas,%20fabric,%20ribbon,%20thread,%20wire,%20and%20stuffing.jpg",
+                    "start": "2015-01-12T00:00:00Z",
+                    "title": "Patricia Dahlman | Big Open Book | Art Wall on Third Exhibition Series"
                 },
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/exhibitions/qiana-mestrich-inherited-patterns-photo-walls-picture-collection-exhibition"
+                            "href": "http://www.nypl.org/events/exhibitions/barbara-madsen-plastic-age-inout-art-corner-room-exhibition-series"
                         }
                     },
-                    "body": "Inherited Patterns, by artist, writer, and mother Qiana Mestrich, is a new series of photo-based work. The foundation of Inherited Patterns is B&W images used in public relations and marketing campaigns for DuPont's  Qiana\u00ae fabric. The color \u201cswatches\u201d are actual mug shots of women named Qiana that the artist found online. Each image is printed on Tyvek\u00ae, a recyclable DuPont\u2122 material.",
-                    "end": "2015-02-22T00:00:00Z",
-                    "id": 271250,
-                    "image": "https://www.nypl.org/sites/default/files/500_Qiana-Mestrich-Inherited-Patterns-6.jpg",
-                    "start": "2014-09-03T00:00:00Z",
-                    "title": "Qiana Mestrich | Inherited Patterns | Photo Walls in Picture Collection Exhibition Series"
+                    "body": "The Art and Picture Collections at Mid-Manhattan Library present Plastic Age: IN/OUT a site-specific exhibition of photographs and a sculptural installation by artist and educator Barbara Madsen. Her work is a hybrid practice between photography, print and sculpture.",
+                    "end": "2015-05-21T00:00:00Z",
+                    "id": 288977,
+                    "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/500_photo%201%20(1)_0.jpg",
+                    "start": "2015-02-02T00:00:00Z",
+                    "title": "Barbara Madsen | Plastic Age: IN/OUT | Art in the Corner Room Exhibition Series"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/events/exhibitions/barbara-madsen-plastic-age-further-removed-photo-walls-picture-collection"
+                        }
+                    },
+                    "body": "Plastic Age: Further Removed, archival inkjet photographs, each 38 x 50 inches, 2015 \u00a9 Barbara Madsen\n\t\n\n\nThe Art and Picture Collections at Mid-Manhattan Library present Plastic Age: Further Removed a site-specific exhibition of photographs by artist, and art Professor Barbara Madsen. Her collections of cast off industrial matter of spark plugs, machine parts, welding masks, light switches, rubber, plastic, prosthetics, artificial eyes, and much more serve as Dadaist fodder.\n\nMadsen\u2019s photographs, mine the reproduction of the object. She builds models for these objects to inhabit and...",
+                    "end": "2015-08-17T00:00:00Z",
+                    "id": 292339,
+                    "image": "https://www.nypl.org/sites/default/files/658_photo%201%20(3).jpg",
+                    "start": "2015-03-02T00:00:00Z",
+                    "title": "Barbara Madsen | Plastic Age: Further Removed | Photo Walls in Picture Collection Exhibition Series"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/events/exhibitions/barbara-madsen-plastic-age-sculpture-video-art-windows-exhibition-series"
+                        }
+                    },
+                    "body": "The Art and Picture Collections at Mid-Manhattan Library present Plastic Age: Video Sculpture a site-specific exhibition of sculpture and video by artist, and art Professor Barbara Madsen. \n\n\n\tBarbara Madsen, video Installation, 2015\n\n\nIn the south window is a compilation of videos by Madsen. They are a collaboration with the Venezuelan poet Ely Rosa Zamora and sound artist A.P. Vague. The videos are based on Zamora's book No Tongue. Her book is an invitation to re-mix our constructs of perception and reality through language. It is not a narrative, but multiple observations cracking open all...",
+                    "end": "2015-05-21T00:00:00Z",
+                    "id": 292451,
+                    "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/580_South%20Vitrine_IMG_1402.jpg",
+                    "start": "2015-03-03T00:00:00Z",
+                    "title": "Barbara Madsen | Plastic Age: Sculpture and Video | Art in the Windows Exhibition Series"
                 }
             ],
             "features": [
@@ -762,11 +790,23 @@
                             "href": "http://www1.nyc.gov/site/muniid/index.page"
                         }
                     },
-                    "body": "<p>ID NYC is coming to Mid-Manhattan in January 2015!</p>\n",
+                    "body": "<p>Due to tremendous interest, you will need an appointment to apply for your IDNYC card. Book an appointment now.</p>\n",
                     "id": 283952,
                     "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/features/id%20nyc.jpg",
-                    "title": "ID NYC",
+                    "title": "IDNYC",
                     "weight": -6
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/events/classes/english"
+                        }
+                    },
+                    "body": "<p>Classes are offered four times per year. \u00a0To learn more, attend an information session.</p>\n",
+                    "id": 293063,
+                    "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/features/freeenglishclasses_13.jpg",
+                    "title": "Free English Classes",
+                    "weight": -5
                 }
             ]
         },
@@ -899,7 +939,7 @@
         "type": "circulating"
     },
     "response": {
-        "api_version": 0.6,
+        "api_version": 0.7,
         "count": 1,
         "limit": 1,
         "offset": 0,

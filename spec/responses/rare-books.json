@@ -3,176 +3,138 @@
         "_embedded": {
             "alerts": [
                 {
-                    "_id": 283838,
                     "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/node/283838"
-                        }
-                    },
-                    "body": "<p>The New York Public Library will be closed on Monday, February 16 in observance of Presidents Day.</p>",
-                    "end": "2015-02-16T00:00:00-05:00",
-                    "scope": "all",
-                    "start": "2015-02-12T00:00:00-05:00",
-                    "title": "2015 President's Day"
-                },
-                {
-                    "_id": 283839,
-                    "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283839"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed on Sunday, April 5.</p>",
-                    "end": "2015-04-05T00:00:00-04:00",
-                    "scope": "all",
-                    "start": "2015-04-01T00:00:00-04:00",
-                    "title": "2015 Easter"
+                    "display": {
+                        "end": "2015-04-06T00:00:00-04:00",
+                        "start": "2015-04-01T00:00:00-04:00"
+                    },
+                    "id": 283839,
+                    "msg": "<p>The New York Public Library will be closed on Sunday, April 5.</p>",
+                    "scope": "all"
                 },
                 {
-                    "_id": 283840,
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283840"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed from May 23 through May 25 in observance of Memorial Day.</p>",
-                    "end": "2015-05-25T00:00:00-04:00",
-                    "scope": "all",
-                    "start": "2015-05-17T00:00:00-04:00",
-                    "title": "2015 Memorial Day"
+                    "display": {
+                        "end": "2015-05-26T00:00:00-04:00",
+                        "start": "2015-05-17T00:00:00-04:00"
+                    },
+                    "id": 283840,
+                    "msg": "<p>The New York Public Library will be closed from May 23 through May 25 in observance of Memorial Day.</p>",
+                    "scope": "all"
                 },
                 {
-                    "_id": 283846,
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283846"
                         }
                     },
-                    "body": "<p>All units of the NYPL will be closed July 4.</p>",
-                    "end": "2015-07-04T00:00:00-04:00",
-                    "scope": "all",
-                    "start": "2015-06-27T00:00:00-04:00",
-                    "title": "2015 Independence Day"
+                    "display": {
+                        "end": "2015-07-05T00:00:00-04:00",
+                        "start": "2015-06-27T00:00:00-04:00"
+                    },
+                    "id": 283846,
+                    "msg": "<p>All units of the NYPL will be closed July 4.</p>",
+                    "scope": "all"
                 },
                 {
-                    "_id": 283851,
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283851"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed September 5th through September 7th in observance of Labor Day.</p>",
-                    "end": "2015-09-07T00:00:00-04:00",
-                    "scope": "all",
-                    "start": "2015-08-28T00:00:00-04:00",
-                    "title": "2015 Labor Day"
+                    "display": {
+                        "end": "2015-09-08T00:00:00-04:00",
+                        "start": "2015-08-28T00:00:00-04:00"
+                    },
+                    "id": 283851,
+                    "msg": "<p>The New York Public Library will be closed September 5th through September 7th in observance of Labor Day.</p>",
+                    "scope": "all"
                 },
                 {
-                    "_id": 283892,
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283892"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed on Monday, October 12 in observance of Columbus Day.</p>",
-                    "end": "2015-10-12T00:00:00-04:00",
-                    "scope": "home",
-                    "start": "2015-10-07T00:00:00-04:00",
-                    "title": "2015 Columbus Day"
+                    "display": {
+                        "end": "2015-10-13T00:00:00-04:00",
+                        "start": "2015-10-07T00:00:00-04:00"
+                    },
+                    "id": 283892,
+                    "msg": "<p>The New York Public Library will be closed on Monday, October 12 in observance of Columbus Day.</p>",
+                    "scope": "all"
                 },
                 {
-                    "_id": 283893,
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283893"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed on November 11 in observance of Veterans Day.</p>",
-                    "end": "2015-11-11T00:00:00-05:00",
-                    "scope": "all",
-                    "start": "2015-11-06T00:00:00-05:00",
-                    "title": "2015 Veterans Day"
+                    "display": {
+                        "end": "2015-11-12T00:00:00-05:00",
+                        "start": "2015-11-06T00:00:00-05:00"
+                    },
+                    "id": 283893,
+                    "msg": "<p>The New York Public Library will be closed on November 11 in observance of Veterans Day.</p>",
+                    "scope": "all"
                 },
                 {
-                    "_id": 283894,
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283894"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed on Thanksgiving Day, Thursday, November 26.</p>",
-                    "end": "2015-11-26T00:00:00-05:00",
-                    "scope": "all",
-                    "start": "2015-11-20T00:00:00-05:00",
-                    "title": "2015 Thanksgiving Day"
+                    "display": {
+                        "end": "2015-11-27T00:00:00-05:00",
+                        "start": "2015-11-20T00:00:00-05:00"
+                    },
+                    "id": 283894,
+                    "msg": "<p>The New York Public Library will be closed on Thanksgiving Day, Thursday, November 26.</p>",
+                    "scope": "all"
                 },
                 {
-                    "_id": 283895,
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283895"
                         }
                     },
-                    "body": "<p>All NYPL locations will close at 5 PM on December 24 and will be closed on December 25.</p>",
-                    "end": "2015-12-25T00:00:00-05:00",
-                    "scope": "all",
-                    "start": "2015-12-17T00:00:00-05:00",
-                    "title": "2015 Christmas"
+                    "display": {
+                        "end": "2015-12-26T00:00:00-05:00",
+                        "start": "2015-12-17T00:00:00-05:00"
+                    },
+                    "id": 283895,
+                    "msg": "<p>All NYPL locations will close at 5 PM on December 24 and will be closed on December 25.</p>",
+                    "scope": "all"
                 },
                 {
-                    "_id": 283896,
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283896"
                         }
                     },
-                    "body": "<p>All NYPL locations will close at 5 PM on December 31 and will be closed on January 1, 2015.</p>",
-                    "end": "2016-01-01T00:00:00-05:00",
-                    "scope": "all",
-                    "start": "2015-12-26T00:00:00-05:00",
-                    "title": "2015 New Years Eve and New Years Day"
+                    "display": {
+                        "end": "2016-01-02T00:00:00-05:00",
+                        "start": "2015-12-26T00:00:00-05:00"
+                    },
+                    "id": 283896,
+                    "msg": "<p>All NYPL locations will close at 5 PM on December 31 and will be closed on January 1, 2015.</p>",
+                    "scope": "all"
                 }
             ],
             "blogs": [
                 {
-                    "_id": 272155,
+                    "_id": 286586,
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/blog/2014/10/17/birthday-moby-dick"
-                        }
-                    },
-                    "author": {
-                        "location": "Stephen A. Schwarzman Building, Rare Book Division",
-                        "name": "Jessica Pigza",
-                        "position": null
-                    },
-                    "body": "In honor of the White Whale\u2019s birthday, I have decided\u2014like Herman Melville\u2019s own sub-sub-librarian\u2014to share \u201ca glancing bird\u2019s-eye view of what has been promiscuously said, thought, fancied, and sung of Leviathan\u201d since Moby-Dick\u2019s first appearance in 1851.",
-                    "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/A%20WHALE%202.jpg",
-                    "pubdate": "2014-10-17T12:45:18Z",
-                    "title": "Happy Birthday, Moby-Dick!"
-                },
-                {
-                    "_id": 273469,
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2014/09/25/kermit-there-was-catesby"
-                        }
-                    },
-                    "author": {
-                        "location": "Stephen A. Schwarzman Building, Rare Book Division",
-                        "name": "Jessica Pigza",
-                        "position": null
-                    },
-                    "body": "My devotion to Kermit has led to a love for frogs in print as well, from Arnold Lobel's Frog and Toad books to Ken Kimura's 999 Frogs. And whenever I examine illustrated natural histories in the Rare Book Division where I work, I'm always on the lookout for Kermit's amphibious ancestors.",
-                    "image": "http://images.nypl.org/index.php?id=400816&t=w",
-                    "pubdate": "2014-09-25T17:57:30Z",
-                    "title": "Before Kermit, There Was Catesby"
-                },
-                {
-                    "_id": 272403,
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2014/09/22/400-years-banned-books"
+                            "href": "http://www.nypl.org/blog/2015/01/21/glimpses-alice"
                         }
                     },
                     "author": {
@@ -180,33 +142,16 @@
                         "name": "Meredith Mann",
                         "position": null
                     },
-                    "body": "September 21 \u2013 27 is Banned Books Week, when libraries and other members of the book community support the freedom to read and raise awareness of challenges to this freedom.  Sadly, the banning of books is not a new phenomenon\u2014while Catcher in the Rye or Huckleberry Finn come to mind, you can find books banned as early as the sixteenth century in the Rare Book Division.",
-                    "image": "https://www.nypl.org/sites/default/files/banned_1.jpg",
-                    "pubdate": "2014-09-22T14:27:10Z",
-                    "title": "400 Years of Banned Books"
+                    "body": "To celebrate Lewis Carroll\u2019s upcoming birthday\u2014and my un-birthday!\u2014let\u2019s venture down the rabbit hole to explore depictions of Alice, his most famous creation, here at the library.",
+                    "image": "http://images.nypl.org/index.php?id=5032844&t=w",
+                    "pubdate": "2015-01-21T15:49:37Z",
+                    "title": "Glimpses of Alice"
                 },
                 {
-                    "_id": 271449,
+                    "_id": 284214,
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/blog/2014/09/08/rare-book-printers-marks"
-                        }
-                    },
-                    "author": {
-                        "location": "Rare Book Division, Stephen A. Schwarzman Building",
-                        "name": "Meredith Mann",
-                        "position": null
-                    },
-                    "body": "The penguin.  The borzoi.  When we peruse our bookshelves, we see spines decorated with the symbols of publishing houses.  But this tradition is not modern: starting with the second book ever printed, members of the trade were making their presence known.  These marks were words and illustrations carved into wood and included at the beginning or end of a book to indicate the printer  responsible.  In NYPL\u2019s Rare Book Division, we have a treasure trove of printers\u2019 marks to explore.",
-                    "image": "https://www.nypl.org/sites/default/files/image04_0.jpg",
-                    "pubdate": "2014-09-08T18:16:40Z",
-                    "title": "Mark My Words: Printers Marks in the Rare Book Division"
-                },
-                {
-                    "_id": 260649,
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2014/06/04/documenting-tiananmen-square"
+                            "href": "http://www.nypl.org/blog/2014/12/30/aylmer-bourke-lambert-evergreen-pine"
                         }
                     },
                     "author": {
@@ -214,27 +159,78 @@
                         "name": "Jessica Pigza",
                         "position": null
                     },
-                    "body": "Twenty-five years ago, the world watched Beijing's Tiananmen Square, as demonstrations by Chinese citizens rallying for democracy drew the attention of Chinese military, with deadly results.",
-                    "image": "https://www.nypl.org/sites/default/files/Archive%20sample.jpg",
-                    "pubdate": "2014-06-04T21:51:32Z",
-                    "title": "Documenting Tiananmen Square"
+                    "body": "Evergreens, pines, conifers. As the year draws to a close, many of us have welcomed these needly trees into our homes as part of long-established Christmas tradition. But before this tradition took root in England (via Germany), one Englishman devoted his life all throughout the year to the genus Pinus.",
+                    "image": "http://images.nypl.org/index.php?id=1114097&t=w",
+                    "pubdate": "2014-12-30T20:21:38Z",
+                    "title": "Aylmer Bourke Lambert and the Most Princely of Pines"
                 },
                 {
-                    "_id": 259675,
+                    "_id": 283878,
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/blog/2014/05/30/picturing-walt-whitman"
+                            "href": "http://www.nypl.org/blog/2014/12/18/charles-dickens-christmas-stories"
                         }
                     },
                     "author": {
-                        "location": "Coordinator of Collection Assessment, Humanities & LGBT Collections",
-                        "name": "Jason Baumann",
+                        "location": "Stephen A. Schwarzman Building, Rare Book Division",
+                        "name": "Jessica Pigza",
                         "position": null
                     },
-                    "body": "The life and work of Walt Whitman (May 31, 1819 - March 26, 1892) are prodigiously documented in the Oscar Lion Collection, held in the New York Public Library's Rare Books Division.",
-                    "image": "http://images.nypl.org/index.php?id=427882&t=w",
-                    "pubdate": "2014-05-30T16:03:43Z",
-                    "title": "Picturing Walt Whitman"
+                    "body": "A Christmas Carol continues, year after year, to be reworked, adapted, dramatized, enjoyed at home, and read in public settings. Perhaps less familiar are the dozens of Christmas stories that Charles Dickens penned in the twenty-five years that followed its publication.",
+                    "image": "https://www.nypl.org/sites/default/files/Dickens%20Spines%202.jpg",
+                    "pubdate": "2014-12-18T17:18:23Z",
+                    "title": "Charles Dickens and His Christmas Stories"
+                },
+                {
+                    "_id": 283692,
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/blog/2014/12/16/ford-madox-ford"
+                        }
+                    },
+                    "author": {
+                        "location": "Rare Book Division, Stephen A. Schwarzman Building",
+                        "name": "Meredith Mann",
+                        "position": null
+                    },
+                    "body": "December 17 marks British author, editor, and all-around literary icon Ford Madox Ford\u2019s 141st birthday.  To celebrate the occasion, I explored his writings in the Rare Book Division\u2014and found some fascinating glimpses into his life and work.",
+                    "image": "https://www.nypl.org/sites/default/files/image03_3.jpg",
+                    "pubdate": "2014-12-16T18:26:36Z",
+                    "title": "A Birthday Huzzah for Mr. Ford Madox Ford"
+                },
+                {
+                    "_id": 282569,
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/blog/2014/12/09/times-new-roman"
+                        }
+                    },
+                    "author": {
+                        "location": "Rare Book Division, Stephen A. Schwarzman Building",
+                        "name": "Meredith Mann",
+                        "position": null
+                    },
+                    "body": "The evolution of Times New Roman, with historical precedents\n\t\tTop: Gros Cicero, from Surius\u2019 Commentarivs Brevis Rervm In Orbe Gestarvm. Middle: Plantin, from H.G. Wells\u2019 Tono-Bungay. Bottom: Times New Roman, from The Monotype Recorder, Vol. 21.\n\n\nIf you open up your word processing software and start typing, chances are you\u2019re looking at Times New Roman. It\u2019s so ubiquitous that we take it for granted, but just like Spider-Man or Wolverine, this super-typeface has its own origin story.\n\nYou might be surprised to learn that Times New Roman began as a challenge, when esteemed type...",
+                    "image": "https://www.nypl.org/sites/default/files/image03_2.jpg",
+                    "pubdate": "2014-12-09T19:42:54Z",
+                    "title": "Where Did Times New Roman Come From?"
+                },
+                {
+                    "_id": 280575,
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/blog/2014/11/24/ben-franklin-turkey-electricity"
+                        }
+                    },
+                    "author": {
+                        "location": "Rare Book Division, Stephen A. Schwarzman Building",
+                        "name": "Meredith Mann",
+                        "position": null
+                    },
+                    "body": "The options for cooking a turkey are seemingly endless, but leave it to founding father Benjamin Franklin to invent one more \u2014 electrocution.",
+                    "image": "http://images.nypl.org/index.php?id=1651644&t=w",
+                    "pubdate": "2014-11-24T13:18:10Z",
+                    "title": "Ben Franklin on Cooking Turkey... with Electricity"
                 }
             ],
             "divisions": [
@@ -244,7 +240,7 @@
                             "href": "http://locations.api.nypl.org/divisions/arents-collection/alerts"
                         },
                         "blogs": {
-                            "all": "http://www.nypl.org/blog/division/5211",
+                            "all": "http://www.nypl.org/blog/division/",
                             "href": "http://locations.api.nypl.org/divisions/arents-collection/blogs"
                         },
                         "concierge": {
@@ -353,7 +349,20 @@
             ],
             "events": null,
             "exhibitions": null,
-            "features": null,
+            "features": [
+                {
+                    "_id": 294012,
+                    "_links": {
+                        "self": {
+                            "href": "http://digitalcollections.nypl.org/divisions/rare-book-division"
+                        }
+                    },
+                    "body": "<p>Interact with digitized items from the Rare Book Division.</p>\n",
+                    "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/features/digcol_12.jpg",
+                    "title": "Digital Collections",
+                    "weight": -10
+                }
+            ],
             "location": {
                 "_links": {
                     "alerts": {
@@ -370,7 +379,7 @@
                         "href": "http://www.nypl.org/ask-nypl/make-appointment-sasb"
                     },
                     "contact": {
-                        "href": "http://www.nypl.org/help/email-a-librarian/sasb"
+                        "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?institution=13306&type=1&language=1"
                     },
                     "events": {
                         "all": "http://www.nypl.org/events/calendar?location=36",
@@ -409,9 +418,9 @@
                 },
                 "hours": {
                     "exceptions": {
-                        "description": "The Rose Main Reading Room and the Bill Blass Public Catalog Room in the Stephen A. Schwarzman Building are temporarily closed.  General Research Division (GRD) onsite materials are still available for use; we encourage you to submit requests in advance via our <a href=\"http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm;jsessionid=7B8D22D69482BCDDAE43913EA5B374C3?&institution=13777&type=1&language=1&qphost=qpap01pxdu.prod.oclc.org&\">online form</a>. The <a href=\"http://catalog.nypl.org/\">Classic Catalog</a> may be used for offsite requests, which will be available for pickup in Room 217. More information is available on the <a href=\"http://www.nypl.org/readingroomupdate\">updates page</a>.<br><br>The Library\u2019s Gottesman Exhibition Hall, which currently houses the \u201cPublic Eye: 175 Years of Sharing Photography\u201d exhibition, is temporarily closed. More information is available on the <a href=\"http://www.nypl.org/events/exhibitions/public-eye\">exhibition page</a>.</p>",
-                        "end": "2015-01-24T00:00:00-05:00",
-                        "start": "2015-01-23T14:45:55-05:00"
+                        "description": "The Rose Main Reading Room and the Bill Blass Public Catalog Room in the Stephen A. Schwarzman Building are temporarily closed.  General Research Division (GRD) onsite materials are still available for use; we encourage you to submit requests in advance via our <a href=\"http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm;jsessionid=7B8D22D69482BCDDAE43913EA5B374C3?&institution=13777&type=1&language=1&qphost=qpap01pxdu.prod.oclc.org&\">online form</a>. The <a href=\"http://catalog.nypl.org/\">Classic Catalog</a> may be used for offsite requests, which will be available for pickup in Room 217. More information is available on the <a href=\"http://www.nypl.org/readingroomupdate\">updates page</a>.</p>",
+                        "end": "2015-03-18T00:00:00-04:00",
+                        "start": "2015-03-17T14:45:59-04:00"
                     },
                     "regular": [
                         {
@@ -508,7 +517,7 @@
                 "href": "http://locations.api.nypl.org/divisions/rare-books-division/alerts"
             },
             "blogs": {
-                "all": "http://www.nypl.org/blog/division/5222",
+                "all": "http://www.nypl.org/blog/division/",
                 "href": "http://locations.api.nypl.org/divisions/rare-books-division/blogs"
             },
             "concierge": {
@@ -542,6 +551,7 @@
             },
             "phone": "(212) 642-0110"
         },
+        "cross_street": "",
         "floor": "Third Floor",
         "fundraising": {
             "_id": 275290,
@@ -549,6 +559,13 @@
             "button_label": "Join or Renew",
             "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
             "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+        },
+        "geolocation": {
+            "coordinates": [
+                -73.9822,
+                40.7532
+            ],
+            "type": "Point"
         },
         "hours": {
             "regular": [
@@ -594,14 +611,18 @@
             "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/445/dc_sasb_rarebooks2.jpg",
             "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/445/research_interior_2014_09_18_sasb_rarebooks_I45A8003.jpg"
         },
+        "locality": "New York",
         "location_id": "SASB",
         "name": "Rare Book Division",
         "open": true,
         "plan_your_visit": null,
+        "postal_code": "10018",
         "rank": 7,
+        "region": "NY",
         "room": "328",
         "slug": "rare-books-division",
         "social_media": null,
+        "street_address": "Fifth Avenue at 42nd Street",
         "synonyms": [],
         "terms": [
             {
@@ -631,6 +652,14 @@
                         "name": "Religion"
                     },
                     {
+                        "id": 8056,
+                        "name": "Maps"
+                    },
+                    {
+                        "id": 8057,
+                        "name": "New York City History"
+                    },
+                    {
                         "id": 8059,
                         "name": "U.S. History"
                     },
@@ -639,16 +668,16 @@
                         "name": "Latin American Studies"
                     },
                     {
+                        "id": 8068,
+                        "name": "Slavic & Baltic Studies"
+                    },
+                    {
                         "id": 8080,
                         "name": "Children's Literature"
                     },
                     {
                         "id": 8081,
                         "name": "Culinary Studies"
-                    },
-                    {
-                        "id": 8084,
-                        "name": "Popular Culture"
                     }
                 ]
             }
@@ -656,7 +685,7 @@
         "type": "research"
     },
     "response": {
-        "api_version": 0.6,
+        "api_version": 0.7,
         "count": 1,
         "limit": 1,
         "offset": 0,
