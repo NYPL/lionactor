@@ -43,7 +43,7 @@ describe Lionactor::LocationAmenity do
     end
 
     it "should be have a name" do
-      expect(@local.amenity.name).to eq "Computers for Public Use"
+      expect(@local.amenity.name).to eq "Computers for public use"
     end
   end
 end
