@@ -138,7 +138,7 @@ describe Lionactor::Amenity do
   context "When loaded as part of an location" do
     before :each do
       data = JSON.parse(MML)["location"]["_embedded"]["amenities"]
-        .select{|a| a["amenity"]["name"] == "Computers for Public Use"}.first
+        .select{|a| a["amenity"]["name"] == "Computers for public use"}.first
       @amenity = Lionactor::Amenity.new(data, nil)
     end
 
