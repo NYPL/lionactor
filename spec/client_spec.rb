@@ -97,4 +97,24 @@ describe Lionactor::Client do
       expect(@terms.first).to be_an_instance_of Lionactor::Term
     end
   end
+
+  describe "bad request" do
+    before :each do
+      @r = double(Faraday::Response, :body => TERMS, :headers => {}, :status => 404)
+      allow_any_instance_of(Faraday::Connection).to receive(:get).
+        and_return(@r)
+    end
+
+    it "raises an exception" do
+      expect { @client.location('abc') }.to raise_error(Lionactor::ResponseError)
+    end
+
+    it "has a status" do
+      begin
+        @client.location('abc')
+      rescue Lionactor::ResponseError => e
+        expect(e.status).to eq 404
+      end
+    end
+  end
 end
