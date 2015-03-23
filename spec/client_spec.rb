@@ -16,7 +16,7 @@ describe Lionactor::Client do
 
   describe "#location" do
     before :each do
-      @r = double(Faraday::Response, :body => MML, :headers => {})
+      @r = double(Faraday::Response, :body => MML, :headers => {}, :status => 200)
       allow_any_instance_of(Faraday::Connection).to receive(:get).
         and_return(@r)
     end
@@ -29,7 +29,7 @@ describe Lionactor::Client do
 
   describe "#locations" do 
     before :each do
-      @r = double(Faraday::Response, :body => LOCATIONS, :headers => {})
+      @r = double(Faraday::Response, :body => LOCATIONS, :headers => {}, :status => 200)
       allow_any_instance_of(Faraday::Connection).to receive(:get).
         and_return(@r)
     end
@@ -43,7 +43,7 @@ describe Lionactor::Client do
   describe "#amenities" do
     context "with no location specified" do
       before :each do
-        @r = double(Faraday::Response, :body => AMENITIES, :headers => {})
+        @r = double(Faraday::Response, :body => AMENITIES, :headers => {}, :status => 200)
         allow_any_instance_of(Faraday::Connection).to receive(:get).
           and_return(@r)
       end
@@ -56,7 +56,7 @@ describe Lionactor::Client do
 
     context "with a location specified" do 
       before :each do
-        @r = double(Faraday::Response, :body => AMENITIES_MML, :headers => {})
+        @r = double(Faraday::Response, :body => AMENITIES_MML, :headers => {}, :status => 200)
         allow_any_instance_of(Faraday::Connection).to receive(:get).
           and_return(@r)
       end
@@ -70,7 +70,7 @@ describe Lionactor::Client do
 
   describe "#amenity" do
     before :each do
-      @r = double(Faraday::Response, :body => AMENITY, :headers => {})
+      @r = double(Faraday::Response, :body => AMENITY, :headers => {}, :status => 200)
       allow_any_instance_of(Faraday::Connection).to receive(:get).
         and_return(@r)
       @amenity = @client.amenity(0)
@@ -83,7 +83,7 @@ describe Lionactor::Client do
 
   describe "#terms" do
     before :each do
-      @r = double(Faraday::Response, :body => TERMS, :headers => {})
+      @r = double(Faraday::Response, :body => TERMS, :headers => {}, :status => 200)
       allow_any_instance_of(Faraday::Connection).to receive(:get).
         and_return(@r)
       @terms = @client.terms
@@ -95,6 +95,34 @@ describe Lionactor::Client do
 
     it "returns an array of Term objects" do
       expect(@terms.first).to be_an_instance_of Lionactor::Term
+    end
+  end
+
+  describe "bad request" do
+    before :each do
+      @r = double(Faraday::Response, :body => ERRMSG, :headers => {}, :status => 404)
+      allow_any_instance_of(Faraday::Connection).to receive(:get).
+        and_return(@r)
+    end
+
+    it "raises an exception" do
+      expect { @client.location('abc') }.to raise_error(Lionactor::ResponseError)
+    end
+
+    it "has a status" do
+      begin
+        @client.location('abc')
+      rescue Lionactor::ResponseError => e
+        expect(e.status).to eq 404
+      end
+    end
+
+    it "gets its message from the API" do
+      begin
+        @client.location('abc')
+      rescue Lionactor::ResponseError => e
+        expect(e.to_s).to start_with "The response did not match an endpoint."
+      end
     end
   end
 end
