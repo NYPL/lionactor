@@ -56,7 +56,11 @@ module Lionactor
     protected
     def get_endpoint(path)
       response = @conn.get(api_path(path))
-      JSON.parse response.body
+      if response.status == 200
+        return JSON.parse response.body
+      end
+      err = JSON.parse response.body
+      raise ResponseError.new err['developerMessage'], response.status
     end
     
     def api_path(path)
