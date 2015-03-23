@@ -100,7 +100,7 @@ describe Lionactor::Client do
 
   describe "bad request" do
     before :each do
-      @r = double(Faraday::Response, :body => TERMS, :headers => {}, :status => 404)
+      @r = double(Faraday::Response, :body => ERRMSG, :headers => {}, :status => 404)
       allow_any_instance_of(Faraday::Connection).to receive(:get).
         and_return(@r)
     end
@@ -114,6 +114,14 @@ describe Lionactor::Client do
         @client.location('abc')
       rescue Lionactor::ResponseError => e
         expect(e.status).to eq 404
+      end
+    end
+
+    it "gets its message from the API" do
+      begin
+        @client.location('abc')
+      rescue Lionactor::ResponseError => e
+        expect(e.to_s).to start_with "The response did not match an endpoint."
       end
     end
   end

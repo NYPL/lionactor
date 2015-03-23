@@ -1,0 +1,5 @@
+{
+    "developerMessage": "The response did not match an endpoint. Either the URL was malformed or the data do not exist for the endpoint given.",
+    "status": 400,
+    "userMessage": "The response you're looking for does not exist."
+}
