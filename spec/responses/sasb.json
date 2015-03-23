@@ -5,132 +5,142 @@
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/node/283838"
+                            "href": "http://www.nypl.org/node/293246"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed on Monday, February 16 in observance of Presidents Day.</p>",
-                    "end": "2015-02-16T00:00:00-05:00",
-                    "id": 283838,
-                    "scope": "all",
-                    "start": "2015-02-12T00:00:00-05:00",
-                    "title": "2015 President's Day"
+                    "display": {
+                        "end": "2016-03-11T00:00:00-05:00",
+                        "start": "2015-03-10T00:00:00-04:00"
+                    },
+                    "id": 293246,
+                    "msg": "<p>The Rose Main Reading Room and the Bill Blass Public Catalog Room in the Stephen A. Schwarzman Building are temporarily closed. General Research Division (GRD) onsite materials are still available for use; we encourage you to submit requests in advance via our <a href=\"http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm;jsessionid=7B8D22D69482BCDDAE43913EA5B374C3?&institution=13777&type=1&language=1&qphost=qpap01pxdu.prod.oclc.org&\">online form</a>.",
+                    "scope": "location"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283839"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed on Sunday, April 5.</p>",
-                    "end": "2015-04-05T00:00:00-04:00",
+                    "display": {
+                        "end": "2015-04-06T00:00:00-04:00",
+                        "start": "2015-04-01T00:00:00-04:00"
+                    },
                     "id": 283839,
-                    "scope": "all",
-                    "start": "2015-04-01T00:00:00-04:00",
-                    "title": "2015 Easter"
+                    "msg": "<p>The New York Public Library will be closed on Sunday, April 5.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283840"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed from May 23 through May 25 in observance of Memorial Day.</p>",
-                    "end": "2015-05-25T00:00:00-04:00",
+                    "display": {
+                        "end": "2015-05-26T00:00:00-04:00",
+                        "start": "2015-05-17T00:00:00-04:00"
+                    },
                     "id": 283840,
-                    "scope": "all",
-                    "start": "2015-05-17T00:00:00-04:00",
-                    "title": "2015 Memorial Day"
+                    "msg": "<p>The New York Public Library will be closed from May 23 through May 25 in observance of Memorial Day.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283846"
                         }
                     },
-                    "body": "<p>All units of the NYPL will be closed July 4.</p>",
-                    "end": "2015-07-04T00:00:00-04:00",
+                    "display": {
+                        "end": "2015-07-05T00:00:00-04:00",
+                        "start": "2015-06-27T00:00:00-04:00"
+                    },
                     "id": 283846,
-                    "scope": "all",
-                    "start": "2015-06-27T00:00:00-04:00",
-                    "title": "2015 Independence Day"
+                    "msg": "<p>All units of the NYPL will be closed July 4.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283851"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed September 5th through September 7th in observance of Labor Day.</p>",
-                    "end": "2015-09-07T00:00:00-04:00",
+                    "display": {
+                        "end": "2015-09-08T00:00:00-04:00",
+                        "start": "2015-08-28T00:00:00-04:00"
+                    },
                     "id": 283851,
-                    "scope": "all",
-                    "start": "2015-08-28T00:00:00-04:00",
-                    "title": "2015 Labor Day"
+                    "msg": "<p>The New York Public Library will be closed September 5th through September 7th in observance of Labor Day.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283892"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed on Monday, October 12 in observance of Columbus Day.</p>",
-                    "end": "2015-10-12T00:00:00-04:00",
+                    "display": {
+                        "end": "2015-10-13T00:00:00-04:00",
+                        "start": "2015-10-07T00:00:00-04:00"
+                    },
                     "id": 283892,
-                    "scope": "home",
-                    "start": "2015-10-07T00:00:00-04:00",
-                    "title": "2015 Columbus Day"
+                    "msg": "<p>The New York Public Library will be closed on Monday, October 12 in observance of Columbus Day.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283893"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed on November 11 in observance of Veterans Day.</p>",
-                    "end": "2015-11-11T00:00:00-05:00",
+                    "display": {
+                        "end": "2015-11-12T00:00:00-05:00",
+                        "start": "2015-11-06T00:00:00-05:00"
+                    },
                     "id": 283893,
-                    "scope": "all",
-                    "start": "2015-11-06T00:00:00-05:00",
-                    "title": "2015 Veterans Day"
+                    "msg": "<p>The New York Public Library will be closed on November 11 in observance of Veterans Day.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283894"
                         }
                     },
-                    "body": "<p>The New York Public Library will be closed on Thanksgiving Day, Thursday, November 26.</p>",
-                    "end": "2015-11-26T00:00:00-05:00",
+                    "display": {
+                        "end": "2015-11-27T00:00:00-05:00",
+                        "start": "2015-11-20T00:00:00-05:00"
+                    },
                     "id": 283894,
-                    "scope": "all",
-                    "start": "2015-11-20T00:00:00-05:00",
-                    "title": "2015 Thanksgiving Day"
+                    "msg": "<p>The New York Public Library will be closed on Thanksgiving Day, Thursday, November 26.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283895"
                         }
                     },
-                    "body": "<p>All NYPL locations will close at 5 PM on December 24 and will be closed on December 25.</p>",
-                    "end": "2015-12-25T00:00:00-05:00",
+                    "display": {
+                        "end": "2015-12-26T00:00:00-05:00",
+                        "start": "2015-12-17T00:00:00-05:00"
+                    },
                     "id": 283895,
-                    "scope": "all",
-                    "start": "2015-12-17T00:00:00-05:00",
-                    "title": "2015 Christmas"
+                    "msg": "<p>All NYPL locations will close at 5 PM on December 24 and will be closed on December 25.</p>",
+                    "scope": "all"
                 },
                 {
                     "_links": {
-                        "self": {
+                        "web": {
                             "href": "http://www.nypl.org/node/283896"
                         }
                     },
-                    "body": "<p>All NYPL locations will close at 5 PM on December 31 and will be closed on January 1, 2015.</p>",
-                    "end": "2016-01-01T00:00:00-05:00",
+                    "display": {
+                        "end": "2016-01-02T00:00:00-05:00",
+                        "start": "2015-12-26T00:00:00-05:00"
+                    },
                     "id": 283896,
-                    "scope": "all",
-                    "start": "2015-12-26T00:00:00-05:00",
-                    "title": "2015 New Years Eve and New Years Day"
+                    "msg": "<p>All NYPL locations will close at 5 PM on December 31 and will be closed on January 1, 2015.</p>",
+                    "scope": "all"
                 }
             ],
             "amenities": [
@@ -153,7 +163,7 @@
                         },
                         "category": "Computer Services",
                         "id": 7964,
-                        "name": "Computers for Public Use",
+                        "name": "Computers for public use",
                         "rank": 1
                     },
                     "location_rank": 2,
@@ -170,7 +180,7 @@
                         },
                         "category": "Computer Services",
                         "id": 7965,
-                        "name": "Laptops for Public Use",
+                        "name": "Laptops for public use",
                         "rank": 20
                     },
                     "location_rank": 3,
@@ -212,7 +222,7 @@
                         },
                         "category": "Computer Services",
                         "id": 7967,
-                        "name": "Wireless Internet Access",
+                        "name": "Wireless access (Wi-Fi)",
                         "rank": 2
                     },
                     "location_rank": 5,
@@ -229,7 +239,7 @@
                         },
                         "category": "Computer Services",
                         "id": 7968,
-                        "name": "Electric outlets available",
+                        "name": "Electric outlets available for public use",
                         "rank": 33
                     },
                     "location_rank": 6,
@@ -250,7 +260,7 @@
                         },
                         "category": "Circulation",
                         "id": 7969,
-                        "name": "Inter-Library Loan",
+                        "name": "Interlibrary loan (ILL)",
                         "rank": 16
                     },
                     "location_rank": 7,
@@ -301,7 +311,7 @@
                         },
                         "category": "Facilities",
                         "id": 7980,
-                        "name": "Public Restrooms",
+                        "name": "Public restrooms",
                         "rank": 14
                     },
                     "location_rank": 10,
@@ -318,7 +328,7 @@
                         },
                         "category": "Facilities",
                         "id": 7986,
-                        "name": "Checkroom Service",
+                        "name": "Checkroom service",
                         "rank": 34
                     },
                     "location_rank": 11,
@@ -445,7 +455,7 @@
                         },
                         "category": "Assistive Technologies",
                         "id": 7993,
-                        "name": "Scanner/Reading Machines",
+                        "name": "Scanner/reading machines",
                         "rank": 27
                     },
                     "location_rank": 18,
@@ -462,7 +472,7 @@
                         },
                         "category": "Assistive Technologies",
                         "id": 8000,
-                        "name": "Telecommunications Devices for the Deaf (TTYs)",
+                        "name": "Telecommunications devices for the deaf (TTYs)",
                         "rank": 32
                     },
                     "location_rank": 19,
@@ -473,58 +483,7 @@
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/blog/2015/01/21/juana-vargas-la-macarrona-flamenco"
-                        }
-                    },
-                    "author": {
-                        "location": "Wertheim Study",
-                        "name": "K. Meira Goldberg",
-                        "position": "Co-Curator of the \"100 Years of Flamenco in NYC\" Exhibit"
-                    },
-                    "body": "The footage of Juana Vargas \"La Macarrona\" (1870-1947), filmed in 1917 by L\u00e9onide Massine and held in the Jerome Robbins Dance Division at the Library for the Performing Arts, is one of the Library's most important, and little-known, flamenco treasures. As a member of the Wertheim study, I was honored to be invited to write a blog post about the Library's significant holdings related to flamenco.",
-                    "id": 287522,
-                    "image": "https://www.nypl.org/sites/default/files/juana%20vargas.png",
-                    "pubdate": "2015-01-21T20:54:58Z",
-                    "title": "Juana Vargas \"La Macarrona:\" A Flamenco Treasure"
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2015/01/05/web-maps-primer"
-                        }
-                    },
-                    "author": {
-                        "location": null,
-                        "name": "Mauricio Giraldo Arteaga",
-                        "position": "NYPL Labs"
-                    },
-                    "body": "A primer on working with various free web mapping tools so you can make your own awesome maps.",
-                    "id": 285563,
-                    "image": "https://i.imgur.com/UTGlBEk.jpg",
-                    "pubdate": "2015-01-05T21:38:06Z",
-                    "title": "From Paper Maps to the Web: A DIY Digital Maps Primer"
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2014/10/17/birthday-moby-dick"
-                        }
-                    },
-                    "author": {
-                        "location": "Stephen A. Schwarzman Building, Rare Book Division",
-                        "name": "Jessica Pigza",
-                        "position": null
-                    },
-                    "body": "In honor of the White Whale\u2019s birthday, I have decided\u2014like Herman Melville\u2019s own sub-sub-librarian\u2014to share \u201ca glancing bird\u2019s-eye view of what has been promiscuously said, thought, fancied, and sung of Leviathan\u201d since Moby-Dick\u2019s first appearance in 1851.",
-                    "id": 272155,
-                    "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/A%20WHALE%202.jpg",
-                    "pubdate": "2014-10-17T12:45:18Z",
-                    "title": "Happy Birthday, Moby-Dick!"
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/blog/2014/09/29/ask-author-mark-strand"
+                            "href": "http://www.nypl.org/blog/2015/03/11/ask-author-frank-bruni"
                         }
                     },
                     "author": {
@@ -532,55 +491,215 @@
                         "name": "Lynn Lobash",
                         "position": "Manager of Reader Services"
                     },
-                    "body": "Mark Strand answers our six questions about reading.",
-                    "id": 272372,
-                    "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/Mark%20Strand_CREDIT_Sarah%20Schatz-180_0.jpg",
-                    "pubdate": "2014-09-29T16:59:17Z",
-                    "title": "Ask the Author: Mark Strand"
+                    "body": "Frank Bruni comes to Books at Noon next Wednesday, March 18 to discuss his latest work, Where You Go Is Not Who You\u2019ll Be: An Antidote to the College Admissions Mania. We asked him six questions about what he likes to read.",
+                    "id": 292398,
+                    "image": "http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=NYPL49807&password=CC68707&Value=9781455532704&content=M&Return=1&Type=M",
+                    "pubdate": "2015-03-11T17:25:29Z",
+                    "title": "Ask the Author: Frank Bruni"
                 },
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/blog/2014/09/25/kermit-there-was-catesby"
+                            "href": "http://www.nypl.org/blog/2015/03/11/nyc-big-apple"
                         }
                     },
                     "author": {
-                        "location": "Stephen A. Schwarzman Building, Rare Book Division",
-                        "name": "Jessica Pigza",
+                        "location": "Milstein Division of United States History, Local History and Genealogy, Stephen A. Schwarzman Building",
+                        "name": "Carmen Nigro",
                         "position": null
                     },
-                    "body": "My devotion to Kermit has led to a love for frogs in print as well, from Arnold Lobel's Frog and Toad books to Ken Kimura's 999 Frogs. And whenever I examine illustrated natural histories in the Rare Book Division where I work, I'm always on the lookout for Kermit's amphibious ancestors.",
-                    "id": 273469,
-                    "image": "http://images.nypl.org/index.php?id=400816&t=w",
-                    "pubdate": "2014-09-25T17:57:30Z",
-                    "title": "Before Kermit, There Was Catesby"
+                    "body": "New York is a city of nicknames. The City That Never Sleeps, Empire City, The City So Nice They Named It Twice\u2026 and of course Gotham, which we\u2019ve covered before. Today let\u2019s just look at the Big Apple.",
+                    "id": 293349,
+                    "image": "http://images.nypl.org/index.php?id=482681&t=w",
+                    "pubdate": "2015-03-11T14:50:16Z",
+                    "title": "Why Is New York City Called the Big Apple?"
                 },
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/blog/2014/09/25/19th-century-fashion-plate-magazines"
+                            "href": "http://www.nypl.org/blog/2015/03/09/lawmen-badmen-sheriffs-marshals"
+                        }
+                    },
+                    "author": {
+                        "location": "Milstein Division of United States History, Local History and Genealogy, Stephen A. Schwarzman Building",
+                        "name": "Andy McCarthy",
+                        "position": null
+                    },
+                    "body": "In the early American West, the lawman might be a U.S. marshal, appointed by the Attorney General, or he might be a local sheriff elected to office by the townfolk. The distinction often makes no difference in old Western movies, but is an optimum detail in the pursuit of genealogy and local history research in the Milstein Division, where reference librarians must wrangle between the local, county, state, and federal levels in order to rope in relevant resources for patron requests.",
+                    "id": 293122,
+                    "image": "http://images.nypl.org/index.php?id=G98F842_002&t=w",
+                    "pubdate": "2015-03-09T21:40:50Z",
+                    "title": "Lawmen and Badmen: The Tin Star of the Old West"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/blog/2015/03/06/eugene-atget-public-eye"
                         }
                     },
                     "author": {
                         "location": null,
-                        "name": "Doris Straus",
+                        "name": "Luc Sante",
+                        "position": "guest blogger for Public Eye"
+                    },
+                    "body": "Eug\u00e8ne Atget took relatively few pictures of people. There is a series dating from about 1898 to 1900 of people in the small trades (petits m\u00e9tiers): the ragpicker, the organ grinder, ambulatory vendors of herbs, lampshades, plaster statues, baskets. And then there is a small series on prostitutes, from 1921.",
+                    "id": 292791,
+                    "image": "http://images.nypl.org/index.php?id=5164640&t=w",
+                    "pubdate": "2015-03-06T17:35:36Z",
+                    "title": "Street Prostitute, Fort-Monjol, April 19, 1921, by Eug\u00e8ne Atget"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/blog/2015/03/05/jewish-division-recent-acquisitions"
+                        }
+                    },
+                    "author": {
+                        "location": "Jewish Division, Stephen A. Schwarzman Building",
+                        "name": "Eleanor Yadin",
                         "position": null
                     },
-                    "body": "The Art & Architecture Collection has a large collection of women\u2019s (and some men\u2019s) 19th century fashion-plate periodicals. While French fashion dominated the 19th century this post features a selection of magazines from England, America and Sweden.",
-                    "id": 273273,
-                    "image": "http://cdn-prod.www.aws.nypl.org/sites/default/files/(1)%20Gallery%20of%20Fashion%201799.JPG",
-                    "pubdate": "2014-09-25T15:08:26Z",
-                    "title": "Fashion, The High Life, and \"The Duties of Married Females\": 19th Century Fashion-Plate Magazines"
+                    "body": "The following titles are just a few of our new books, all available at the reference desk in Room 111.",
+                    "id": 292751,
+                    "image": null,
+                    "pubdate": "2015-03-05T20:35:52Z",
+                    "title": "Recent Acquisitions in the Jewish Division: March 2015"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/blog/2015/03/05/photographs-bill-barvin"
+                        }
+                    },
+                    "author": {
+                        "location": "Stephen A. Schwarzman Building",
+                        "name": "Dina Selfridge",
+                        "position": null
+                    },
+                    "body": "William \"Bill\" Barvin worked for over two decades as a location manager and scout for television and film, taking thousands of photos during the course of his career of New York and New Jersey streets, apartments, storefronts, and rooftops; bars, clubs, restaurants, and theaters; hotels, hospitals, laundromats, and churches.",
+                    "id": 292496,
+                    "image": "http://images.nypl.org/index.php?id=5211665&t=w",
+                    "pubdate": "2015-03-05T16:56:07Z",
+                    "title": "Bill Barvin's Location Photography"
                 }
             ],
             "divisions": [
                 {
+                    "_embedded": {
+                        "alerts": [
+                            {
+                                "_links": {
+                                    "self": {
+                                        "href": "http://www.nypl.org/node/293252"
+                                    }
+                                },
+                                "display": {
+                                    "end": "2016-03-11T00:00:00-05:00",
+                                    "start": "2015-03-10T00:00:00-04:00"
+                                },
+                                "id": 293252,
+                                "msg": "<p>The Rose Main Reading Room and the Bill Blass Public Catalog Room in the Stephen A. Schwarzman Building will be temporarily closed. <a href=\"http://www.nypl.org/readingroomupdate\">More information is available on the updates page.</a></p>",
+                                "scope": "division"
+                            }
+                        ],
+                        "divisions": [
+                            {
+                                "_links": {
+                                    "alerts": {
+                                        "href": "http://locations.api.nypl.org/divisions/periodicals-room/alerts"
+                                    },
+                                    "blogs": {
+                                        "all": "http://www.nypl.org/blog/division/",
+                                        "href": "http://locations.api.nypl.org/divisions/periodicals-room/blogs"
+                                    },
+                                    "concierge": {
+                                        "href": "http://www.nypl.org/ask-nypl/make-appointment-librarian"
+                                    },
+                                    "contact": {
+                                        "href": "http://www.nypl.org/help/email-a-librarian/periodicals"
+                                    },
+                                    "events": {
+                                        "all": "http://www.nypl.org/events/calendar?location=173",
+                                        "href": "http://locations.api.nypl.org/divisions/periodicals-room/events"
+                                    },
+                                    "exhibitions": {
+                                        "href": "http://locations.api.nypl.org/divisions/periodicals-room/exhibitions"
+                                    },
+                                    "on_shelves": {
+                                        "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Periodicals+Room%22&circ=CIRC|NON%20CIRC"
+                                    },
+                                    "self": {
+                                        "about": "http://www.nypl.org/about/divisions/general-research-division/periodicals-room",
+                                        "href": "http://locations.api.nypl.org/divisions/periodicals-room"
+                                    }
+                                },
+                                "about": "The DeWitt Wallace Periodical Room (Room 108) services current issues of 200 popular periodicals and 22 domestic and foreign newspapers. The remaining thousands of periodicals are requested through the Microform Reading Room (Room 100) also on the first floor. The Periodicals Room is Wi-Fi enabled.",
+                                "access": "Fully Accessible",
+                                "contacts": {
+                                    "phone": "(212) 930-0971"
+                                },
+                                "floor": "First Floor",
+                                "fundraising": null,
+                                "hours": {
+                                    "regular": [
+                                        {
+                                            "close": null,
+                                            "day": "Sun",
+                                            "open": null
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Mon",
+                                            "open": "10:00"
+                                        },
+                                        {
+                                            "close": "19:45",
+                                            "day": "Tue",
+                                            "open": "10:00"
+                                        },
+                                        {
+                                            "close": "19:45",
+                                            "day": "Wed",
+                                            "open": "10:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Thu",
+                                            "open": "10:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Fri",
+                                            "open": "10:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Sat",
+                                            "open": "10:00"
+                                        }
+                                    ]
+                                },
+                                "id": "PER",
+                                "images": {
+                                    "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/173/dc_sasb_periodicals2.jpg",
+                                    "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/173/research_interior_sasb_periodicals.jpg"
+                                },
+                                "name": "DeWitt Wallace Periodical Room",
+                                "open": true,
+                                "plan_your_visit": null,
+                                "rank": 6,
+                                "room": "108",
+                                "slug": "periodicals-room",
+                                "synonyms": []
+                            }
+                        ]
+                    },
                     "_links": {
                         "alerts": {
                             "href": "http://locations.api.nypl.org/divisions/general-research-division/alerts"
                         },
                         "blogs": {
-                            "all": "http://www.nypl.org/blog/division/5215",
+                            "all": "http://www.nypl.org/blog/division/",
                             "href": "http://locations.api.nypl.org/divisions/general-research-division/blogs"
                         },
                         "concierge": {
@@ -608,11 +727,12 @@
                     "access": "Fully Accessible",
                     "contacts": {
                         "manager": {
-                            "fn": "Marie Coughlin",
-                            "title": "Library Manager"
+                            "fn": null,
+                            "title": null
                         },
                         "phone": "(917) 275-6975"
                     },
+                    "cross_street": "",
                     "floor": "Third Floor",
                     "fundraising": {
                         "_id": 275290,
@@ -621,12 +741,14 @@
                         "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
                         "statement": "Friends of the Library can support their favorite library and receive great benefits!"
                     },
+                    "geolocation": {
+                        "coordinates": [
+                            -73.9822,
+                            40.7532
+                        ],
+                        "type": "Point"
+                    },
                     "hours": {
-                        "exceptions": {
-                            "description": "<p>The Rose Main Reading Room and the Bill Blass Public Catalog Room in the Stephen A. Schwarzman Building will be temporarily closed. <a href=\"http://www.nypl.org/readingroomupdate\">More information is available on the updates page.<a/></p>\r\n\r\n<p>General Research Division (GRD) onsite materials are still available for use in the Stephen A. Schwarzman Building. We encourage you to submit requests in advance of your visit via our <a href=\"http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm;jsessionid=7B8D22D69482BCDDAE43913EA5B374C3?&institution=13777&type=1&language=1&qphost=qpap01pxdu.prod.oclc.org&\">online form</a>.</p>\r\n\r\n<p>Otherwise, you may request GRD materials in Room 217 or in any of the Schwarzman Building\u2019s other reading rooms.</p>\r\n\r\n<p>For offsite requests, please consult our <a href=\"http://catalog.nypl.org/\">Classic Catalog</a> and submit your request for any item by clicking the gray Request From Off-Site Storage button in the catalog record. Materials will be available for pickup in Room 217.</p>",
-                            "end": "2015-01-24T00:00:00-05:00",
-                            "start": "2015-01-23T14:16:11-05:00"
-                        },
                         "regular": [
                             {
                                 "close": "16:45",
@@ -667,23 +789,26 @@
                     },
                     "id": "GRD",
                     "images": {
-                        "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/394/dc_sasb_grd2.jpg",
+                        "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/394/dc_sasb_grd_0.jpg",
                         "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/394/research_interior_2014_09_18_sasb_reading_room (2).jpg"
                     },
+                    "locality": "New York",
                     "location_id": "SASB",
                     "name": "General Research Division",
                     "open": true,
                     "plan_your_visit": [
                         {
-                            "label": "Plan Your Research Visit",
-                            "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
-                        },
-                        {
                             "label": "Access Procedures",
                             "url": "http://www.nypl.org/about/divisions/general-research-division/access"
+                        },
+                        {
+                            "label": "Plan Your Research Visit",
+                            "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
                         }
                     ],
+                    "postal_code": "10018",
                     "rank": 0,
+                    "region": "NY",
                     "room": "315",
                     "slug": "general-research-division",
                     "social_media": [
@@ -704,6 +829,7 @@
                             "site": "youtube"
                         }
                     ],
+                    "street_address": "Fifth Avenue at 42nd Street",
                     "synonyms": [],
                     "terms": [
                         {
@@ -724,6 +850,10 @@
                             "id": 42,
                             "name": "Subjects",
                             "terms": [
+                                {
+                                    "id": 8032,
+                                    "name": "Black Studies"
+                                },
                                 {
                                     "id": 8039,
                                     "name": "Literature"
@@ -753,10 +883,6 @@
                                     "name": "Civil Rights"
                                 },
                                 {
-                                    "id": 8055,
-                                    "name": "Immigration & Migration"
-                                },
-                                {
                                     "id": 8057,
                                     "name": "New York City History"
                                 },
@@ -781,14 +907,6 @@
                                     "name": "Caribbean Studies"
                                 },
                                 {
-                                    "id": 8063,
-                                    "name": "East Asian Studies"
-                                },
-                                {
-                                    "id": 8064,
-                                    "name": "Eastern European Studies"
-                                },
-                                {
                                     "id": 8066,
                                     "name": "Latin American Studies"
                                 },
@@ -802,11 +920,11 @@
                                 },
                                 {
                                     "id": 8069,
-                                    "name": "South Asian Studies"
+                                    "name": "Asian Studies"
                                 },
                                 {
                                     "id": 8070,
-                                    "name": "Western European Studies"
+                                    "name": "European Studies"
                                 },
                                 {
                                     "id": 8075,
@@ -841,10 +959,6 @@
                                     "name": "Native American Studies"
                                 },
                                 {
-                                    "id": 8084,
-                                    "name": "Popular Culture"
-                                },
-                                {
                                     "id": 8085,
                                     "name": "Sports"
                                 },
@@ -858,6 +972,570 @@
                     "type": "research"
                 },
                 {
+                    "_embedded": {
+                        "alerts": [],
+                        "divisions": [
+                            {
+                                "_links": {
+                                    "alerts": {
+                                        "href": "http://locations.api.nypl.org/divisions/art-architecture-collection/alerts"
+                                    },
+                                    "blogs": {
+                                        "all": "http://www.nypl.org/blog/division/",
+                                        "href": "http://locations.api.nypl.org/divisions/art-architecture-collection/blogs"
+                                    },
+                                    "concierge": {
+                                        "href": "http://www.nypl.org/ask-nypl/make-appointment-librarian"
+                                    },
+                                    "contact": {
+                                        "href": "http://www.nypl.org/help/email-a-librarian/art"
+                                    },
+                                    "events": {
+                                        "all": "http://www.nypl.org/events/calendar?location=246",
+                                        "href": "http://locations.api.nypl.org/divisions/art-architecture-collection/events"
+                                    },
+                                    "exhibitions": {
+                                        "href": "http://locations.api.nypl.org/divisions/art-architecture-collection/exhibitions"
+                                    },
+                                    "on_shelves": {
+                                        "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Art+%26+Architecture+Collection%22&circ=CIRC|NON%20CIRC"
+                                    },
+                                    "self": {
+                                        "about": "http://www.nypl.org/about/divisions/wallach-division/art-architecture-collection",
+                                        "href": "http://locations.api.nypl.org/divisions/art-architecture-collection"
+                                    }
+                                },
+                                "about": "The Art and Architecture Collection contains published works on fine art, decorative arts, architecture and design history in general. The scope of the Collection is international, covering the arts from prehistory through the contemporary period. The holdings are remarkably rich for scholarship as a result of the original bequests from the Astor and Lenox collections, and other generous gifts. The Collection is particularly strong in the decorative arts; included among its early holdings is an antiquarian-based collection of portfolio and plate-books; the history of painting and drawing; and in Western European and American architectural history.",
+                                "access": "Fully Accessible",
+                                "contacts": {
+                                    "fax": "(212) 930-0530",
+                                    "phone": "(212) 930-0835"
+                                },
+                                "floor": "Third Floor",
+                                "fundraising": {
+                                    "_id": 275290,
+                                    "appeal": "Become a Member",
+                                    "button_label": "Join or Renew",
+                                    "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
+                                    "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+                                },
+                                "hours": {
+                                    "regular": [
+                                        {
+                                            "close": "16:45",
+                                            "day": "Sun",
+                                            "open": "13:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Mon",
+                                            "open": "10:00"
+                                        },
+                                        {
+                                            "close": "19:45",
+                                            "day": "Tue",
+                                            "open": "10:00"
+                                        },
+                                        {
+                                            "close": "19:45",
+                                            "day": "Wed",
+                                            "open": "10:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Thu",
+                                            "open": "10:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Fri",
+                                            "open": "10:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Sat",
+                                            "open": "10:00"
+                                        }
+                                    ]
+                                },
+                                "id": "ART",
+                                "images": {
+                                    "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/246/dc_sasb_artarch2.jpg",
+                                    "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/246/research_interior_2014_09_18_sasb_art_I45A8037.jpg"
+                                },
+                                "name": "Art & Architecture Collection",
+                                "open": true,
+                                "plan_your_visit": [
+                                    {
+                                        "label": "Plan Your Research Visit",
+                                        "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
+                                    }
+                                ],
+                                "rank": 0,
+                                "room": "300",
+                                "slug": "art-architecture-collection",
+                                "social_media": [
+                                    {
+                                        "href": "https://www.facebook.com/pages/Art-Prints-and-Photographs-Collections-of-the-NYPL/213023842053451",
+                                        "site": "facebook"
+                                    },
+                                    {
+                                        "href": "https://twitter.com/nyplart",
+                                        "site": "twitter"
+                                    },
+                                    {
+                                        "href": "http://www.flickr.com/groups/artsprintsphotographsnypl",
+                                        "site": "flickr"
+                                    },
+                                    {
+                                        "href": "http://artprintsphotographsnypl.tumblr.com/",
+                                        "site": "tumblr"
+                                    }
+                                ],
+                                "synonyms": [],
+                                "terms": [
+                                    {
+                                        "_id": 42,
+                                        "name": "Subjects",
+                                        "terms": [
+                                            {
+                                                "_id": 8013,
+                                                "name": "Architecture"
+                                            },
+                                            {
+                                                "_id": 8042,
+                                                "name": "Art History"
+                                            },
+                                            {
+                                                "_id": 8044,
+                                                "name": "Decorative Arts"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "_links": {
+                                    "alerts": {
+                                        "href": "http://locations.api.nypl.org/divisions/print-collection/alerts"
+                                    },
+                                    "blogs": {
+                                        "all": "http://www.nypl.org/blog/division/",
+                                        "href": "http://locations.api.nypl.org/divisions/print-collection/blogs"
+                                    },
+                                    "concierge": {
+                                        "href": "http://www.nypl.org/ask-nypl/make-appointment-librarian"
+                                    },
+                                    "contact": {
+                                        "href": "http://www.nypl.org/help/email-a-librarian/prints"
+                                    },
+                                    "events": {
+                                        "all": "http://www.nypl.org/events/calendar?location=446",
+                                        "href": "http://locations.api.nypl.org/divisions/print-collection/events"
+                                    },
+                                    "exhibitions": {
+                                        "href": "http://locations.api.nypl.org/divisions/print-collection/exhibitions"
+                                    },
+                                    "on_shelves": {
+                                        "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Print+Collection%22&circ=CIRC|NON%20CIRC"
+                                    },
+                                    "self": {
+                                        "about": "http://www.nypl.org/about/divisions/wallach-division/print-collection",
+                                        "href": "http://locations.api.nypl.org/divisions/print-collection"
+                                    }
+                                },
+                                "about": "The most accessible print room in New York City, the Print Collection of The New York Public Library encompasses a specialized reference collection of over 15,000 volumes on the history of prints and printmakers; artist clipping files; and a collection of close to 200,000 original prints, ranging from woodcuts, engravings, etchings, lithographs, and screenprints to digital prints, covering the history of the art in the West from the 15th century to the present, and Japanese prints from the 10th century to the present. The collection also includes illustrated books, artists\u2019 books, and a small collection of drawings.",
+                                "access": "Fully Accessible",
+                                "contacts": {
+                                    "phone": "(212) 930-0817"
+                                },
+                                "floor": "Third Floor",
+                                "fundraising": {
+                                    "_id": 275290,
+                                    "appeal": "Become a Member",
+                                    "button_label": "Join or Renew",
+                                    "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
+                                    "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+                                },
+                                "hours": {
+                                    "regular": [
+                                        {
+                                            "close": null,
+                                            "day": "Sun",
+                                            "open": null
+                                        },
+                                        {
+                                            "close": null,
+                                            "day": "Mon",
+                                            "open": null
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Tue",
+                                            "open": "13:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Wed",
+                                            "open": "13:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Thu",
+                                            "open": "13:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Fri",
+                                            "open": "13:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Sat",
+                                            "open": "13:00"
+                                        }
+                                    ]
+                                },
+                                "id": "PRN",
+                                "images": {
+                                    "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/446/dc_sasb_print.jpg",
+                                    "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/446/research_interior_2014_10_07_sasb_prints-9420.jpg"
+                                },
+                                "name": "Print Collection",
+                                "open": true,
+                                "plan_your_visit": [
+                                    {
+                                        "label": "Plan Your Research Visit",
+                                        "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
+                                    }
+                                ],
+                                "rank": 1,
+                                "room": "308",
+                                "slug": "print-collection",
+                                "social_media": [
+                                    {
+                                        "href": "https://www.facebook.com/pages/Art-Prints-and-Photographs-Collections-of-the-NYPL/213023842053451",
+                                        "site": "facebook"
+                                    },
+                                    {
+                                        "href": "https://twitter.com/nyplart",
+                                        "site": "twitter"
+                                    },
+                                    {
+                                        "href": "http://www.flickr.com/groups/artsprintsphotographsnypl",
+                                        "site": "flickr"
+                                    },
+                                    {
+                                        "href": "http://artprintsphotographsnypl.tumblr.com/",
+                                        "site": "tumblr"
+                                    }
+                                ],
+                                "synonyms": [],
+                                "terms": [
+                                    {
+                                        "_id": 41,
+                                        "name": "Media",
+                                        "terms": [
+                                            {
+                                                "_id": 8021,
+                                                "name": "Artists' Books"
+                                            },
+                                            {
+                                                "_id": 8028,
+                                                "name": "Prints"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "_id": 42,
+                                        "name": "Subjects",
+                                        "terms": [
+                                            {
+                                                "_id": 8042,
+                                                "name": "Art History"
+                                            },
+                                            {
+                                                "_id": 8046,
+                                                "name": "Prints"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "_links": {
+                                    "alerts": {
+                                        "href": "http://locations.api.nypl.org/divisions/photography-collection/alerts"
+                                    },
+                                    "blogs": {
+                                        "all": "http://www.nypl.org/blog/division/",
+                                        "href": "http://locations.api.nypl.org/divisions/photography-collection/blogs"
+                                    },
+                                    "concierge": {
+                                        "href": "http://www.nypl.org/ask-nypl/make-appointment-librarian"
+                                    },
+                                    "contact": {
+                                        "href": "http://www.nypl.org/help/email-a-librarian/photo"
+                                    },
+                                    "events": {
+                                        "all": "http://www.nypl.org/events/calendar?location=447",
+                                        "href": "http://locations.api.nypl.org/divisions/photography-collection/events"
+                                    },
+                                    "exhibitions": {
+                                        "href": "http://locations.api.nypl.org/divisions/photography-collection/exhibitions"
+                                    },
+                                    "on_shelves": {
+                                        "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Photography+Collection%22&circ=CIRC|NON%20CIRC"
+                                    },
+                                    "self": {
+                                        "about": "http://www.nypl.org/about/divisions/wallach-division/photography-collection",
+                                        "href": "http://locations.api.nypl.org/divisions/photography-collection"
+                                    }
+                                },
+                                "about": "The Photography Collection was created in 1980, when images culled from other NYPL departments and branches were brought together to form a new division that now comprises approximately 500,000 photographs by 6,000 photographers. The Photography Collection encompasses the broadest range of the medium, including images made for commercial, industrial, and scientific application as well as images for the press and other print media, the vernacular of amateur snapshot photography and original works intended for exhibition and/or the art market.",
+                                "access": "Fully Accessible",
+                                "contacts": {
+                                    "fax": "(212) 930-0530",
+                                    "phone": "(212) 930-0837"
+                                },
+                                "floor": "Third Floor",
+                                "fundraising": {
+                                    "_id": 275290,
+                                    "appeal": "Become a Member",
+                                    "button_label": "Join or Renew",
+                                    "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
+                                    "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+                                },
+                                "hours": {
+                                    "regular": [
+                                        {
+                                            "close": null,
+                                            "day": "Sun",
+                                            "open": null
+                                        },
+                                        {
+                                            "close": null,
+                                            "day": "Mon",
+                                            "open": null
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Tue",
+                                            "open": "13:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Wed",
+                                            "open": "13:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Thu",
+                                            "open": "13:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Fri",
+                                            "open": "13:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Sat",
+                                            "open": "13:00"
+                                        }
+                                    ]
+                                },
+                                "id": "PHG",
+                                "images": {
+                                    "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/447/dc_sasb_photo.jpg",
+                                    "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/447/research_interior_2014_09_18_sasb_photo_I45A8068.jpg"
+                                },
+                                "name": "Photography Collection",
+                                "open": true,
+                                "plan_your_visit": [
+                                    {
+                                        "label": "Plan Your Research Visit",
+                                        "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
+                                    }
+                                ],
+                                "rank": 2,
+                                "room": "308",
+                                "slug": "photography-collection",
+                                "social_media": [
+                                    {
+                                        "href": "https://www.facebook.com/pages/Art-Prints-and-Photographs-Collections-of-the-NYPL/213023842053451",
+                                        "site": "facebook"
+                                    },
+                                    {
+                                        "href": "https://twitter.com/nyplart",
+                                        "site": "twitter"
+                                    },
+                                    {
+                                        "href": "https://www.flickr.com/groups/artsprintsphotographsnypl",
+                                        "site": "flickr"
+                                    },
+                                    {
+                                        "href": "http://artprintsphotographsnypl.tumblr.com/",
+                                        "site": "tumblr"
+                                    }
+                                ],
+                                "synonyms": [],
+                                "terms": [
+                                    {
+                                        "_id": 41,
+                                        "name": "Media",
+                                        "terms": [
+                                            {
+                                                "_id": 8027,
+                                                "name": "Photographs"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "_id": 42,
+                                        "name": "Subjects",
+                                        "terms": [
+                                            {
+                                                "_id": 8042,
+                                                "name": "Art History"
+                                            },
+                                            {
+                                                "_id": 8045,
+                                                "name": "Photography"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "_links": {
+                                    "alerts": {
+                                        "href": "http://locations.api.nypl.org/divisions/spencer-collection/alerts"
+                                    },
+                                    "blogs": {
+                                        "all": "http://www.nypl.org/blog/division/",
+                                        "href": "http://locations.api.nypl.org/divisions/spencer-collection/blogs"
+                                    },
+                                    "concierge": {
+                                        "href": "http://www.nypl.org/ask-nypl/make-appointment-librarian"
+                                    },
+                                    "contact": {
+                                        "href": "http://www.nypl.org/help/email-a-librarian/spencer"
+                                    },
+                                    "events": {
+                                        "all": "http://www.nypl.org/events/calendar?location=621",
+                                        "href": "http://locations.api.nypl.org/divisions/spencer-collection/events"
+                                    },
+                                    "exhibitions": {
+                                        "href": "http://locations.api.nypl.org/divisions/spencer-collection/exhibitions"
+                                    },
+                                    "on_shelves": {
+                                        "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Spencer+Collection%22&circ=CIRC|NON%20CIRC"
+                                    },
+                                    "self": {
+                                        "about": "http://www.nypl.org/about/divisions/wallach-division/spencer-collection",
+                                        "href": "http://locations.api.nypl.org/divisions/spencer-collection"
+                                    }
+                                },
+                                "about": "The Spencer Collection surveys the illustrated word and book bindings of all periods and all countries and cultures, from medieval manuscripts, Japanese scrolls, and Indian miniatures to monuments in Renaissance printing, illustration, and binding to contemporary livres d'artistes.",
+                                "access": "Fully Accessible",
+                                "contacts": {
+                                    "fax": "(212) 930-0530",
+                                    "phone": "(212) 930-0817"
+                                },
+                                "floor": "Third Floor",
+                                "fundraising": {
+                                    "_id": 275290,
+                                    "appeal": "Become a Member",
+                                    "button_label": "Join or Renew",
+                                    "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
+                                    "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+                                },
+                                "hours": {
+                                    "regular": [
+                                        {
+                                            "close": null,
+                                            "day": "Sun",
+                                            "open": null
+                                        },
+                                        {
+                                            "close": null,
+                                            "day": "Mon",
+                                            "open": null
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Tue",
+                                            "open": "13:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Wed",
+                                            "open": "13:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Thu",
+                                            "open": "13:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Fri",
+                                            "open": "13:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Sat",
+                                            "open": "13:00"
+                                        }
+                                    ]
+                                },
+                                "id": "SPN",
+                                "images": {
+                                    "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/621/dc_sasb_spencer.jpg",
+                                    "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/621/research_interior_2014_10_07_sasb_spencer-9417.jpg"
+                                },
+                                "name": "Spencer Collection",
+                                "open": true,
+                                "plan_your_visit": [
+                                    {
+                                        "label": "Plan Your Research Visit",
+                                        "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
+                                    }
+                                ],
+                                "rank": 3,
+                                "room": "308",
+                                "slug": "spencer-collection",
+                                "synonyms": [],
+                                "terms": [
+                                    {
+                                        "_id": 41,
+                                        "name": "Media",
+                                        "terms": [
+                                            {
+                                                "_id": 8021,
+                                                "name": "Artists' Books"
+                                            },
+                                            {
+                                                "_id": 8024,
+                                                "name": "Manuscripts"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "_id": 42,
+                                        "name": "Subjects",
+                                        "terms": [
+                                            {
+                                                "_id": 8043,
+                                                "name": "Artists' Books"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
                     "_links": {
                         "alerts": {
                             "href": "http://locations.api.nypl.org/divisions/wallach-division/alerts"
@@ -890,6 +1568,7 @@
                     "about": "Established in 1987 thanks to a gift from the Wallach family, The Miriam and Ira D. Wallach Division of Art, Prints and Photographs unites what had formerly been three separate departments under a single banner. Divisional holdings comprise works of art as well as reference materials on painting, sculpture, drawing, printmaking, photography and the history of architecture from prehistoric times to the present. The Wallach Division also serves as the access point to the Spencer Collection of fine bindings and illustrated books. Together, these collections include more than one million works of art in various mediums and formats, complemented by nearly 700,000 monographs and periodicals. The quality, depth and scope of these holdings have earned the Wallach Division an international reputation among a broad variety of scholars and lovers of art.",
                     "access": "Fully Accessible",
                     "contacts": null,
+                    "cross_street": "",
                     "floor": null,
                     "fundraising": {
                         "_id": 275290,
@@ -897,6 +1576,13 @@
                         "button_label": "Join or Renew",
                         "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
                         "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+                    },
+                    "geolocation": {
+                        "coordinates": [
+                            -73.9822,
+                            40.7532
+                        ],
+                        "type": "Point"
                     },
                     "hours": {
                         "regular": [
@@ -943,33 +1629,57 @@
                         "exterior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/8002/research_interior_2014_09_18_sasb_combo_300_308.jpg",
                         "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/8002/research_interior_2014_09_18_sasb_combo_300_308_0.jpg"
                     },
+                    "locality": "New York",
                     "location_id": "SASB",
                     "name": "The Miriam and Ira D. Wallach Division of Art, Prints and Photographs",
                     "open": true,
                     "plan_your_visit": [
                         {
-                            "label": "Plan Your Research Visit",
-                            "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
-                        },
-                        {
                             "label": "Access Procedures",
                             "url": "http://www.nypl.org/about/divisions/wallach-division/access"
+                        },
+                        {
+                            "label": "Plan Your Research Visit",
+                            "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
                         }
                     ],
+                    "postal_code": "10018",
                     "rank": 1,
+                    "region": "NY",
                     "room": null,
                     "slug": "wallach-division",
-                    "social_media": null,
+                    "social_media": [
+                        {
+                            "href": "https://www.facebook.com/pages/Art-Prints-and-Photographs-Collections-of-the-NYPL/213023842053451",
+                            "site": "facebook"
+                        },
+                        {
+                            "href": "https://twitter.com/nyplart",
+                            "site": "twitter"
+                        },
+                        {
+                            "href": "http://www.flickr.com/groups/artsprintsphotographsnypl",
+                            "site": "flickr"
+                        },
+                        {
+                            "href": "http://artprintsphotographsnypl.tumblr.com/",
+                            "site": "tumblr"
+                        }
+                    ],
+                    "street_address": "Fifth Avenue at 42nd Street",
                     "synonyms": [],
                     "type": "research"
                 },
                 {
+                    "_embedded": {
+                        "alerts": []
+                    },
                     "_links": {
                         "alerts": {
                             "href": "http://locations.api.nypl.org/divisions/manuscripts-division/alerts"
                         },
                         "blogs": {
-                            "all": "http://www.nypl.org/blog/division/5216",
+                            "all": "http://www.nypl.org/blog/division/",
                             "href": "http://locations.api.nypl.org/divisions/manuscripts-division/blogs"
                         },
                         "concierge": {
@@ -1002,6 +1712,7 @@
                         },
                         "phone": "(212) 930-0801"
                     },
+                    "cross_street": "",
                     "floor": "Third Floor",
                     "fundraising": {
                         "_id": 275290,
@@ -1009,6 +1720,13 @@
                         "button_label": "Join or Renew",
                         "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
                         "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+                    },
+                    "geolocation": {
+                        "coordinates": [
+                            -73.9822,
+                            40.7532
+                        ],
+                        "type": "Point"
                     },
                     "hours": {
                         "regular": [
@@ -1054,6 +1772,7 @@
                         "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/443/dc_sasb_manuscripts2.jpg",
                         "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/443/research_interior_2014_09_18_sasb_manuscripts_8019.jpg"
                     },
+                    "locality": "New York",
                     "location_id": "SASB",
                     "name": "Manuscripts and Archives Division",
                     "open": true,
@@ -1071,7 +1790,9 @@
                             "url": "http://www.nypl.org/node/275508"
                         }
                     ],
+                    "postal_code": "10018",
                     "rank": 2,
+                    "region": "NY",
                     "room": "328",
                     "slug": "manuscripts-division",
                     "social_media": [
@@ -1080,6 +1801,7 @@
                             "site": "twitter"
                         }
                     ],
+                    "street_address": "Fifth Avenue at 42nd Street",
                     "synonyms": [],
                     "terms": [
                         {
@@ -1091,6 +1813,10 @@
                                     "name": "Archives"
                                 },
                                 {
+                                    "id": 8020,
+                                    "name": "Art & Artifacts"
+                                },
+                                {
                                     "id": 8022,
                                     "name": "Film & Video"
                                 },
@@ -1099,8 +1825,16 @@
                                     "name": "Manuscripts"
                                 },
                                 {
+                                    "id": 8025,
+                                    "name": "Maps"
+                                },
+                                {
                                     "id": 8027,
                                     "name": "Photographs"
+                                },
+                                {
+                                    "id": 8031,
+                                    "name": "Sound Recordings"
                                 }
                             ]
                         },
@@ -1109,8 +1843,24 @@
                             "name": "Subjects",
                             "terms": [
                                 {
+                                    "id": 8013,
+                                    "name": "Architecture"
+                                },
+                                {
+                                    "id": 8033,
+                                    "name": "Business & Finance"
+                                },
+                                {
                                     "id": 8039,
                                     "name": "Literature"
+                                },
+                                {
+                                    "id": 8042,
+                                    "name": "Art History"
+                                },
+                                {
+                                    "id": 8045,
+                                    "name": "Photography"
                                 },
                                 {
                                     "id": 8053,
@@ -1121,24 +1871,68 @@
                                     "name": "Genealogy"
                                 },
                                 {
+                                    "id": 8056,
+                                    "name": "Maps"
+                                },
+                                {
                                     "id": 8057,
                                     "name": "New York City History"
+                                },
+                                {
+                                    "id": 8058,
+                                    "name": "Slavery & Abolition"
                                 },
                                 {
                                     "id": 8059,
                                     "name": "U.S. History"
                                 },
                                 {
+                                    "id": 8060,
+                                    "name": "World History"
+                                },
+                                {
+                                    "id": 8065,
+                                    "name": "Jewish Studies"
+                                },
+                                {
+                                    "id": 8066,
+                                    "name": "Latin American Studies"
+                                },
+                                {
+                                    "id": 8068,
+                                    "name": "Slavic & Baltic Studies"
+                                },
+                                {
+                                    "id": 8070,
+                                    "name": "European Studies"
+                                },
+                                {
+                                    "id": 8074,
+                                    "name": "Theatre"
+                                },
+                                {
                                     "id": 8077,
                                     "name": "Politics & Government"
+                                },
+                                {
+                                    "id": 8080,
+                                    "name": "Children's Literature"
+                                },
+                                {
+                                    "id": 8081,
+                                    "name": "Culinary Studies"
                                 },
                                 {
                                     "id": 8082,
                                     "name": "Gay & Lesbian Studies"
                                 },
                                 {
-                                    "id": 8084,
-                                    "name": "Popular Culture"
+                                    "id": 8083,
+                                    "name": "Native American Studies"
+                                },
+                                {
+                                    "id": 8085,
+                                    "name": "Sports"
                                 },
                                 {
                                     "id": 8086,
@@ -1150,12 +1944,15 @@
                     "type": "research"
                 },
                 {
+                    "_embedded": {
+                        "alerts": []
+                    },
                     "_links": {
                         "alerts": {
                             "href": "http://locations.api.nypl.org/divisions/milstein/alerts"
                         },
                         "blogs": {
-                            "all": "http://www.nypl.org/blog/division/5218",
+                            "all": "http://www.nypl.org/blog/division/",
                             "href": "http://locations.api.nypl.org/divisions/milstein/blogs"
                         },
                         "concierge": {
@@ -1188,6 +1985,7 @@
                         },
                         "phone": "(212) 930-0828"
                     },
+                    "cross_street": "",
                     "floor": "First Floor",
                     "fundraising": {
                         "_id": 275290,
@@ -1195,6 +1993,13 @@
                         "button_label": "Join or Renew",
                         "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
                         "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+                    },
+                    "geolocation": {
+                        "coordinates": [
+                            -73.9822,
+                            40.7532
+                        ],
+                        "type": "Point"
                     },
                     "hours": {
                         "regular": [
@@ -1240,14 +2045,11 @@
                         "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/176/dc_sasb_milstein.jpg",
                         "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/176/research_interior_2014_09_18_sasb_history_I45A7976.jpg"
                     },
+                    "locality": "New York",
                     "location_id": "SASB",
                     "name": "Irma and Paul Milstein Division of United States History, Local History and Genealogy",
                     "open": true,
                     "plan_your_visit": [
-                        {
-                            "label": "Plan Your Research Visit",
-                            "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
-                        },
                         {
                             "label": "Access Procedures",
                             "url": "http://www.nypl.org/about/divisions/milstein/access"
@@ -1259,9 +2061,15 @@
                         {
                             "label": "Internet Resources",
                             "url": "http://www.nypl.org/about/divisions/milstein/internet-resources"
+                        },
+                        {
+                            "label": "Plan Your Research Visit",
+                            "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
                         }
                     ],
+                    "postal_code": "10018",
                     "rank": 3,
+                    "region": "NY",
                     "room": "121",
                     "slug": "milstein",
                     "social_media": [
@@ -1278,6 +2086,7 @@
                             "site": "flickr"
                         }
                     ],
+                    "street_address": "Fifth Avenue at 42nd Street",
                     "synonyms": [],
                     "terms": [
                         {
@@ -1303,10 +2112,6 @@
                                     "name": "Genealogy"
                                 },
                                 {
-                                    "id": 8055,
-                                    "name": "Immigration & Migration"
-                                },
-                                {
                                     "id": 8057,
                                     "name": "New York City History"
                                 },
@@ -1320,12 +2125,15 @@
                     "type": "research"
                 },
                 {
+                    "_embedded": {
+                        "alerts": []
+                    },
                     "_links": {
                         "alerts": {
                             "href": "http://locations.api.nypl.org/divisions/jewish-division/alerts"
                         },
                         "blogs": {
-                            "all": "http://www.nypl.org/blog/division/5214",
+                            "all": "http://www.nypl.org/blog/division/",
                             "href": "http://locations.api.nypl.org/divisions/jewish-division/blogs"
                         },
                         "concierge": {
@@ -1359,6 +2167,7 @@
                         },
                         "phone": "(212) 930-0601"
                     },
+                    "cross_street": "",
                     "floor": "First Floor",
                     "fundraising": {
                         "_id": 275290,
@@ -1366,6 +2175,13 @@
                         "button_label": "Join or Renew",
                         "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
                         "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+                    },
+                    "geolocation": {
+                        "coordinates": [
+                            -73.9822,
+                            40.7532
+                        ],
+                        "type": "Point"
                     },
                     "hours": {
                         "regular": [
@@ -1408,23 +2224,26 @@
                     },
                     "id": "JWS",
                     "images": {
-                        "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/177/dc_sasb_dorot.jpg",
+                        "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/177/dc_sasb_dorot_0.jpg",
                         "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/177/research_interior_2014_09_18_sasb_jewish_I45A7970.jpg"
                     },
+                    "locality": "New York",
                     "location_id": "SASB",
                     "name": "Dorot Jewish Division",
                     "open": true,
                     "plan_your_visit": [
                         {
-                            "label": "Plan Your Research Visit",
-                            "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
-                        },
-                        {
                             "label": "How to Find Hebrew Books",
                             "url": "http://www.nypl.org/about/divisions/jewish-division/access"
+                        },
+                        {
+                            "label": "Plan Your Research Visit",
+                            "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
                         }
                     ],
+                    "postal_code": "10018",
                     "rank": 4,
+                    "region": "NY",
                     "room": "111",
                     "slug": "jewish-division",
                     "social_media": [
@@ -1433,6 +2252,7 @@
                             "site": "facebook"
                         }
                     ],
+                    "street_address": "Fifth Avenue at 42nd Street",
                     "synonyms": [],
                     "terms": [
                         {
@@ -1467,12 +2287,15 @@
                     "type": "research"
                 },
                 {
+                    "_embedded": {
+                        "alerts": []
+                    },
                     "_links": {
                         "alerts": {
                             "href": "http://locations.api.nypl.org/divisions/map-division/alerts"
                         },
                         "blogs": {
-                            "all": "http://www.nypl.org/blog/division/5217",
+                            "all": "http://www.nypl.org/blog/division/",
                             "href": "http://locations.api.nypl.org/divisions/map-division/blogs"
                         },
                         "concierge": {
@@ -1505,6 +2328,7 @@
                         },
                         "phone": "(212) 930-0587"
                     },
+                    "cross_street": "",
                     "floor": "First Floor",
                     "fundraising": {
                         "_id": 275290,
@@ -1512,6 +2336,13 @@
                         "button_label": "Join or Renew",
                         "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
                         "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+                    },
+                    "geolocation": {
+                        "coordinates": [
+                            -73.9822,
+                            40.7532
+                        ],
+                        "type": "Point"
                     },
                     "hours": {
                         "regular": [
@@ -1557,6 +2388,7 @@
                         "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/175/dc_sasb_maps2.jpg",
                         "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/175/research_interior_2014_09_18_sasb_map_1049.jpg"
                     },
+                    "locality": "New York",
                     "location_id": "SASB",
                     "name": "Lionel Pincus and Princess Firyal Map Division",
                     "open": true,
@@ -1566,7 +2398,9 @@
                             "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
                         }
                     ],
+                    "postal_code": "10018",
                     "rank": 5,
+                    "region": "NY",
                     "room": "117",
                     "slug": "map-division",
                     "social_media": [
@@ -1587,6 +2421,7 @@
                             "site": "tumblr"
                         }
                     ],
+                    "street_address": "Fifth Avenue at 42nd Street",
                     "synonyms": [],
                     "terms": [
                         {
@@ -1606,6 +2441,18 @@
                                 {
                                     "id": 8056,
                                     "name": "Maps"
+                                },
+                                {
+                                    "id": 8057,
+                                    "name": "New York City History"
+                                },
+                                {
+                                    "id": 8059,
+                                    "name": "U.S. History"
+                                },
+                                {
+                                    "id": 8060,
+                                    "name": "World History"
                                 }
                             ]
                         }
@@ -1613,12 +2460,129 @@
                     "type": "research"
                 },
                 {
+                    "_embedded": {
+                        "alerts": [],
+                        "divisions": [
+                            {
+                                "_links": {
+                                    "alerts": {
+                                        "href": "http://locations.api.nypl.org/divisions/arents-collection/alerts"
+                                    },
+                                    "blogs": {
+                                        "all": "http://www.nypl.org/blog/division/",
+                                        "href": "http://locations.api.nypl.org/divisions/arents-collection/blogs"
+                                    },
+                                    "concierge": {
+                                        "href": "http://www.nypl.org/help/email-a-librarian/rare-books-division"
+                                    },
+                                    "contact": {
+                                        "href": "http://www.nypl.org/help/email-a-librarian/rare-books-division"
+                                    },
+                                    "events": {
+                                        "all": "http://www.nypl.org/events/calendar?location=444",
+                                        "href": "http://locations.api.nypl.org/divisions/arents-collection/events"
+                                    },
+                                    "exhibitions": {
+                                        "href": "http://locations.api.nypl.org/divisions/arents-collection/exhibitions"
+                                    },
+                                    "on_shelves": {
+                                        "href": "http://nypl.bibliocommons.com/search?custom_query=available%3A%22Arents+Collection%22&circ=CIRC|NON%20CIRC"
+                                    },
+                                    "self": {
+                                        "about": "http://www.nypl.org/about/divisions/rare-books-division/arents-collection",
+                                        "href": "http://locations.api.nypl.org/divisions/arents-collection"
+                                    }
+                                },
+                                "about": "The George Arents Collection comprises two distinct groupings of materials under a single umbrella. The first portion of the collection, the Arents Tobacco Collection, constitutes the largest and most comprehensive library in the world devoted to the history, literature, and lore of tobacco. The collection contains both printed and manuscript works\u2014as well as prints, drawings, and ephemera\u2014dating from 1507 to the present, representing Continental Europe, England, and the Americas. ",
+                                "access": "Fully Accessible",
+                                "contacts": {
+                                    "fax": "(212) 302-4815",
+                                    "phone": "(212) 642-0110"
+                                },
+                                "floor": "Third Floor",
+                                "fundraising": {
+                                    "_id": 275290,
+                                    "appeal": "Become a Member",
+                                    "button_label": "Join or Renew",
+                                    "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
+                                    "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+                                },
+                                "hours": {
+                                    "regular": [
+                                        {
+                                            "close": null,
+                                            "day": "Sun",
+                                            "open": null
+                                        },
+                                        {
+                                            "close": null,
+                                            "day": "Mon",
+                                            "open": null
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Tue",
+                                            "open": "10:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Wed",
+                                            "open": "10:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Thu",
+                                            "open": "10:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Fri",
+                                            "open": "10:00"
+                                        },
+                                        {
+                                            "close": "17:45",
+                                            "day": "Sat",
+                                            "open": "10:00"
+                                        }
+                                    ]
+                                },
+                                "id": "ARN",
+                                "images": {
+                                    "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/444/dc_sasb_arents.jpg",
+                                    "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/444/research_interior_2014_09_18_sasb_arents_8012.jpg"
+                                },
+                                "name": "George Arents Collection",
+                                "open": true,
+                                "plan_your_visit": null,
+                                "rank": 0,
+                                "room": "328",
+                                "slug": "arents-collection",
+                                "synonyms": [],
+                                "terms": [
+                                    {
+                                        "_id": 42,
+                                        "name": "Subjects",
+                                        "terms": [
+                                            {
+                                                "_id": 8039,
+                                                "name": "Literature"
+                                            },
+                                            {
+                                                "_id": 8059,
+                                                "name": "U.S. History"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
                     "_links": {
                         "alerts": {
                             "href": "http://locations.api.nypl.org/divisions/rare-books-division/alerts"
                         },
                         "blogs": {
-                            "all": "http://www.nypl.org/blog/division/5222",
+                            "all": "http://www.nypl.org/blog/division/",
                             "href": "http://locations.api.nypl.org/divisions/rare-books-division/blogs"
                         },
                         "concierge": {
@@ -1652,6 +2616,7 @@
                         },
                         "phone": "(212) 642-0110"
                     },
+                    "cross_street": "",
                     "floor": "Third Floor",
                     "fundraising": {
                         "_id": 275290,
@@ -1659,6 +2624,13 @@
                         "button_label": "Join or Renew",
                         "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
                         "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+                    },
+                    "geolocation": {
+                        "coordinates": [
+                            -73.9822,
+                            40.7532
+                        ],
+                        "type": "Point"
                     },
                     "hours": {
                         "regular": [
@@ -1704,14 +2676,18 @@
                         "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/445/dc_sasb_rarebooks2.jpg",
                         "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/445/research_interior_2014_09_18_sasb_rarebooks_I45A8003.jpg"
                     },
+                    "locality": "New York",
                     "location_id": "SASB",
                     "name": "Rare Book Division",
                     "open": true,
                     "plan_your_visit": null,
+                    "postal_code": "10018",
                     "rank": 7,
+                    "region": "NY",
                     "room": "328",
                     "slug": "rare-books-division",
                     "social_media": null,
+                    "street_address": "Fifth Avenue at 42nd Street",
                     "synonyms": [],
                     "terms": [
                         {
@@ -1741,6 +2717,14 @@
                                     "name": "Religion"
                                 },
                                 {
+                                    "id": 8056,
+                                    "name": "Maps"
+                                },
+                                {
+                                    "id": 8057,
+                                    "name": "New York City History"
+                                },
+                                {
                                     "id": 8059,
                                     "name": "U.S. History"
                                 },
@@ -1749,16 +2733,16 @@
                                     "name": "Latin American Studies"
                                 },
                                 {
+                                    "id": 8068,
+                                    "name": "Slavic & Baltic Studies"
+                                },
+                                {
                                     "id": 8080,
                                     "name": "Children's Literature"
                                 },
                                 {
                                     "id": 8081,
                                     "name": "Culinary Studies"
-                                },
-                                {
-                                    "id": 8084,
-                                    "name": "Popular Culture"
                                 }
                             ]
                         }
@@ -1766,12 +2750,15 @@
                     "type": "research"
                 },
                 {
+                    "_embedded": {
+                        "alerts": []
+                    },
                     "_links": {
                         "alerts": {
                             "href": "http://locations.api.nypl.org/divisions/berg-collection-english-and-american-literature/alerts"
                         },
                         "blogs": {
-                            "all": "http://www.nypl.org/blog/division/5213",
+                            "all": "http://www.nypl.org/blog/division/",
                             "href": "http://locations.api.nypl.org/divisions/berg-collection-english-and-american-literature/blogs"
                         },
                         "concierge": {
@@ -1804,6 +2791,7 @@
                         },
                         "phone": "(212) 930-0802"
                     },
+                    "cross_street": "",
                     "floor": "Third Floor",
                     "fundraising": {
                         "_id": 275290,
@@ -1811,6 +2799,13 @@
                         "button_label": "Join or Renew",
                         "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
                         "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+                    },
+                    "geolocation": {
+                        "coordinates": [
+                            -73.9822,
+                            40.7532
+                        ],
+                        "type": "Point"
                     },
                     "hours": {
                         "regular": [
@@ -1856,23 +2851,27 @@
                         "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/199/dc_sasb_berg.jpg",
                         "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/199/research_interior_2014_09_18_sasb_berg_I45A8437.jpg"
                     },
+                    "locality": "New York",
                     "location_id": "SASB",
                     "name": "Henry W. and Albert A. Berg Collection of English and American Literature",
                     "open": true,
                     "plan_your_visit": [
                         {
-                            "label": "Plan Your Research Visit",
-                            "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
-                        },
-                        {
                             "label": "Access Procedures",
                             "url": "http://www.nypl.org/about/divisions/berg-collection-english-and-american-literature/access"
+                        },
+                        {
+                            "label": "Plan Your Research Visit",
+                            "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
                         }
                     ],
+                    "postal_code": "10018",
                     "rank": 8,
+                    "region": "NY",
                     "room": "320",
                     "slug": "berg-collection-english-and-american-literature",
                     "social_media": null,
+                    "street_address": "Fifth Avenue at 42nd Street",
                     "synonyms": [],
                     "terms": [
                         {
@@ -1907,12 +2906,15 @@
                     "type": "research"
                 },
                 {
+                    "_embedded": {
+                        "alerts": []
+                    },
                     "_links": {
                         "alerts": {
                             "href": "http://locations.api.nypl.org/divisions/pforzheimer-collection-shelley-and-his-circle/alerts"
                         },
                         "blogs": {
-                            "all": "http://www.nypl.org/blog/division/5219",
+                            "all": "http://www.nypl.org/blog/division/",
                             "href": "http://locations.api.nypl.org/divisions/pforzheimer-collection-shelley-and-his-circle/blogs"
                         },
                         "concierge": {
@@ -1945,6 +2947,7 @@
                         },
                         "phone": "(212) 930-0717"
                     },
+                    "cross_street": "",
                     "floor": "Third Floor",
                     "fundraising": {
                         "_id": 275290,
@@ -1952,6 +2955,13 @@
                         "button_label": "Join or Renew",
                         "link": "https://secure3.convio.net/nypl/site/SPageServer?pagename=branch_friend_form&s_src=FRQ15ZZ_CADN",
                         "statement": "Friends of the Library can support their favorite library and receive great benefits!"
+                    },
+                    "geolocation": {
+                        "coordinates": [
+                            -73.9822,
+                            40.7532
+                        ],
+                        "type": "Point"
                     },
                     "hours": {
                         "regular": [
@@ -1997,23 +3007,27 @@
                         "collection_item": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/198/dc_sasb_pforzheimer_0.jpg",
                         "interior": "http://cdn-prod.www.aws.nypl.org/sites/default/files/images/locations/198/research_interior_2014_09_18_sasb_pforzheimer_I45A8082_0.jpg"
                     },
+                    "locality": "New York",
                     "location_id": "SASB",
                     "name": "Carl H. Pforzheimer Collection of Shelley and His Circle",
                     "open": true,
                     "plan_your_visit": [
                         {
-                            "label": "Plan Your Research Visit",
-                            "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
-                        },
-                        {
                             "label": "Access Procedures",
                             "url": "http://www.nypl.org/about/divisions/pforzheimer-collection-shelley-and-his-circle/access"
+                        },
+                        {
+                            "label": "Plan Your Research Visit",
+                            "url": "http://www.nypl.org/about/locations/using-the-library/plan-your-research-visit"
                         }
                     ],
+                    "postal_code": "10018",
                     "rank": 9,
+                    "region": "NY",
                     "room": "319",
                     "slug": "pforzheimer-collection-shelley-and-his-circle",
                     "social_media": null,
+                    "street_address": "Fifth Avenue at 42nd Street",
                     "synonyms": [],
                     "terms": [
                         {
@@ -2048,116 +3062,113 @@
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2015/01/23/book-buddies-book-discussion-group"
+                            "href": "http://www.nypl.org/events/programs/2015/03/02/docent-led-tours-public-eye-175-years-sharing-photography-0"
                         }
                     },
-                    "body": "A regular discussion of great children's books in a fun and informal setting.  For kids between the ages of 7-9 reading independently on a 3rd-4th grade level.  This month children can read any book from Jon Scieszka's Time Warp Trio series.  Take a trip back in time or into the future with Joe, Sam and Fred.  \n\nPlease email us at childrenscenter42@nypl.org if you would like to get added to our Book Buddies mailing list.",
-                    "end": "2015-01-23T22:30:00Z",
-                    "id": 281215,
-                    "image": "http://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=NYPL49807&password=CC68707&Value=0142411779&content=M&Return=1&Type=M",
-                    "registration": null,
-                    "start": "2015-01-23T21:30:00Z",
-                    "status": {
-                        "label": null,
-                        "status": true
-                    },
-                    "title": "Book Buddies! Book Discussion Group: Time Warp Trio"
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/events/programs/2015/01/24/family-read-aloud"
-                        }
-                    },
-                    "body": "A librarian will share favorite picture books, providing children with the wonder of books and the joy of reading.  For children ages 3-8.",
-                    "end": "2015-01-24T17:00:00Z",
-                    "id": 281633,
+                    "body": "Join a 45 minute docent led tour of the \u201cPublic Eye, 175 Years of Sharing Photography\u201d exhibition.   Meet at Gottesman Exhibition Hall entrance.  There is no charge.",
+                    "end": "2015-03-17T20:15:00Z",
+                    "id": 290008,
                     "image": null,
                     "registration": null,
-                    "start": "2015-01-24T16:30:00Z",
+                    "start": "2015-03-17T19:30:00Z",
                     "status": {
                         "label": null,
                         "status": true
                     },
-                    "title": "Family Read Aloud"
+                    "title": "Docent Led Tours for \"Public Eye, 175 Years of Sharing Photography\""
                 },
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2015/01/24/insects-and-arachnids"
+                            "href": "http://www.nypl.org/events/programs/2015/03/17/preschool-storytime"
                         }
                     },
-                    "body": "Many people don't realize just how amazing insects can be! Did you know that insects can provide food? Did you know that insects are the largest grouping of animals we have? Come learn what makes an insect an insect by identifying certain species. We will also explore their relatives, the arachnids, to discover what's similar or different. Through the use of multimedia presentations and live ambassador animals, participants can understand the benefit of insects and spiders in our world. Recommended for children ages 5 and older.",
-                    "end": "2015-01-24T20:00:00Z",
-                    "id": 280113,
+                    "body": "Stories, songs and participation activities for children ages 3-5.",
+                    "end": "2015-03-17T20:30:00Z",
+                    "id": 281200,
                     "image": null,
                     "registration": null,
-                    "start": "2015-01-24T20:00:00Z",
+                    "start": "2015-03-17T20:00:00Z",
                     "status": {
                         "label": null,
                         "status": true
                     },
-                    "title": "Insects and Arachnids"
+                    "title": "Preschool Storytime"
                 },
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2015/01/25/family-read-aloud"
+                            "href": "http://www.nypl.org/events/programs/2015/03/17/tilden-visit-new-york-historical-society"
                         }
                     },
-                    "body": "A librarian will share favorite picture books, providing children with the wonder of books and the joy of reading.  For children ages 3-8.",
-                    "end": "2015-01-25T20:30:00Z",
-                    "id": 275747,
+                    "body": "Tilden Conservators are invited to a private tour of \"Audubon\u2019s Aviary: The Complete Flock,\" showcasing the masterpieces of John James Audubon and now on view at The New-York Historical Society. Considered America\u2019s first great watercolorist, the legendary naturalist-artist rendered his birds in unparalleled life-size scale. This is the third installment of a tripartite exhibition, exploring Audubon\u2019s dazzling watercolors in the order in which they were engraved.\n\t\n\tTuesday, March 17, 2015\n\t6:30 p.m.\n\tRSVP Required: conservators@nypl.org\n\t\n\tHosted by the Conservators program. This event...",
+                    "end": "2015-03-18T00:00:00Z",
+                    "id": 287476,
                     "image": null,
                     "registration": null,
-                    "start": "2015-01-25T20:00:00Z",
+                    "start": "2015-03-17T22:30:00Z",
                     "status": {
                         "label": null,
                         "status": true
                     },
-                    "title": "Family Read Aloud"
+                    "title": "Tilden Visit to the New-York Historical Society"
                 },
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/programs/2015/01/26/baby-laptime-pre-walkers-birth-12-months"
+                            "href": "http://www.nypl.org/events/programs/2015/03/18/frank-bruni"
                         }
                     },
-                    "body": "Babies from birth to 12 months old (pre-walkers) and their parents/caregivers can enjoy great books, lively songs, and rhymes, and meet other babies in the neighborhood.  Space is limited.  Tickets are given out on a first come, first served basis.",
-                    "end": "2015-01-26T16:45:00Z",
-                    "id": 275707,
+                    "body": "Frank Bruni comes to Books at Noon to discuss his latest work, Where You Go Is Not Who You\u2019ll Be: An Antidote to the College Admissions Mania.\n\nFrank Bruni, an Op-Ed columnist for The New York Times since June 2011, joined the newspaper in 1995, and has been both a White House correspondent and the chief restaurant critic. In his columns, which appear every Sunday and Wednesday, he reflects on diverse topics: American politics, higher education, violence in football, gay rights and his own life as a gay man in a close-knit family. He is the author of two New York Times best-sellers: a 2009...",
+                    "end": "2015-03-18T17:00:00Z",
+                    "id": 287702,
+                    "image": null,
+                    "registration": null,
+                    "start": "2015-03-18T16:00:00Z",
+                    "status": {
+                        "label": null,
+                        "status": true
+                    },
+                    "title": "Frank Bruni"
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/events/programs/2015/03/02/docent-led-tours-public-eye-175-years-sharing-photography"
+                        }
+                    },
+                    "body": "Join a 45 minute docent led tour of the \" Public Eye, 175 Years of Sharing Photography\" exhibition.   Meet at Gotessman Exhibition Hall entrance.  There is no charge.",
+                    "end": "2015-03-18T17:15:00Z",
+                    "id": 290004,
+                    "image": null,
+                    "registration": null,
+                    "start": "2015-03-18T16:30:00Z",
+                    "status": {
+                        "label": null,
+                        "status": true
+                    },
+                    "title": "Docent Led Tours for \"Public Eye, 175 Years of Sharing Photography\""
+                },
+                {
+                    "_links": {
+                        "self": {
+                            "href": "http://www.nypl.org/events/programs/2015/03/18/toddler-crafternoon"
+                        }
+                    },
+                    "body": "Stories and a simple art activity for children ages 18-36 months with parent/caregiver.  Registration begins 3/11/15.",
+                    "end": "2015-03-18T18:30:00Z",
+                    "id": 281225,
                     "image": null,
                     "registration": {
-                        "start": "2015-01-26T16:15:00Z",
-                        "type": "First come, first served"
+                        "start": "2015-03-18T18:30:00Z",
+                        "type": "Phone or in-person"
                     },
-                    "start": "2015-01-26T16:15:00Z",
+                    "start": "2015-03-18T18:30:00Z",
                     "status": {
                         "label": null,
                         "status": true
                     },
-                    "title": "Baby Laptime for Pre-Walkers (birth to 12 months)"
-                },
-                {
-                    "_links": {
-                        "self": {
-                            "href": "http://www.nypl.org/events/programs/2015/01/26/new-walkers-storytime-12-17-months"
-                        }
-                    },
-                    "body": "Babies from 12-17 months old (walking with assistance) and their parents/caregivers can enjoy great books, lively songs, and rhymes, and meet other babies in the neighborhood.  Space is limited.  Tickets are given out on a first come, first served basis.\n\nPlease note:  Children that are walking independently should attend our toddler program on Thursday mornings.",
-                    "end": "2015-01-26T18:45:00Z",
-                    "id": 275728,
-                    "image": null,
-                    "registration": {
-                        "start": "2015-01-26T18:15:00Z",
-                        "type": "First come, first served"
-                    },
-                    "start": "2015-01-26T18:15:00Z",
-                    "status": {
-                        "label": null,
-                        "status": true
-                    },
-                    "title": "New Walkers Storytime (12-17 months)"
+                    "title": "Toddler Crafternoon"
                 }
             ],
             "exhibitions": [
@@ -2181,7 +3192,7 @@
                         }
                     },
                     "body": "Drawing from collections across The New York Public Library, Over Here: WWI and the Fight for the American Mind explores the manner in which public relations, propaganda, and mass media in its many forms were used to shape and control public opinion about the war while also noting social and political issues that continue to resonate, such as freedom of speech and the press, xenophobia, and domestic espionage.",
-                    "end": "2015-08-16T00:00:00Z",
+                    "end": "2015-08-15T00:00:00Z",
                     "id": 263151,
                     "image": null,
                     "start": "2014-07-28T00:00:00Z",
@@ -2190,15 +3201,15 @@
                 {
                     "_links": {
                         "self": {
-                            "href": "http://www.nypl.org/events/exhibitions/sublime-prints-j-m-w-turner-and-thomas-moran-1"
+                            "href": "http://www.nypl.org/events/exhibitions/public-eye"
                         }
                     },
-                    "body": "Sublime: The Prints of J. M. W. Turner and Thomas Moran showcases the landscapes of two innovative contemporaries, both of whom sought to evoke qualities of the sublime through their expressive depictions of nature. Shown in adjoining galleries, the exhibition offers an unprecedented opportunity to experience side by side the British and American artists\u2019 often complementary and sometimes divergent works.",
-                    "end": "2015-02-15T00:00:00Z",
-                    "id": 271145,
+                    "body": "Thanks to the development of new technology and social media, more photographs are created, viewed, and shared today than ever before. Public Eye, the first-ever retrospective survey of photography organized by NYPL, takes advantage of this moment to reframe the way we look at photographs from the past. Ranging from photography\u2019s official announcement in 1839 to manifestations of its current pervasiveness, this landmark exhibition, drawn entirely from the Library\u2019s collections, explores the various ways in which photography has been shared and made public.",
+                    "end": "2016-01-03T00:00:00Z",
+                    "id": 277542,
                     "image": null,
-                    "start": "2014-10-17T00:00:00Z",
-                    "title": "Sublime: The Prints of J. M. W. Turner and Thomas Moran"
+                    "start": "2014-12-12T00:00:00Z",
+                    "title": "Public Eye: 175 Years of Sharing Photography"
                 }
             ],
             "features": [
@@ -2291,7 +3302,7 @@
                 "href": "http://www.nypl.org/ask-nypl/make-appointment-sasb"
             },
             "contact": {
-                "href": "http://www.nypl.org/help/email-a-librarian/sasb"
+                "href": "http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm?institution=13306&type=1&language=1"
             },
             "events": {
                 "all": "http://www.nypl.org/events/calendar?location=36",
@@ -2334,11 +3345,6 @@
             "type": "Point"
         },
         "hours": {
-            "exceptions": {
-                "description": "The Rose Main Reading Room and the Bill Blass Public Catalog Room in the Stephen A. Schwarzman Building are temporarily closed.  General Research Division (GRD) onsite materials are still available for use; we encourage you to submit requests in advance via our <a href=\"http://www.questionpoint.org/crs/servlet/org.oclc.admin.BuildForm;jsessionid=7B8D22D69482BCDDAE43913EA5B374C3?&institution=13777&type=1&language=1&qphost=qpap01pxdu.prod.oclc.org&\">online form</a>. The <a href=\"http://catalog.nypl.org/\">Classic Catalog</a> may be used for offsite requests, which will be available for pickup in Room 217. More information is available on the <a href=\"http://www.nypl.org/readingroomupdate\">updates page</a>.<br><br>The Library\u2019s Gottesman Exhibition Hall, which currently houses the \u201cPublic Eye: 175 Years of Sharing Photography\u201d exhibition, is temporarily closed. More information is available on the <a href=\"http://www.nypl.org/events/exhibitions/public-eye\">exhibition page</a>.</p>",
-                "end": "2015-01-24T00:00:00-05:00",
-                "start": "2015-01-23T14:15:58-05:00"
-            },
             "regular": [
                 {
                     "close": "17:00",
@@ -2429,7 +3435,7 @@
         "type": "research"
     },
     "response": {
-        "api_version": 0.6,
+        "api_version": 0.7,
         "count": 1,
         "limit": 1,
         "offset": 0,
