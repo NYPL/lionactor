@@ -60,7 +60,7 @@ module Lionactor
         return JSON.parse response.body
       end
       err = JSON.parse response.body
-      raise ResponseError.new err['developerMessage']
+      raise ResponseError.new err['developerMessage'], response.status
     end
     
     def api_path(path)
