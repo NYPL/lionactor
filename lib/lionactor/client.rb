@@ -1,6 +1,6 @@
 module Lionactor
   class Client
-    def initialize(api="http://locations.api.nypl.org/api/v0.7.1")
+    def initialize(api="https://refinery.nypl.org/api/nypl/locations/v1.0")
       @api = api
       @conn = Faraday.new
     end
@@ -51,7 +51,7 @@ module Lionactor
         Lionactor::Term.new(t, @client)
       end
     end
-      
+
 
     protected
     def get_endpoint(path)
@@ -62,7 +62,7 @@ module Lionactor
       err = JSON.parse response.body
       raise ResponseError.new err['developerMessage'], response.status
     end
-    
+
     def api_path(path)
       return "#{@api}/#{path}"
     end
